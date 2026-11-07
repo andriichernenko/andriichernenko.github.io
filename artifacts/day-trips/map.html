@@ -16,7 +16,8 @@ body { margin:0; font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Robot
 .pin .pin-ic { transform:rotate(45deg); width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-size:14px; line-height:1; }
 .pin.home { width:32px; height:32px; }
 .pin.home .pin-ic { font-size:16px; }
-.leaflet-control-layers { max-height:60vh; overflow:auto; }
+.kchip { display:inline-flex; align-items:center; gap:4px; background:rgba(255,255,255,.18); border-radius:999px; padding:2px 9px; cursor:pointer; font-size:.85rem; }
+.kchip input { margin:0; accent-color:#fff; }
 .leaflet-top.leaflet-right { top:56px; }
 @media (max-width:640px) { .leaflet-top.leaflet-right { top:118px; } }
 .leaflet-control-layers label { display:flex; align-items:center; gap:6px; white-space:nowrap; }
@@ -25,7 +26,7 @@ body { margin:0; font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Robot
 </style>
 </head>
 <body>
-<div class="bar"><strong>Map:</strong> <select id="sel"><option value="all">All 72 locations + Home</option></select>
+<div class="bar"><strong>Map:</strong> <select id="sel"><option value="all">All 72 locations + Home</option></select> <span id="kindbar"></span>
 <span>from the <a href="https://andrii.ch/artifacts/day-trips/">guide</a> · <a href="locations.kml">KML for Google My Maps / Earth</a> · tiles © OpenStreetMap</span></div>
 <div id="map" style="margin-top:40px; height:calc(100vh - 40px);"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -46,7 +47,8 @@ for (const k of Object.keys(itin)) {
   sel.appendChild(o);
 }
 function icon(kind) {
-  const k = kind === 'home' ? HOMEK : KINDS[kind[0]] || KINDS['3'];
+  const K = {}; for (const [px, kk] of Object.entries(KINDS)) K[kk.key] = kk;
+  const k = kind === 'home' ? HOMEK : (K[kind] || K['food']);
   const sz = kind === 'home' ? 32 : 28;
   return L.divIcon({ className: '', html: '<div class="pin' + (kind === 'home' ? ' home' : '') + '" style="background:' + k.color + '"><span class="pin-ic">' + k.emoji + '</span></div>', iconSize: [sz, sz], iconAnchor: [sz / 2, sz - 1] });
 }
@@ -66,11 +68,19 @@ L.marker([HOME.lat, HOME.lon], { icon: icon('home') }).addTo(homeLayer)
   .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a>');
 layers['home'] = homeLayer;
 
-const overlays = {};
-for (const [prefix, k] of Object.entries(KINDS)) overlays['<span class="ldot" style="background:' + k.color + '"></span> ' + k.emoji + ' ' + k.label + ' (' + pts.filter(p => p.kind === k.key).length + ')'] = layers[k.key];
-overlays['<span class="ldot" style="background:' + HOMEK.color + '"></span> ' + HOMEK.emoji + ' Home'] = homeLayer;
 for (const k of Object.keys(layers)) map.addLayer(layers[k]);
-L.control.layers(null, overlays, { collapsed: false, position: 'topright' }).addTo(map);
+// kind toggle chips in the header bar (short: emoji + count, full name in tooltip)
+const kb = document.getElementById('kindbar');
+function chip(key, k, cnt) {
+  const l = document.createElement('label');
+  l.className = 'kchip'; l.title = k.label;
+  l.innerHTML = '<input type="checkbox" id="kcb-' + key + '" checked> <span class="ldot" style="background:' + k.color + '"></span>' + k.emoji + ' ' + cnt;
+  l.querySelector('input').onchange = e => { e.target.checked ? map.addLayer(layers[key]) : map.removeLayer(layers[key]); };
+  kb.appendChild(l);
+}
+for (const [px, k] of Object.entries(KINDS)) chip(k.key, k, pts.filter(p => p.kind === k.key).length);
+chip('home', HOMEK, 1);
+function syncChips() { for (const k of Object.keys(layers)) { const cb = document.getElementById('kcb-' + k); if (cb) cb.checked = map.hasLayer(layers[k]); } }
 
 let itinLayer = null;
 function show(key) {
@@ -91,6 +101,7 @@ function show(key) {
     itinLayer.addTo(map);
     map.fitBounds(bounds, { padding: [30, 30] });
   }
+  syncChips();
 }
 sel.onchange = () => show(sel.value);
 const q = new URLSearchParams(location.search).get('i');
