@@ -98,7 +98,7 @@ winter); Upplandsleden stage 11 passes nearby. Parking at Gimo herrgård.
 **Drive:** ~55–60 min, ~80 km via väg 76 to Gimo (or E4 + väg 288).
 
 **November caveats:** outdoor walks always open (allemansrätten, verified via naturkartan); the herrgård
-interior/hotel restaurant is a separate stop (see §3.10). The damm is summer-only.
+interior/hotel restaurant is a separate stop (see §3.11). The damm is summer-only.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=60.178311,18.173202) · [geo:](geo:60.178311,18.173202) — Gimo herrgård parking
 
@@ -288,7 +288,7 @@ canal, medieval Trosa kyrka, Garvaregården open-air museum by the square.
 **Drive:** ~70 min, ~74 km via E4 south + väg 219.
 
 **November caveats:** town always accessible, but off-season — several summer restaurants closed
-(e.g. Trosa Sjökrog) and others Fri–Sun only (see §3.9). **Trosa julmarknad, Sun 29 Nov 2026 (1st Advent),
+(e.g. Trosa Sjökrog) and others Fri–Sun only (see §3.10). **Trosa julmarknad, Sun 29 Nov 2026 (1st Advent),
 10:00–15:00**, Trosa Torg/Garvaregården (verified). Tourist office winter hours not verified.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=58.895934,17.547115) · [geo:](geo:58.895934,17.547115) — Trosa Torg
@@ -450,7 +450,23 @@ closed until summer 2027** — pair with a Nynäs reserve walk (§1.9).
 
 **Source:** [nynasrokeri.se — öppettider](https://www.nynasrokeri.se/oppetider), [nynasrokeri.se — Kökeriet](https://www.nynasrokeri.se/kokeriet/)
 
-### 3.7 Taxinge-Näsby slott ("Kakslottet") — cake buffet, julmarknad and julbord (**Fri–Sun only**)
+### 3.7 Restaurang Kroken — harbour bistro dinner & julbord in Nynäshamn (**open all winter**)
+**What:** Family-run bistro in the red wooden houses right by Nynäshamn's gästhamn (Fiskargränd 8, ~30 m
+from Kökeriet §3.6): seasonal à la carte, daily lunch, after-work, beer from the local Ångbryggeriet;
+traditional skärgårdsjulbord by the harbour.
+
+**Drive:** ~50 min, ~55–60 km via väg 73.
+
+**November caveats (verified on the current kontakt/aktuellt pages):** open 7 days a week — **Sat à la
+carte 12:00–22:00, Sun 12:00–21:00**, Fri lunch 11:00–14:00 + dinner 17:00–22:00 (note: Fri 4 Dec lunch
+ends 12:30). **Julbord from Fri 27 Nov 2026** — book ahead (groups over 8 by email). Cashless. This is the
+weekend *dinner* option when Kökeriet (lunch-only, closes 15:00–16:00) is shut.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=58.900500,17.951782) · [geo:](geo:58.900500,17.951782) — Fiskargränd 8, Nynäshamns gästhamn
+
+**Source:** [restaurangkroken.se — kontakt/öppettider](https://restaurangkroken.se/kontakta-oss/), [julbord 2026](https://restaurangkroken.se/event/julbord-2026/), [aktuellt](https://restaurangkroken.se/aktuellt/)
+
+### 3.8 Taxinge-Näsby slott ("Kakslottet") — cake buffet, julmarknad and julbord (**Fri–Sun only**)
 **What:** 17th–19th c. castle on a peninsula in Gripsholmsviken run as a café with "the Nordic region's
 largest cake buffet" (~65 homemade cakes/breads, pay per item) plus smörgåsar and light dishes, served
 in the castle library or park.
@@ -466,7 +482,7 @@ weekend; sittings via the booking page). Plan a Fri–Sun visit.
 
 **Source:** [taxingeslott.se — öppettider](https://www.taxingeslott.se/oppettider/), [taxingeslott.se — slottscafé](https://www.taxingeslott.se/slottscafe/), [nykvarn.com — julbord](https://www.nykvarn.com/)
 
-### 3.8 Mel's Garage — 1950s diner café in Enköping (**open daily**)
+### 3.9 Mel's Garage — 1950s diner café in Enköping (**open daily**)
 **What:** Retro 50s-style diner café and ice-cream bar by the classic-car hall, a stone's throw from
 Enköping station.
 
@@ -479,7 +495,7 @@ Sat 09–16, Sun 10–16; holiday deviations posted on mels.se. Pair with Enköp
 
 **Source:** [mels.se](https://www.mels.se/)
 
-### 3.9 Kölsvinet, Trosa guest harbour — wood-fired pizza by the quay (**Fri–Sun only**)
+### 3.10 Kölsvinet, Trosa guest harbour — wood-fired pizza by the quay (**Fri–Sun only**)
 **What:** Harbour-front restaurant/bar in Trosa gästhamn: wood-oven Neapolitan pizza, fish/seafood,
 terrace on the pontoons; lunch, dinner, events.
 
@@ -493,7 +509,7 @@ julmarknad 29 Nov). Trosa Sjökrog is closed for the season after September.
 
 **Source:** [kolsvinet.se](https://www.kolsvinet.se/), [trosa.com — open all year](https://trosa.com/en/eat-drink/open-all-year/), [trosasjokrog.se — öppettider](https://www.trosasjokrog.se/oppettider/)
 
-### 3.10 Gimo herrgård — manor hotel restaurant (**open all winter**; julbord)
+### 3.11 Gimo herrgård — manor hotel restaurant (**open all winter**; julbord)
 **What:** Manor hotel/restaurant by the old bruk in Gimo: lunch and dinner in historic surroundings.
 
 **Drive:** ~70 min, ~110 km via E4 north + väg 288 toward Gimo (or väg 76).
@@ -507,7 +523,7 @@ recommended. **Julbord Wed–Sun 22 Nov – 22 Dec 2026** (~595 kr; weekend sitt
 
 **Source:** [gimoherrgard.se — hotellinformation](https://www.gimoherrgard.se/hotellinformation/), [gimoherrgard.se — julbord](https://www.gimoherrgard.se/mat-dryck/julbord/)
 
-### 3.11 Söderfors herrgård — restaurant by the Dalälven (**open all winter**; julbord)
+### 3.12 Söderfors herrgård — restaurant by the Dalälven (**open all winter**; julbord)
 **What:** Restaurant in a 1690s manor hall by the Dalälven (baroque ceiling paintings): lunch, dinner
 and Sunday menu; spa/hotel; the "Potatisbunkern" cellar pub.
 
@@ -522,7 +538,7 @@ weekend sittings included. Combine with the Engelska parken walk (§1.7).
 
 **Source:** [soderforsherrgard.se — restaurang](https://www.soderforsherrgard.se/restaurang/), [soderforsherrgard.se — julbord](https://www.soderforsherrgard.se/evenemang/julbord-pa-soderfors-herrgard)
 
-### 3.12 Söderköpings Brunn — Sweden's oldest spa hotel, Sunday julbord (**open**; restaurant closed Sundays)
+### 3.13 Söderköpings Brunn — Sweden's oldest spa hotel, Sunday julbord (**open**; restaurant closed Sundays)
 **What:** Kurhotel since 1774 in Söderköping: lunch and à la carte in historic rooms; spa.
 
 **Drive:** ~85 min, ~125 km via E4 south → Norrköping → väg 210/209 (at the 1.5 h edge — leave early).
@@ -597,11 +613,11 @@ Drive ~75 min. **Sörmlands museum + Nyköpingshus/Kungstornet have FREE entry a
 Nov**; museum Tue–Sun 10:00–17:00, Kungstornet Sun 10:00–16:00. Lunch at the museum café. Ticket otherwise
 80 kr covers both sites.
 
-### I3. Sat 28 – Sun 29 Nov — Enköping: traditional julmarknad + museum + lunch (§2.5, §3.8)
+### I3. Sat 28 – Sun 29 Nov — Enköping: traditional julmarknad + museum + lunch (§2.5, §3.9)
 Drive ~57 min. **Julmarknad on Stora torget/Kaplanen Sat 10–16, Sun 11–16** (free); Enköpings museum
 Sat–Sun 11:00–15:00; lunch at **Mel's Garage** (open daily; Sat 09:00–16:00).
 
-### I4. Sun 29 Nov — Trosa Advent market + harbour lunch (§2.8, §3.9)
+### I4. Sun 29 Nov — Trosa Advent market + harbour lunch (§2.8, §3.10)
 Drive ~70 min. **Trosa julmarknad 10:00–15:00** at Trosa Torg/Garvaregården, town stroll, then lunch at
 **Kölsvinet** in the guest harbour (open Fri–Sun, 11:00–21:00).
 
@@ -616,13 +632,13 @@ fee); **julbord 27 Nov – 20 Dec** — book a Sat/Sun sitting.
 
 ### I7. Weekend morning hike + smokehouse lunch — Torö/Ören + Nynäshamn (§1.8, §3.6)
 Drive ~60 min to Torö (Ören NR, south tip — coastal walk), then down to Nynäshamn for lunch at
-**Kökeriet** (Sat 11:30–16:00, Sun 11:30–15:00). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
+**Kökeriet** (Sat 11:30–16:00, Sun 11:30–15:00); for dinner, **Restaurang Kroken** next door is open Sat 12:00–22:00, Sun 12:00–21:00 (§3.7). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
 
-### I8. Weekend julbord evenings (book ahead) (§3.1, §3.2, §3.7, §3.10, §3.11, §3.12)
+### I8. Weekend julbord evenings (book ahead) (§3.1, §3.2, §3.7, §3.8, §3.11, §3.12, §3.13)
 Weekend sittings within 1.5 h: **Rosersbergs Slottshotell** Sat–Sun lunch 13:00 (895 kr) or Sat evening
 17:30/19:30, 27 Nov–19 Dec · **Bommersvik** Sat/Sun, Thu–Sun 26 Nov–19 Dec, 795 kr · **Taxinge-Näsby**
 Sat/Sun sittings, 27 Nov–20 Dec · **Gimo herrgård** Sat–Sun dinner, 22 Nov–22 Dec · **Söderfors
-herrgård** Sat/Sun, 27 Nov–20 Dec · **Söderköpings Brunn** Sunday julbord only, 22 Nov–20 Dec.
+herrgård** Sat/Sun, 27 Nov–20 Dec · **Söderköpings Brunn** Sunday julbord only, 22 Nov–20 Dec · **Restaurang Kroken** (Nynäshamn) from Fri 27 Nov, weekends included (§3.7).
 
 ### I9. Sat 12 Dec — Sala: mine tour + Lucia julmarknad (§2.12)
 Drive ~90 min (leave early). Book a **Sala silvergruva** tour (daily; 155 m down), then the **Lucia
