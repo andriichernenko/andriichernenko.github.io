@@ -54,7 +54,7 @@ function icon(kind) {
   return L.divIcon({ className: '', html: '<div class="pin' + (kind === 'home' ? ' home' : '') + '" style="background:' + k.color + '"><span class="pin-ic">' + k.emoji + '</span></div>', iconSize: [sz, sz], iconAnchor: [sz / 2, sz - 1] });
 }
 function popup(p) {
-  return '<strong>' + p.label + '</strong><br><a href="' + GUIDE + '#' + p.slug + '">Guide entry</a> · <a href="https://www.google.com/maps?q=' + p.lat + ',' + p.lon + '" target="_blank" rel="noopener">Google Maps</a>';
+  return '<strong>' + p.label + '</strong><br><a href="' + GUIDE + '#' + p.slug + '">Guide entry</a> · <a href="https://www.google.com/maps?q=' + p.lat + ',' + p.lon + '" target="_blank" rel="noopener">Google Maps</a> · <a href="geo:' + p.lat + ',' + p.lon + '">geo:</a>';
 }
 
 // one layer group per kind + home
@@ -66,7 +66,7 @@ for (const [prefix, k] of Object.entries(KINDS)) {
 }
 const homeLayer = L.layerGroup();
 L.marker([HOME.lat, HOME.lon], { icon: icon('home') }).addTo(homeLayer)
-  .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a>', { offset: [0, -32] });
+  .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a> · <a href="geo:59.305701,18.0351886">geo:</a>', { offset: [0, -32] });
 layers['home'] = homeLayer;
 
 for (const k of Object.keys(layers)) map.addLayer(layers[k]);
@@ -98,7 +98,7 @@ function show(key) {
       L.marker([p.lat, p.lon], { icon: icon(p.kind) }).addTo(itinLayer).bindPopup(popup(p), { offset: [0, -28] });
     }
     L.marker([HOME.lat, HOME.lon], { icon: icon('home') }).addTo(itinLayer)
-      .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a>', { offset: [0, -32] });
+      .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a> · <a href="geo:59.305701,18.0351886">geo:</a>', { offset: [0, -32] });
     itinLayer.addTo(map);
     map.fitBounds(bounds, { padding: [30, 30] });
   }
