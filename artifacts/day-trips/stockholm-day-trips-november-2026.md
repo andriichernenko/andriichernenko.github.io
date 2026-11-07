@@ -128,7 +128,7 @@ parking lots.
 **November caveats:** reserve open 24/7 (verified); park only in designated lots; **no open fires** in
 Ören (allmänt eldningsförbud in the reserve per kommun); exposed and windy — spikes recommended.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.801900,17.688700) · [geo:](geo:58.801900,17.688700) — Ören NR, Torö's south tip
+**Links:** [Google Maps](https://www.google.com/maps?q=58.802722,17.806849) · [geo:](geo:58.802722,17.806849) — Ören NR / Torö stenstrand, Torö's south tip
 
 **Source:** [nynäshamn.se — Torö och Ören](https://www.nynas.se/uppleva/skargard--batliv/toro-och-oren), [naturkartan.se](https://www.naturkartan.se/)
 
@@ -156,7 +156,7 @@ shore, motionsspår; Albert Engström's studio/gården (seasonal museum).
 **November caveats:** coastal paths open year-round; museum, shops and cafés are seasonal — verify
 before relying on them. Exposed seafront: cold and windy in November.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.102200,18.801200) · [geo:](geo:60.102200,18.801200) — Grisslehamn harbour
+**Links:** [Google Maps](https://www.google.com/maps?q=60.099772,18.812831) · [geo:](geo:60.099772,18.812831) — Grisslehamn harbour / färjeläge
 
 **Source:** [norrtalje.se](https://www.norrtalje.se/), [sv.wikipedia.org — Grisslehamn](https://sv.wikipedia.org/wiki/Grisslehamn)
 
