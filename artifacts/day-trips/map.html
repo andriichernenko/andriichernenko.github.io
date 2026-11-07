@@ -41,6 +41,7 @@ const map = L.map('map', { zoomControl: false }).setView([59.45, 17.6], 8);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
 
 const bySlug = Object.fromEntries(pts.map(p => [p.slug, p]));
+const markerBySlug = {};
 const sel = document.getElementById('sel');
 for (const k of Object.keys(itin)) {
   const o = document.createElement('option'); o.value = k; o.textContent = k + ' — ' + itin[k].title.replace(/\[[^\]]*\]\([^)]*\)/g, '').replace(/\(§[^)]*\)/g, '').replace(/^I\d+.\s*/, '').trim().slice(0, 38);
@@ -60,7 +61,7 @@ function popup(p) {
 const layers = {};
 for (const [prefix, k] of Object.entries(KINDS)) {
   const g = L.layerGroup();
-  for (const p of pts.filter(p => p.kind === k.key)) L.marker([p.lat, p.lon], { icon: icon(k.key) }).addTo(g).bindPopup(popup(p), { offset: [0, -28] });
+  for (const p of pts.filter(p => p.kind === k.key)) { const mk = L.marker([p.lat, p.lon], { icon: icon(k.key) }).addTo(g).bindPopup(popup(p), { offset: [0, -28] }); markerBySlug[p.slug] = mk; }
   layers[k.key] = g;
 }
 const homeLayer = L.layerGroup();
@@ -104,10 +105,12 @@ function show(key) {
   syncChips();
 }
 sel.onchange = () => show(sel.value);
+const qp = new URLSearchParams(location.search).get('p');
 const q = new URLSearchParams(location.search).get('i');
 if (q && itin[q]) sel.value = q;
 show(sel.value);
 if (sel.value === 'all') map.fitBounds([[58.7, 16.4], [60.4, 19.1]]);
+if (qp && markerBySlug[qp]) { const p = bySlug[qp]; map.setView([p.lat, p.lon], 12); markerBySlug[qp].openPopup(); }
 </script>
 </body>
 </html>
