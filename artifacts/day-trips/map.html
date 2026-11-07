@@ -11,7 +11,7 @@ body { margin:0; font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Robot
 #map { height:100vh; }
 .bar { position:fixed; top:0; left:0; right:0; z-index:1000; background:#0b5fff; color:#fff; padding:8px 14px; font-size:.88rem; display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
 .bar a { color:#fff; }
-.bar select { font-size:.88rem; padding:3px 6px; max-width:60vw; }
+.bar select { font-size:.85rem; padding:3px 6px; max-width:46vw; }
 .pin { width:28px; height:28px; border:2px solid #fff; border-radius:50% 50% 50% 0; transform:rotate(-45deg); box-shadow:1px 2px 4px rgba(0,0,0,.4); }
 .pin .pin-ic { transform:rotate(45deg); width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-size:14px; line-height:1; }
 .pin.home { width:32px; height:32px; }
@@ -43,7 +43,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, att
 const bySlug = Object.fromEntries(pts.map(p => [p.slug, p]));
 const sel = document.getElementById('sel');
 for (const k of Object.keys(itin)) {
-  const o = document.createElement('option'); o.value = k; o.textContent = k + ' — ' + itin[k].title.replace(/^I\d+.\s*/, '').slice(0, 60);
+  const o = document.createElement('option'); o.value = k; o.textContent = k + ' — ' + itin[k].title.replace(/\[[^\]]*\]\([^)]*\)/g, '').replace(/\(§[^)]*\)/g, '').replace(/^I\d+.\s*/, '').trim().slice(0, 38);
   sel.appendChild(o);
 }
 function icon(kind) {
