@@ -5,8 +5,8 @@ of late autumn. One main destination per day — no multi-stop loops. The guide 
 what matters is whether a place is open on **Sat–Sun**; weekday-only service is flagged. Entries in each
 section are sorted by driving time, shortest first; headings note whether the destination is **open all
 winter** or **partly closed** in November–December. Opening hours were checked on official sites on
-**2026-11-07**; anything that could not be verified is listed at the end. All 36 locations + a Home pin (Sjöviksvägen 81) on one map:
-[interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml). Each itinerary below also has its own map view.
+**2026-11-07**; anything that could not be verified is listed at the end. All 35 locations on one map:
+[interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml).
 
 ## Daylight in November–December 2026
 
@@ -33,6 +33,7 @@ paths muddy; no lighting after dark.
 
 **Source:** [länsstyrelsen.se — Östra Järvafältet](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/ostra-jarvafaltet.html), [länsstyrelsen.se — Västra Järvafältet](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/vastra-jarvafaltet.html)
 
+
 ### 1.2 Angarnssjöängen — the classic bird lake (**open all winter**)
 **What:** Premier birding lake (250+ species); the ~7 km Sjöängsslingan loops the lake on boardwalks,
 with fågeltorn (bird towers) and the Midsommarberget viewpoint. Main entrance/parking at Örsta
@@ -46,6 +47,7 @@ no lighting after dark. Best birding is dawn–midday.
 **Links:** [Google Maps](https://www.google.com/maps?q=59.538917,18.150240) · [geo:](geo:59.538917,18.150240) — Entré Örsta parking
 
 **Source:** [länsstyrelsen.se — Angarnssjöängen](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/angarnssjoangen.html), [naturkartan.se — parkering vid Örsta](https://www.naturkartan.se/en/stockholms-lan/parkering-vid-orsta)
+
 
 ### 1.3 Paradiset — forest, lakes and a historic torp (**open all winter**)
 **What:** Paradiset-Hanveden, a large forest reserve in Huddinge's southern tip: old-growth patches,
@@ -61,6 +63,7 @@ Sundays in winter** (reopens March) — bring your own fika. Headlamp recommende
 **Links:** [Google Maps](https://www.google.com/maps?q=59.159899,18.046202) · [geo:](geo:59.159899,18.046202) — Entré Paradiset main parking
 
 **Source:** [naturkartan.se — Entré Paradiset](https://www.naturkartan.se/sv/stockholms-lan/entre-paradiset-paradisets-naturreservat), [länsstyrelsen.se — Paradiset](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/paradiset.html), [paradiset-hanveden.se](https://paradiset-hanveden.se/)
+
 
 ### 1.4 Bogesundslandet — peninsula hiking and a castle (**open all winter**)
 **What:** 28.9 km² peninsula (half of Vaxholm kommun), a reserve since 2015, with marked
@@ -78,6 +81,7 @@ residence, grounds open. Rocky shores icy — bring spikes; wind off Stora Värt
 
 **Source:** [länsstyrelsen.se — Bogesundslandet](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/bogesundslandet.html), [bogesundsslott.se](https://bogesundsslott.se/slottet-idag)
 
+
 ### 1.5 Örbyhus slott park — castle by Vendelsjön (**park open all winter**)
 **What:** 15th-century castle on Vendelsjön surrounded by a lush park; the park and grounds are the
 November attraction — the castle interior is private/event-only.
@@ -91,6 +95,7 @@ drop-in (no November tours verified). Short daylight; unlit paths.
 
 **Source:** [orbyhusslott.se — parkerna](https://www.orbyhusslott.se/parkerna), [tierp.se](https://www.tierp.se/)
 
+
 ### 1.6 Gimo bruk — ironworks village and mill pond (**open all winter**)
 **What:** Bruk village around Gimo herrgård and Gimo damm (bathing spot in summer, forest walks in
 winter); Upplandsleden stage 11 passes nearby. Parking at Gimo herrgård.
@@ -98,11 +103,12 @@ winter); Upplandsleden stage 11 passes nearby. Parking at Gimo herrgård.
 **Drive:** ~55–60 min, ~80 km via väg 76 to Gimo (or E4 + väg 288).
 
 **November caveats:** outdoor walks always open (allemansrätten, verified via naturkartan); the herrgård
-interior/hotel restaurant is a separate stop (see §3.11). The damm is summer-only.
+interior/hotel restaurant is a separate stop (see §3.12). The damm is summer-only.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=60.178311,18.173202) · [geo:](geo:60.178311,18.173202) — Gimo herrgård parking
 
 **Source:** [naturkartan.se — Parkering, Gimo herrgård](https://www.naturkartan.se/en/uppsala-lan/parkering-gimo-herrgard), [gimoherrgard.se](https://www.gimoherrgard.se/)
+
 
 ### 1.7 Söderfors bruk & Engelska parken — riverside park with the Greek temple (**open all winter**)
 **What:** "The living bruk" by the Dalälven; the **Engelska parken** with the Greek temple (Grekiska
@@ -117,6 +123,7 @@ operating — stay on marked paths. Cold by the Dalälven in November.
 
 **Source:** [länsstyrelsen.se — Engelska parken i Söderfors bruk](https://www.lansstyrelsen.se/uppsala/besoksmal/kulturmiljoer/engelska-parken-i-soderfors-bruk.html), [tierp.se — vandring](https://www.tierp.se/), [soderforsherrgard.se](https://www.soderforsherrgard.se/)
 
+
 ### 1.8 Torö & Ören — coastal island walks by road bridge (**open all winter**)
 **What:** Torö, an island reached by a fixed road bridge (open year-round), with the Ören nature
 reserve at its southern tip: Torö stenstrand, open-sea views toward Landsort, several signed free
@@ -130,6 +137,7 @@ spikes recommended.
 **Links:** [Google Maps](https://www.google.com/maps?q=58.802722,17.806849) · [geo:](geo:58.802722,17.806849) — Ören NR / Torö stenstrand, Torö's south tip
 
 **Source:** [nynäshamn.se — Torö och Ören](https://www.nynas.se/uppleva/skargard--batliv/toro-och-oren), [naturkartan.se](https://www.naturkartan.se/)
+
 
 ### 1.9 Nynäs — manor park and coastal trails (**open all winter**; castle closed)
 **What:** Nynäs slott by Rundbosjön surrounded by the 3,830 ha Nynäs naturreservat — pastures, hollow
@@ -146,6 +154,7 @@ be muddy; dark from ~15:00 in late November.
 
 **Source:** [nynasslott.se — besöksinformation](https://nynasslott.se/besoksinformation/), [sormlandsmuseum.se — Nynäs slott](https://sormlandsmuseum.se/besoksinfo/nynas-slott/)
 
+
 ### 1.10 Grisslehamn — archipelago village at the end of Roslagsleden (**open all winter**)
 **What:** Small archipelago port at the end of väg 76/Roslagsleden: harbour, coastal path along the
 shore, motionsspår; Albert Engström's studio/gården (seasonal museum).
@@ -159,7 +168,22 @@ before relying on them. Exposed seafront: cold and windy in November.
 
 **Source:** [norrtalje.se](https://www.norrtalje.se/), [sv.wikipedia.org — Grisslehamn](https://sv.wikipedia.org/wiki/Grisslehamn)
 
-### 1.11 Femöre — coastal cliffs and a closed Cold War fort (**open all winter**; fort closed)
+
+### 1.11 Väddö prästgårds naturreservat — small forest reserve on Väddö (**open all winter**)
+**What:** 19 ha reserve on western Väddö (SE of Edeby), protected 2021: wet conifer forest with rich moss
+flora, the former grazed utmark of Väddö prästgård. No marked loop inside the reserve — combine with a
+walk on the Roslagen coast (Roslagsleden passes Gåsvik nearby).
+
+**Drive:** ~1 h 10–20 min, ~103 km via E18 → väg 76 → väg 283 toward Grisslehamn/Väddö.
+
+**November caveats:** open year-round and free (verified, länsstyrelsen). No constructed parking — 1–2
+spaces at the info board on Sörgårdsvägen ("Prästgårdsleden"); muddy in November.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=60.003556,18.832889) · [geo:](geo:60.003556,18.832889) — info-board parking, Sörgårdsvägen
+
+**Source:** [länsstyrelsen.se — Väddö prästgård](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/vaddo-prastgard.html), [sv.wikipedia.org](https://sv.wikipedia.org/wiki/V%C3%A4dd%C3%B6_pr%C3%A4stg%C3%A5rds_naturreservat)
+
+### 1.12 Femöre — coastal cliffs and a closed Cold War fort (**open all winter**; fort closed)
 **What:** 235 ha peninsula reserve south of Oxelösund: cliffs, sea-buckthorn, coastal pine forest;
 Sörmlandsleden's "Femöre runt" loops it. Under Femörehuvud sits **Femörefortet**, an intact 1966–2003
 coastal artillery battery.
@@ -177,6 +201,7 @@ trust the ice in Femörekanalen.
 
 ---
 
+
 ## 2. Towns & castles
 
 ### 2.1 Rosersbergs slott — royal palace and park (**park open all winter**; interior closed)
@@ -193,6 +218,7 @@ year-round** — go midday, paths unlit. The Slottshotell restaurant/café is a 
 
 **Source:** [kungligaslotten.se — Rosersbergs slott öppettider](https://www.kungligaslotten.se/vara-besoksmal/rosersbergs-slott/oppettider.html), [rosersbergsslott.se](https://www.rosersbergsslott.se/)
 
+
 ### 2.2 Bålsta — Lions julmarknad on 2nd Advent (**open all winter**)
 **What:** Håbo kommun's centre by Lake Mälaren; a compact town centre with shops, cafés and restaurants
 around the centrum, ~15 min from Skoklosters slott.
@@ -207,7 +233,24 @@ through the centre 13 Dec 13:00. Venue-level winter hours not verified.
 
 **Source:** [balstacentrum.se — Jul i Bålsta centrum](https://balstacentrum.se/jul-i-balsta-centrum/)
 
-### 2.3 Steninge slottsby — manor park, shops, Advent markets (**open all winter**)
+
+### 2.3 Torekällberget open-air museum, Södertälje (**grounds open all winter**; buildings seasonal)
+**What:** Södertälje's open-air museum on Torekällberget: 1800s town and countryside environments with
+heritage farm animals. In November the grounds are the attraction — the indoor café and museum houses are
+closed for the season.
+
+**Drive:** ~40 min, ~35 km via E4/E20.
+
+**November caveats (verified, sodertalje.se):** grounds open **daily 06:30–21:00, free entry** year-round.
+**Jul på 1800-talet julmarknad 6–7 Dec 2026** (current kommun news; an older release said 27 Nov & 4 Dec —
+re-check the event page). Pair with Tom Tits Experiment next door (indoor science centre, house 10:00–17:00,
+entry 210–255 kr; the outdoor experiment park is closed in November — verify weekend days on tomtit.se).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.192889,17.612740) · [geo:](geo:59.192889,17.612740) — Torekällberget, Kvarnbacken 8
+
+**Source:** [sodertalje.se — öppettider](https://www.sodertalje.se/), [tomtit.se](https://www.tomtit.se/)
+
+### 2.4 Steninge slottsby — manor park, shops, Advent markets (**open all winter**)
 **What:** Late-17th-century manor (Tessin the Elder) by Lake Mälaren near Märsta. Castle interior is
 private year-round, but the **slottspark is open daily 12:00–16:30**; around it Steninge slottsby with
 Stenladan shops and Restaurang Steninge Bruk (§3.5).
@@ -222,7 +265,8 @@ shops otherwise Mon–Fri 11:00–18:00, Sat–Sun 10:00–17:00. Park closes 16
 
 **Source:** [steningeslottsby.se — Jul i Steninge slottsby](https://steningeslottsby.se/fira-jul-i-steninge-slottsby/), [julmarknad.nu — Steninge slottsby](https://www.julmarknad.nu/event/julmarknad-steninge-slottsby/), [steningebruk.se](https://www.steningebruk.se/)
 
-### 2.4 Skoklosters slott — castle and Advent julmarknad (**julmarknad 28–29/11 only**)
+
+### 2.5 Skoklosters slott — castle and Advent julmarknad (**julmarknad 28–29/11 only**)
 **What:** 17th-century castle on Lake Mälaren (one of the royal palaces); in November the castle
 interior is closed to drop-in (summer tours), but the **julmarknad on 28–29 Nov 2026, 11:00–16:00**
 draws the season — market free, winter castle tour 95 kr.
@@ -236,7 +280,8 @@ the park/grounds remain walkable. Market weekends can be crowded — arrive befo
 
 **Source:** [skoklostersslott.se](https://www.skoklostersslott.se/), [bygdeband.se — julmarknader](https://bygdeband.se/julmarknader/)
 
-### 2.5 Enköping — "Pepparrotsstaden" and a traditional julmarknad (**open all winter**)
+
+### 2.6 Enköping — "Pepparrotsstaden" and a traditional julmarknad (**open all winter**)
 **What:** Small city with Stora torget, the museum in a 1780s köpmansgård and old wooden quarters
 (Kaplanen, Rådhusgatan).
 
@@ -251,7 +296,8 @@ for 2026.
 
 **Source:** [enkoping.se — museum öppettider](https://www.enkoping.se/fritid-och-kultur/museum/oppettider-och-entreavgifter.html), [lionsenkoping.se — julmarknad](https://www.lionsenkoping.se/)
 
-### 2.6 Strängnäs — cathedral city on Lake Mälaren (**open all winter**)
+
+### 2.7 Strängnäs — cathedral city on Lake Mälaren (**open all winter**)
 **What:** Domkyrkan (one of Sweden's largest, richly decorated), cobbled stadskärna around Stortorget
 and Gripsholmsvägen, Mekanikus museum.
 
@@ -265,7 +311,8 @@ Dark early in November.
 
 **Source:** [svenskakyrkan.se — Strängnäs domkyrka](https://www.svenskakyrkan.se/strangnasstift/), [mittstrangnas.se — julmarknad](https://www.mittstrangnas.se/)
 
-### 2.7 Västerås + Anundshög — city winter and Sweden's largest burial mound (**open all winter**)
+
+### 2.8 Västerås + Anundshög — city winter and Sweden's largest burial mound (**open all winter**)
 **What:** Västerås: domkyrka, slott, Stora torget (winter ice rink when open). **Anundshög** ~10 min
 away: Sweden's largest tumulus plus Iron-Age grave field, free to explore; Café Anundshög open
 Tue–Sun 10:00–16:00 in the winter half-year.
@@ -281,21 +328,49 @@ Ice-rink opening date 2026 not verified.
 
 **Source:** [vasterascity.com — julmarknad 2026](https://www.vasterascity.com/julmarknad-2026), [anundshog.se](https://www.anundshog.se/), [visitvasteras.se — julmarknader](https://www.visitvasteras.se/julmarknader)
 
-### 2.8 Trosa — wooden town with an Advent julmarknad (**open all winter**)
+
+### 2.9 Arsenalen — Sweden's military vehicle museum, Härad (**open Wed–Sun**)
+**What:** Sveriges försvarsfordonsmuseum in large halls by Härad (E20 exit 135, ~7 km west of Strängnäs):
+tanks, trucks, artillery and other vehicles.
+
+**Drive:** ~1 h 05 min, ~100 km via E20.
+
+**November caveats (verified, arsenalen.se):** open **Wed–Sun 11:00–16:00** (closed Mon–Tue); entry 140 kr
+adult (pensionär 100 kr, youth 12–17 70 kr, child 3–11 50 kr). Combine with Strängnäs town and domkyrka (§2.7).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.367378,16.930581) · [geo:](geo:59.367378,16.930581) — Arsenalen, Härad
+
+**Source:** [arsenalen.se — öppettider och priser](https://www.arsenalen.se/besok-oss/oppettider-och-priser/)
+
+### 2.10 Trosa — wooden town with an Advent julmarknad (**open all winter**)
 **What:** Small town at the mouth of Trosaån: Trosa Torg, Västra/Östra Långgatan, the old harbour and
 canal, medieval Trosa kyrka, Garvaregården open-air museum by the square.
 
 **Drive:** ~70 min, ~74 km via E4 south + väg 219.
 
 **November caveats:** town always accessible, but off-season — several summer restaurants closed
-(e.g. Trosa Sjökrog) and others Fri–Sun only (see §3.10). **Trosa julmarknad, Sun 29 Nov 2026 (1st Advent),
+(e.g. Trosa Sjökrog) and others Fri–Sun only (see §3.11). **Trosa julmarknad, Sun 29 Nov 2026 (1st Advent),
 10:00–15:00**, Trosa Torg/Garvaregården (verified). Tourist office winter hours not verified.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=58.895934,17.547115) · [geo:](geo:58.895934,17.547115) — Trosa Torg
 
 **Source:** [trosa.com — Trosa julmarknad](https://trosa.com/event/trosa-julmarknad/), [trosa.com](https://trosa.com/)
 
-### 2.9 Nyköping — Nyköpingshus castle and Sörmlands museum (**open Tue–Sun**)
+
+### 2.11 Munktellmuseet, Eskilstuna (**weekends ~12–16 — verify before going**)
+**What:** Museum of construction machinery and industrial history (Munktell/Volvo) in Eskilstuna.
+
+**Drive:** ~1 h 10 min, ~105 km via E20.
+
+**November caveats:** weekend hours **Sat–Sun ~12:00–16:00** per aggregators — the official page was
+truncated when checked, so verify on munktellmuseet.com before going; entry 150 kr pre-booked / 180 kr at
+the door.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.376488,16.509906) · [geo:](geo:59.376488,16.509906) — Munktellmuseet, Munktellsgatan 3
+
+**Source:** [munktellmuseet.com](https://www.munktellmuseet.com/)
+
+### 2.12 Nyköping — Nyköpingshus castle and Sörmlands museum (**open Tue–Sun**)
 **What:** County seat on the Nyköpingsån. **Nyköpingshus** (1100s–1200s; the 1317 gästabud) with the white
 Kungstornet tower hosting three exhibitions; **Sörmlands museum** (Tolagsgatan 8, opposite the castle)
 has the main exhibitions, café and shop; stroll Åpromenaden and Norra Berget.
@@ -311,7 +386,8 @@ Castle ruins/tower outdoors and unheated — dress warm. Regular November tour t
 
 **Source:** [sormlandsmuseum.se — Sörmlands museum](https://sormlandsmuseum.se/besoksinfo/sormlands-museum/), [sormlandsmuseum.se — Nyköpingshus](https://sormlandsmuseum.se/besoksinfo/nykopingshus/)
 
-### 2.10 Köping — market town on the E18 (**open all winter**)
+
+### 2.13 Köping — market town on the E18 (**open all winter**)
 **What:** Mälardalen town: Stora gatan, kyrka, small museum; a practical, low-key stop.
 
 **Drive:** ~75 min, ~100 km via E18.
@@ -324,7 +400,8 @@ Castle ruins/tower outdoors and unheated — dress warm. Regular November tour t
 
 **Source:** [julmarknad.nu — Köping centrum](https://www.julmarknad.nu/event/julmarknad-i-koping), [julmarknad.nu — Bürgers Växtgård](https://www.julmarknad.nu/event/julmarknad-burgers-vaxtgard)
 
-### 2.11 Söderköping — Göta kanal locks (**open all winter**; glass scene closed)
+
+### 2.14 Söderköping — Göta kanal locks (**open all winter**; glass scene closed)
 **What:** Medieval town where Göta kanal meets the Baltic: Storgatan's low wooden houses, the
 hand-operated canal locks, Rådhustorget and Ramunderberget with the view over town and archipelago.
 
@@ -332,14 +409,15 @@ hand-operated canal locks, Rådhustorget and Ramunderberget with the view over t
 
 **November caveats:** town open, but **Söderköpings Glass / Smultronstället closed for the season (2026
 season ended 30 Aug — verified)** and the camping café closes 8 Nov 2026. Locks not operating in winter.
-Year-round lunch options exist (Söderköpings Brunn §3.12, Österns Stjärna, Stockrosen Café) but their
+Year-round lunch options exist (Söderköpings Brunn §3.13, Österns Stjärna, Stockrosen Café) but their
 exact November hours were not verified. Adventsmarknad is the first December weekend.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=58.481977,16.320255) · [geo:](geo:58.481977,16.320255) — Rådhustorget (canal locks: [Maps](https://www.google.com/maps?q=58.488693,16.295662) · [geo:](geo:58.488693,16.295662))
 
 **Source:** [smultronstallet.se — öppettider](https://www.smultronstallet.se/oppettider/), [soderkopingscamping.se](https://www.soderkopingscamping.se/), [soderkoping.se](https://www.soderkoping.se/)
 
-### 2.12 Sala silvergruva — 500-year silver mine (**open daily, book ahead**)
+
+### 2.15 Sala silvergruva — 500-year silver mine (**open daily, book ahead**)
 **What:** Sala Silvergruva: guided tours 155 m down into the 500-year-old silver mine, museum,
 Konstmästargården; the town has its kyrka and Gruvfolkskör choir tradition.
 
@@ -355,6 +433,7 @@ Outdoor area free but cold and dark early.
 **Source:** [salasilvergruva.se — öppettider](https://www.salasilvergruva.se/oppettider), [salasilvergruva.se — jul/Lucia](https://www.salasilvergruva.se/jul)
 
 ---
+
 
 ## 3. Restaurants, cafés, julbord
 
@@ -374,6 +453,7 @@ Sat–Sun 13:00 (895 kr); vegan/vegetarian 50%. Slottscafé **closed October–A
 
 **Source:** [rosersbergsslott.se — julbord](https://www.rosersbergsslott.se/julbord/), [rosersbergsslott.se](https://www.rosersbergsslott.se/)
 
+
 ### 3.2 Bommersvik — castle julbord by lake Yngern (**julbord-only stop; weekends OK**)
 **What:** Conference castle/hotel in Nykvarn kommun by Lake Yngern, ~40 min south. In November–December
 the regular restaurant is closed and the venue runs its **julbord** — buffet with 40 hot/cold dishes,
@@ -389,6 +469,7 @@ on request only — this is a julbord day trip, not a general lunch stop.
 
 **Source:** [bommersvik.se — julbord](https://www.bommersvik.se/erbjudanden/julbord/)
 
+
 ### 3.3 Kulturhuset i Ytterjärna — KulturMat café-restaurant (**open all winter**)
 **What:** Anthroposophical cultural centre (theatre/concerts) in Järna with the biodynamic
 café-restaurant KulturMat in the foyer; Skyspace (Turrell) art work visits by pre-booking.
@@ -402,6 +483,7 @@ kulturhuset.nu before going.
 **Links:** [Google Maps](https://www.google.com/maps?q=59.067404,17.619013) · [geo:](geo:59.067404,17.619013) — Kulturhuset i Ytterjärna, Kulturcentrum 14
 
 **Source:** [kulturhuset.nu — öppettider](https://www.kulturhuset.nu/om-kulturhuset/oppettider-kontakt/), [kulturhuset.nu — kafé och restaurang](https://www.kulturhuset.nu/kafe-och-restaurang/)
+
 
 ### 3.4 Wira bruk — forge village restaurant (**Sat–Sun only**; Advent julmarknad 27–29/11)
 **What:** Historic ironworks milieu at Wira bruk (Åkersberga kommun): old forges open for self-guided
@@ -419,6 +501,7 @@ wood-fired pizza, mulled wine, saffron buns. Go on a weekend.
 
 **Source:** [wirabruk.se — besök](https://www.wirabruk.se/besok/), [wirarestaurang.se](https://www.wirarestaurang.se/)
 
+
 ### 3.5 Restaurang Steninge Bruk — stone-barn grill (**open all winter**)
 **What:** Restaurant in the old stone barn at Steninge slottsby (Märsta): open-fire grill, lunch,
 weekend brunch, café.
@@ -433,6 +516,7 @@ pattern, not a November-specific guarantee):** lunch Mon–Fri 11:00–14:30; **
 **Links:** [Google Maps](https://www.google.com/maps?q=59.605194,17.800427) · [geo:](geo:59.605194,17.800427) — Restaurang Steninge Bruk, Steninge Slottsväg 141
 
 **Source:** [steningebruk.se](https://www.steningebruk.se/), [steningeslottsby.se](https://www.steningeslottsby.se/)
+
 
 ### 3.6 Kökeriet (Nynäs Rökeri) — smoked fish lunch in Nynäshamn harbour (**open Tue–Sun**)
 **What:** Harbour restaurant of the Nynäs Rökeri smokehouse, right on the fish quay: fish soup, baked
@@ -450,6 +534,7 @@ closed until summer 2027** — pair with a Nynäs reserve walk (§1.9).
 
 **Source:** [nynasrokeri.se — öppettider](https://www.nynasrokeri.se/oppetider), [nynasrokeri.se — Kökeriet](https://www.nynasrokeri.se/kokeriet/)
 
+
 ### 3.7 Restaurang Kroken — harbour bistro dinner & julbord in Nynäshamn (**open all winter**)
 **What:** Family-run bistro in the red wooden houses right by Nynäshamn's gästhamn (Fiskargränd 8, ~30 m
 from Kökeriet §3.6): seasonal à la carte, daily lunch, after-work, beer from the local Ångbryggeriet;
@@ -465,6 +550,7 @@ weekend *dinner* option when Kökeriet (lunch-only, closes 15:00–16:00) is shu
 **Links:** [Google Maps](https://www.google.com/maps?q=58.900500,17.951782) · [geo:](geo:58.900500,17.951782) — Fiskargränd 8, Nynäshamns gästhamn
 
 **Source:** [restaurangkroken.se — kontakt/öppettider](https://restaurangkroken.se/kontakta-oss/), [julbord 2026](https://restaurangkroken.se/event/julbord-2026/), [aktuellt](https://restaurangkroken.se/aktuellt/)
+
 
 ### 3.8 Taxinge-Näsby slott ("Kakslottet") — cake buffet, julmarknad and julbord (**Fri–Sun only**)
 **What:** 17th–19th c. castle on a peninsula in Gripsholmsviken run as a café with "the Nordic region's
@@ -482,6 +568,7 @@ weekend; sittings via the booking page). Plan a Fri–Sun visit.
 
 **Source:** [taxingeslott.se — öppettider](https://www.taxingeslott.se/oppettider/), [taxingeslott.se — slottscafé](https://www.taxingeslott.se/slottscafe/), [nykvarn.com — julbord](https://www.nykvarn.com/)
 
+
 ### 3.9 Mel's Garage — 1950s diner café in Enköping (**open daily**)
 **What:** Retro 50s-style diner café and ice-cream bar by the classic-car hall, a stone's throw from
 Enköping station.
@@ -489,27 +576,45 @@ Enköping station.
 **Drive:** ~60 min, ~80 km via E18 west.
 
 **November caveats (verified):** open daily — Mon 10–18, Tue 10–18, Wed 10–20, Thu 10–18, Fri 10–17,
-Sat 09–16, Sun 10–16; holiday deviations posted on mels.se. Pair with Enköping's julmarknad 28–29/11 (§2.5).
+Sat 09–16, Sun 10–16; holiday deviations posted on mels.se. Pair with Enköping's julmarknad 28–29/11 (§2.6).
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.649352,17.086354) · [geo:](geo:59.649352,17.086354) — Mel's Garage, Enköping
 
 **Source:** [mels.se](https://www.mels.se/)
 
-### 3.10 Kölsvinet, Trosa guest harbour — wood-fired pizza by the quay (**Fri–Sun only**)
+
+### 3.10 Väddö gårdsmejeri — farm dairy shop & café Bondens Kök (**open all winter**)
+**What:** KRAV-organic farm dairy on Väddö with a gårdsbutik and café Bondens Kök: own cheese, ice cream and
+meat, production visible, playground.
+
+**Drive:** ~1 h, ~103 km via E18 → väg 76 → väg 283.
+
+**November caveats (verified, vaddogardsmejeri.se/ata/, updated 2026-09-29):** October–December:
+**Mon–Sat 10:00–16:00, Sun 10:00–15:00**; closed 24 Dec – 10 Jan. Free entry, cashless. The site lists two
+addresses (currently Hammarbyvägen 34; older pages Grisslehamnsvägen 47 by the canal) — follow the map pin.
+Lunch service is seasonal (returns mid-August). First Advent weekend 28–29 Nov 2026: julmarknad at Bergby
+Gård on Väddö (Sat 10–16, Sun 10–15).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.979144,18.829947) · [geo:](geo:59.979144,18.829947) — Väddö gårdsmejeri
+
+**Source:** [vaddogardsmejeri.se — äta/öppettider](https://www.vaddogardsmejeri.se/ata/), [vaddobygden.se](https://www.vaddobygden.se/)
+
+### 3.11 Kölsvinet, Trosa guest harbour — wood-fired pizza by the quay (**Fri–Sun only**)
 **What:** Harbour-front restaurant/bar in Trosa gästhamn: wood-oven Neapolitan pizza, fish/seafood,
 terrace on the pontoons; lunch, dinner, events.
 
 **Drive:** ~70 min, ~65–74 km via E4 + väg 219 to Trosa.
 
 **November caveats (verified):** **Fri–Sat 11:00–21:00, Sun 11:00–15:00, closed Mon–Thu** — no seasonal
-note published, so these hours apply in November 2026; go Fri–Sun. Pair with a stroll in Trosa (§2.8;
+note published, so these hours apply in November 2026; go Fri–Sun. Pair with a stroll in Trosa (§2.10;
 julmarknad 29 Nov). Trosa Sjökrog is closed for the season after September.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=58.890812,17.552446) · [geo:](geo:58.890812,17.552446) — Kölsvinet, Uddbergagatan, Trosa gästhamn
 
 **Source:** [kolsvinet.se](https://www.kolsvinet.se/), [trosa.com — open all year](https://trosa.com/en/eat-drink/open-all-year/), [trosasjokrog.se — öppettider](https://www.trosasjokrog.se/oppettider/)
 
-### 3.11 Gimo herrgård — manor hotel restaurant (**open all winter**; julbord)
+
+### 3.12 Gimo herrgård — manor hotel restaurant (**open all winter**; julbord)
 **What:** Manor hotel/restaurant by the old bruk in Gimo: lunch and dinner in historic surroundings.
 
 **Drive:** ~70 min, ~110 km via E4 north + väg 288 toward Gimo (or väg 76).
@@ -523,7 +628,8 @@ recommended. **Julbord Wed–Sun 22 Nov – 22 Dec 2026** (~595 kr; weekend sitt
 
 **Source:** [gimoherrgard.se — hotellinformation](https://www.gimoherrgard.se/hotellinformation/), [gimoherrgard.se — julbord](https://www.gimoherrgard.se/mat-dryck/julbord/)
 
-### 3.12 Söderfors herrgård — restaurant by the Dalälven (**open all winter**; julbord)
+
+### 3.13 Söderfors herrgård — restaurant by the Dalälven (**open all winter**; julbord)
 **What:** Restaurant in a 1690s manor hall by the Dalälven (baroque ceiling paintings): lunch, dinner
 and Sunday menu; spa/hotel; the "Potatisbunkern" cellar pub.
 
@@ -538,7 +644,8 @@ weekend sittings included. Combine with the Engelska parken walk (§1.7).
 
 **Source:** [soderforsherrgard.se — restaurang](https://www.soderforsherrgard.se/restaurang/), [soderforsherrgard.se — julbord](https://www.soderforsherrgard.se/evenemang/julbord-pa-soderfors-herrgard)
 
-### 3.13 Söderköpings Brunn — Sweden's oldest spa hotel, Sunday julbord (**open**; restaurant closed Sundays)
+
+### 3.14 Söderköpings Brunn — Sweden's oldest spa hotel, Sunday julbord (**open**; restaurant closed Sundays)
 **What:** Kurhotel since 1774 in Söderköping: lunch and à la carte in historic rooms; spa.
 
 **Drive:** ~85 min, ~125 km via E4 south → Norrköping → väg 210/209 (at the 1.5 h edge — leave early).
@@ -546,13 +653,14 @@ weekend sittings included. Combine with the Engelska parken walk (§1.7).
 **November caveats (verified; weekend-focused):** **Sat lunch 12:00–15:00; Sundays = julbord only (22 Nov –
 20 Dec 2026, incl. glögg and coffee)** — otherwise the restaurant is closed Sundays (weekday lunch
 11:30–14:30, dinner from 17:00). Closed 25–29 Dec and 1–2 Jan; röda dagar can change hours — call first.
-Combine with the Söderköping town walk (§2.11).
+Combine with the Söderköping town walk (§2.14).
 
 **Links:** [Google Maps](https://www.google.com/maps?q=58.479171,16.330663) · [geo:](geo:58.479171,16.330663) — Söderköpings Brunn, Skönbergagatan 35
 
 **Source:** [sbrunn.se — restaurang](https://www.sbrunn.se/restaurang/)
 
 ---
+
 
 ## The standards you've already done (one-liners)
 
@@ -590,6 +698,15 @@ Combine with the Söderköping town walk (§2.11).
 - **Femörefortet** spring-2027 public reopening dates not yet published; November = group bookings only.
 - **Stendörren suspension bridges**: no formal 2026 reopening notice found after the 2023 inspection
   closure — check before revisiting.
+- **Roslagens sjöfartsmuseum** (Älmsta, Väddö): verified **closed to the public September–May** (office
+  Tue–Thu only) — not a November stop. **Pythagoras industrimuseum** (Norrtälje): closed on ordinary days
+  Nov–Mar; only its **julmarknad Sun 6 Dec 2026** (andra advent). **Roslagsmuseet** (Norrtälje): first two
+  Saturdays monthly 12:00–16:00 (7 & 14 Nov 2026) + Sun 6 Dec artist talk. **Engelsbergs bruk**: no public
+  tours Nov–Mar and ~1 h 30–1 h 45 drive (at/over the limit) — dropped. **Vaxholms fästning** museum:
+  summer-only. Torekällberget: julmarknad dates conflict (6–7 Dec 2026 current news vs 27 Nov & 4 Dec older
+  release). Tom Tits: weekend days per official page vs aggregators. Munktellmuseet: weekend hours 12–16 per
+  aggregators, official page truncated when checked. Väddö gårdsmejeri: address conflict (Hammarbyvägen 34
+  vs Grisslehamnsvägen 47) — follow the map pin.
 
 *Hours and event dates verified 2026-11-07 against the official sites linked per entry. Coordinates are
 Google Maps pins for the entrance / parking / POI, captured 2026-11-07. Sun times: api.sunrise-sunset.org
@@ -603,49 +720,78 @@ One main destination per day, plus at most one meal stop. Leave Stockholm by ~09
 be back before sunset (see the daylight table: 15:38 on 8 Nov, 14:47 from 13 Dec). All entries referenced
 by their section numbers above.
 
-### I1. Sun 22 Nov — Västerås winter day: City julmarknad + Anundshög (§2.7)
-Drive ~65 min. Stora torget's **City julmarknad 11:00–16:00** (free), then Anundshög (~10 min): Sweden's [View on map](map.html?i=I1)
+### I1. Sun 22 Nov — Västerås winter day: City julmarknad + Anundshög (§2.8)
+Drive ~65 min. Stora torget's **City julmarknad 11:00–16:00** (free), then Anundshög (~10 min): Sweden's
 largest burial mound and grave field, free to explore; Café Anundshög open Tue–Sun 10:00–16:00. Back
 before 15:09 sunset.
 
-### I2. Sat 28 – Sun 29 Nov — Nyköping: castle, museum and free-entry julmarknad (§2.9)
-Drive ~75 min. **Sörmlands museum + Nyköpingshus/Kungstornet have FREE entry and a julmarknad on 28–29 [View on map](map.html?i=I2)
+
+### I2. Sat 28 – Sun 29 Nov — Nyköping: castle, museum and free-entry julmarknad (§2.12)
+Drive ~75 min. **Sörmlands museum + Nyköpingshus/Kungstornet have FREE entry and a julmarknad on 28–29
 Nov**; museum Tue–Sun 10:00–17:00, Kungstornet Sun 10:00–16:00. Lunch at the museum café. Ticket otherwise
 80 kr covers both sites.
 
-### I3. Sat 28 – Sun 29 Nov — Enköping: traditional julmarknad + museum + lunch (§2.5, §3.9)
-Drive ~57 min. **Julmarknad on Stora torget/Kaplanen Sat 10–16, Sun 11–16** (free); Enköpings museum [View on map](map.html?i=I3)
+
+### I3. Sat 28 – Sun 29 Nov — Enköping: traditional julmarknad + museum + lunch (§2.6, §3.9)
+Drive ~57 min. **Julmarknad on Stora torget/Kaplanen Sat 10–16, Sun 11–16** (free); Enköpings museum
 Sat–Sun 11:00–15:00; lunch at **Mel's Garage** (open daily; Sat 09:00–16:00).
 
-### I4. Sun 29 Nov — Trosa Advent market + harbour lunch (§2.8, §3.10)
-Drive ~70 min. **Trosa julmarknad 10:00–15:00** at Trosa Torg/Garvaregården, town stroll, then lunch at [View on map](map.html?i=I4)
+
+### I4. Sun 29 Nov — Trosa Advent market + harbour lunch (§2.10, §3.11)
+Drive ~70 min. **Trosa julmarknad 10:00–15:00** at Trosa Torg/Garvaregården, town stroll, then lunch at
 **Kölsvinet** in the guest harbour (open Fri–Sun, 11:00–21:00).
 
-### I5. Sat 28 – Sun 29 Nov — Skokloster Advent market + Wira bruk (§2.4, §3.4)
-Drive ~50 min to Skoklosters slott (**julmarknad 28–29 Nov, 11:00–16:00**, market free; winter castle tour [View on map](map.html?i=I5)
+
+### I5. Sat 28 – Sun 29 Nov — Skokloster Advent market + Wira bruk (§2.5, §3.4)
+Drive ~50 min to Skoklosters slott (**julmarknad 28–29 Nov, 11:00–16:00**, market free; winter castle tour
 95 kr), then ~20 min to **Wira bruk**: its **Sagolik Julmarknad runs 27–29 Nov** and Wira Restaurang is
 open Sat–Sun 11:00–16:00.
 
+
 ### I6. Fri–Sun in November — Taxinge-Näsby: cake buffet, julmarknad or julbord (§3.7)
-Drive ~55 min. Slottscafé open **Fri–Sun 11:00–16:00**; **Jul på Taxinge-Näsby 13–15 and 19–22 Nov** (entry [View on map](map.html?i=I6)
+Drive ~55 min. Slottscafé open **Fri–Sun 11:00–16:00**; **Jul på Taxinge-Näsby 13–15 and 19–22 Nov** (entry
 fee); **julbord 27 Nov – 20 Dec** — book a Sat/Sun sitting.
 
+
 ### I7. Weekend morning hike + smokehouse lunch — Torö/Ören + Nynäshamn (§1.8, §3.6)
-Drive ~60 min to Torö (Ören NR, south tip — coastal walk), then down to Nynäshamn for lunch at [View on map](map.html?i=I7)
+Drive ~60 min to Torö (Ören NR, south tip — coastal walk), then down to Nynäshamn for lunch at
 **Kökeriet** (Sat 11:30–16:00, Sun 11:30–15:00); for dinner, **Restaurang Kroken** next door is open Sat 12:00–22:00, Sun 12:00–21:00 (§3.7). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
 
-### I8. Weekend julbord evenings (book ahead) (§3.1, §3.2, §3.7, §3.8, §3.11, §3.12, §3.13)
-Weekend sittings within 1.5 h: **Rosersbergs Slottshotell** Sat–Sun lunch 13:00 (895 kr) or Sat evening [View on map](map.html?i=I8)
+
+### I8. Weekend julbord evenings (book ahead) (§3.1, §3.2, §3.7, §3.8, §3.12, §3.13, §3.14)
+Weekend sittings within 1.5 h: **Rosersbergs Slottshotell** Sat–Sun lunch 13:00 (895 kr) or Sat evening
 17:30/19:30, 27 Nov–19 Dec · **Bommersvik** Sat/Sun, Thu–Sun 26 Nov–19 Dec, 795 kr · **Taxinge-Näsby**
 Sat/Sun sittings, 27 Nov–20 Dec · **Gimo herrgård** Sat–Sun dinner, 22 Nov–22 Dec · **Söderfors
 herrgård** Sat/Sun, 27 Nov–20 Dec · **Söderköpings Brunn** Sunday julbord only, 22 Nov–20 Dec · **Restaurang Kroken** (Nynäshamn) from Fri 27 Nov, weekends included (§3.7).
 
-### I9. Sat 12 Dec — Sala: mine tour + Lucia julmarknad (§2.12)
-Drive ~90 min (leave early). Book a **Sala silvergruva** tour (daily; 155 m down), then the **Lucia [View on map](map.html?i=I9)
+
+### I9. Sat 12 Dec — Sala: mine tour + Lucia julmarknad (§2.15)
+Drive ~90 min (leave early). Book a **Sala silvergruva** tour (daily; 155 m down), then the **Lucia
 weekend julmarknad Sat 12 Dec** with torch-lit mine descents (fackelvandringar). Sunset 14:47 — plan the
 mine tour for the morning.
 
+
 ### I10. Sun 6 Dec — Bålsta Lions julmarknad + short nearby walk (§2.2, §1.5)
-Drive ~40 min. **Lions Julmarknad in Bålsta centrum 10:00–15:00** (fish pond, pony rides, local crafts); [View on map](map.html?i=I10)
+Drive ~40 min. **Lions Julmarknad in Bålsta centrum 10:00–15:00** (fish pond, pony rides, local crafts);
 afterwards a short park walk at **Örbyhus slott** (~15 min away, park open all winter). Luciatåg through
 Bålsta on 13 Dec at 13:00 if you stay.
+
+
+### I11. Väddö day — prästgård reserve walk + farm dairy (§1.11, §3.10) [View on map](map.html?i=I11)
+Drive ~1 h 10 min. Walk Väddö prästgårds naturreservat (free, always open) and the Roslagen coast near
+Gåsvik, then fika and shopping at Väddö gårdsmejeri — Bondens Kök **Sat 10:00–16:00, Sun 10:00–15:00**.
+First Advent weekend 28–29 Nov: julmarknad at Bergby Gård on Väddö. If driving through Norrtälje on
+**Sun 6 Dec**, Pythagoras industrimuseum holds its julmarknad (andra advent) there.
+
+### I12. Museum day in Södertälje — Tom Tits + Torekällberget (§2.3) [View on map](map.html?i=I12)
+Drive ~40 min. Tom Tits Experiment (indoor science centre, house daily 10:00–17:00, 210–255 kr — verify
+weekend days) plus Torekällberget open-air museum grounds (free, daily 06:30–21:00). **6–7 Dec: Jul på
+1800-talet julmarknad** on the hill.
+
+### I13. Arsenalen + Strängnäs (§2.9, §2.7) [View on map](map.html?i=I13)
+Drive ~1 h 05 min. Arsenalen military-vehicle museum **Wed–Sun 11:00–16:00** (140 kr), then Strängnäs town
+stroll and domkyrka (daily 10:00–16:00).
+
+### I14. Munktellmuseet, Eskilstuna (§2.11) [View on map](map.html?i=I14)
+Drive ~1 h 10 min. Munktellmuseet **Sat–Sun ~12:00–16:00** (verify on munktellmuseet.com; 150 kr pre-booked /
+180 kr at the door) plus an Eskilstuna town stroll.
