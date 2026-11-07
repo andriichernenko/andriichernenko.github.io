@@ -581,3 +581,58 @@ Combine with the Söderköping town walk (§2.11).
 *Hours and event dates verified 2026-11-07 against the official sites linked per entry. Coordinates are
 Google Maps pins for the entrance / parking / POI, captured 2026-11-07. Sun times: api.sunrise-sunset.org
 for Stockholm (59.33 N, 18.07 E), converted to CET.*
+
+---
+
+## Suggested 1-day itineraries (weekends)
+
+One main destination per day, plus at most one meal stop. Leave Stockholm by ~09:00–09:30 and plan to
+be back before sunset (see the daylight table: 15:38 on 8 Nov, 14:47 from 13 Dec). All entries referenced
+by their section numbers above.
+
+### I1. Sun 22 Nov — Västerås winter day: City julmarknad + Anundshög (§2.7)
+Drive ~65 min. Stora torget's **City julmarknad 11:00–16:00** (free), then Anundshög (~10 min): Sweden's
+largest burial mound and grave field, free to explore; Café Anundshög open Tue–Sun 10:00–16:00. Back
+before 15:09 sunset.
+
+### I2. Sat 28 – Sun 29 Nov — Nyköping: castle, museum and free-entry julmarknad (§2.9)
+Drive ~75 min. **Sörmlands museum + Nyköpingshus/Kungstornet have FREE entry and a julmarknad on 28–29
+Nov**; museum Tue–Sun 10:00–17:00, Kungstornet Sun 10:00–16:00. Lunch at the museum café. Ticket otherwise
+80 kr covers both sites.
+
+### I3. Sat 28 – Sun 29 Nov — Enköping: traditional julmarknad + museum + lunch (§2.5, §3.8)
+Drive ~57 min. **Julmarknad on Stora torget/Kaplanen Sat 10–16, Sun 11–16** (free); Enköpings museum
+Sat–Sun 11:00–15:00; lunch at **Mel's Garage** (open daily; Sat 09:00–16:00).
+
+### I4. Sun 29 Nov — Trosa Advent market + harbour lunch (§2.8, §3.9)
+Drive ~70 min. **Trosa julmarknad 10:00–15:00** at Trosa Torg/Garvaregården, town stroll, then lunch at
+**Kölsvinet** in the guest harbour (open Fri–Sun, 11:00–21:00).
+
+### I5. Sat 28 – Sun 29 Nov — Skokloster Advent market + Wira bruk (§2.4, §3.4)
+Drive ~50 min to Skoklosters slott (**julmarknad 28–29 Nov, 11:00–16:00**, market free; winter castle tour
+95 kr), then ~20 min to **Wira bruk**: its **Sagolik Julmarknad runs 27–29 Nov** and Wira Restaurang is
+open Sat–Sun 11:00–16:00.
+
+### I6. Fri–Sun in November — Taxinge-Näsby: cake buffet, julmarknad or julbord (§3.7)
+Drive ~55 min. Slottscafé open **Fri–Sun 11:00–16:00**; **Jul på Taxinge-Näsby 13–15 and 19–22 Nov** (entry
+fee); **julbord 27 Nov – 20 Dec** — book a Sat/Sun sitting.
+
+### I7. Weekend morning hike + smokehouse lunch — Torö/Ören + Nynäshamn (§1.8, §3.6)
+Drive ~60 min to Torö (Ören NR, south tip — coastal walk), then down to Nynäshamn for lunch at
+**Kökeriet** (Sat 11:30–16:00, Sun 11:30–15:00). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
+
+### I8. Weekend julbord evenings (book ahead) (§3.1, §3.2, §3.7, §3.10, §3.11, §3.12)
+Weekend sittings within 1.5 h: **Rosersbergs Slottshotell** Sat–Sun lunch 13:00 (895 kr) or Sat evening
+17:30/19:30, 27 Nov–19 Dec · **Bommersvik** Sat/Sun, Thu–Sun 26 Nov–19 Dec, 795 kr · **Taxinge-Näsby**
+Sat/Sun sittings, 27 Nov–20 Dec · **Gimo herrgård** Sat–Sun dinner, 22 Nov–22 Dec · **Söderfors
+herrgård** Sat/Sun, 27 Nov–20 Dec · **Söderköpings Brunn** Sunday julbord only, 22 Nov–20 Dec.
+
+### I9. Sat 12 Dec — Sala: mine tour + Lucia julmarknad (§2.12)
+Drive ~90 min (leave early). Book a **Sala silvergruva** tour (daily; 155 m down), then the **Lucia
+weekend julmarknad Sat 12 Dec** with torch-lit mine descents (fackelvandringar). Sunset 14:47 — plan the
+mine tour for the morning.
+
+### I10. Sun 6 Dec — Bålsta Lions julmarknad + short nearby walk (§2.2, §1.5)
+Drive ~40 min. **Lions Julmarknad in Bålsta centrum 10:00–15:00** (fish pond, pony rides, local crafts);
+afterwards a short park walk at **Örbyhus slott** (~15 min away, park open all winter). Luciatåg through
+Bålsta on 13 Dec at 13:00 if you stay.
