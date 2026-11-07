@@ -5,7 +5,7 @@ of late autumn. One main destination per day — no multi-stop loops. The guide 
 what matters is whether a place is open on **Sat–Sun**; weekday-only service is flagged. Entries in each
 section are sorted by driving time, shortest first; headings note whether the destination is **open all
 winter** or **partly closed** in November–December. Opening hours were checked on official sites on
-**2026-11-07**; anything that could not be verified is listed at the end. All 71 locations on one map:
+**2026-11-07**; anything that could not be verified is listed at the end. All 72 locations on one map:
 [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml).
 
 ## Daylight in November–December 2026
@@ -921,6 +921,20 @@ explorearchipelago.com — Google Maps lists no hours, so verify on the bakery's
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Munkens+Bageri,+Djurhamn,+V%C3%A4rmd%C3%B6/@59.25,18.55,12z/data=!4m6!3m5!1s0x46f57b9fe3503fc1:0x1ad9390302ec9836!8m2!3d59.3103917!4d18.6978928), [explorearchipelago.com — Munkens Bageri](https://www.explorearchipelago.com/sv/sthlm/mellersta-skargarden/djurostavsnas/munkens-konditori-djurhamn-varmdo-stockholms-skargard)
 
 
+### 3.35 Ösmo Plantshop — garden & plant shop in Ösmo (**open weekends**) {notoc}
+**What:** Plant shop / garden centre at Växtstigen 1, Ösmo (Nynäshamn kommun) — indoor and outdoor plants,
+garden supplies, Interflora florist. Google Maps 4.4★ (928 reviews).
+
+**Drive:** ~45 min, ~35 km via väg 73 south to Ösmo (on the way to Nynäshamn/Torö, §1.8/§3.6).
+
+**November caveats:** **Sat–Sun 10:00–15:00** (Mon–Thu 10:00–17:00) per the hitta.se listing — Google Maps
+lists no hours, so verify on osmoplantshop.se before going; winter stock is smaller than in summer.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=58.97866,17.90882) · [geo:](geo:58.97866,17.90882) — Växtstigen 1, 148 31 Ösmo
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/%C3%96smo+Plantshop/@58.93,17.85,11z/data=!4m6!3m5!1s0x465f6784eff09d4f:0x184b1fe1cfc17cbb!8m2!3d58.9786577!4d17.9088216), [osmoplantshop.se](http://www.osmoplantshop.se/)
+
+
 ## 4. Breweries & taprooms {notoc}
 
 Found in the same Google Maps sweep (2026-11-07) as the restaurant entries above, within 1.5 h, sorted by
@@ -1129,9 +1143,10 @@ Drive ~55 min. Slottscafé open **Fri–Sun 11:00–16:00**; **Jul på Taxinge-N
 fee); **julbord 27 Nov – 20 Dec** — book a Sat/Sun sitting.
 
 
-### I7. Weekend morning hike + smokehouse lunch — Torö/Ören + Nynäshamn (§1.8, §3.6)
+### I7. Weekend morning hike + smokehouse lunch — Torö/Ören + Nynäshamn (§1.8, §3.6, §3.35)
 Drive ~60 min to Torö (Ören NR, south tip — coastal walk), then down to Nynäshamn for lunch at
-**Kökeriet** (Sat 11:30–16:00, Sun 11:30–15:00); for dinner, **Restaurang Kroken** next door is open Sat 12:00–22:00, Sun 12:00–21:00 (§3.7). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
+**Kökeriet** (Sat 11:30–16:00, Sun 11:30–15:00); optionally stop at **Ösmo Plantshop** on väg 73 on the way
+(Sat–Sun 10:00–15:00, §3.35); for dinner, **Restaurang Kroken** next door is open Sat 12:00–22:00, Sun 12:00–21:00 (§3.7). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
 
 
 ### I8. Weekend julbord evenings (book ahead) (§3.1, §3.2, §3.7, §3.8, §3.12, §3.13, §3.14)
