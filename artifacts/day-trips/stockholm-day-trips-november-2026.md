@@ -696,11 +696,11 @@ Kept out of the table of contents on purpose.
 
 **Drive:** ~12 min from T-Centralen (5 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** open daily, closes 21:00 (per Maps).
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** open daily until 21:00 (per Maps); TheFork lists lunch from 12:00.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.34392,18.15323) · [geo:](geo:59.34392,18.15323) — Brostugevägen 1, 181 30 Lidingö
 
-**Source:** [Google Maps listing](https://www.google.com/maps/place/450+Gradi/data=!4m7!3m6!1s0x465f8252a8c5ccbf:0xca3f0b07184c6a61!8m2!3d59.3439205!4d18.1532322!16s%2Fg%2F11bwptckm3!19sChIJv8zFqFKCX0YRYWpMGAcLP8o)
+**Source:** [Google Maps listing](https://www.google.com/maps/place/450+Gradi/data=!4m7!3m6!1s0x465f8252a8c5ccbf:0xca3f0b07184c6a61!8m2!3d59.3439205!4d18.1532322!16s%2Fg%2F11bwptckm3!19sChIJv8zFqFKCX0YRYWpMGAcLP8o), [thefork.se — 450 Gradi (menu, hours, booking)](https://www.thefork.se/restaurang/450-gradi-r810111) — no official website found
 
 
 ### 3.17 Sundby Gård — Google Maps 4.4★ (1365 reviews) {notoc}
@@ -724,7 +724,7 @@ Kept out of the table of contents on purpose.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.35034,18.19292) · [geo:](geo:59.35034,18.19292) — Insjöhagsvägen 14, Lidingö
 
-**Source:** [Google Maps listing](https://www.google.com/maps/place/Vattenverket+Kottlasj%C3%B6n/data=!4m7!3m6!1s0x465f82fed5580315:0x9fe04566ea4ebf89!8m2!3d59.3503429!4d18.1929196!16s%2Fg%2F11dyzcrbqj!19sChIJFQNY1f6CX0YRib9O6mZF4J8)
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Vattenverket+Kottlasj%C3%B6n/data=!4m7!3m6!1s0x465f82fed5580315:0x9fe04566ea4ebf89!8m2!3d59.3503429!4d18.1929196!16s%2Fg%2F11dyzcrbqj!19sChIJFQNY1f6CX0YRib9O6mZF4J8), [vattenverket.se — café vid Kottlasjön](https://www.vattenverket.se/kafe-lidingo)
 
 
 ### 3.19 Lidingo Musteri — Google Maps 4.5★ (109 reviews) {notoc}
@@ -736,7 +736,7 @@ Kept out of the table of contents on purpose.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.37978,18.15605) · [geo:](geo:59.37978,18.15605) — Grönsta Prästgård 8, Lidingö
 
-**Source:** [Google Maps listing](https://www.google.com/maps/place/Lidingo+Musteri/data=!4m7!3m6!1s0x465f83374c877c03:0x874aeb57de5369d2!8m2!3d59.3797827!4d18.1560458!16s%2Fg%2F11bxdcl9tn!19sChIJA3yHTDeDX0YR0mlT3lfrSoc)
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Lidingo+Musteri/data=!4m7!3m6!1s0x465f83374c877c03:0x874aeb57de5369d2!8m2!3d59.3797827!4d18.1560458!16s%2Fg%2F11bxdcl9tn!19sChIJA3yHTDeDX0YR0mlT3lfrSoc), [lidingomusteri.se — öppettider](http://www.lidingomusteri.se/oppettider-99/)
 
 
 ### 3.20 Cafè Säby Gård — Google Maps 4.5★ (1099 reviews) {notoc}
@@ -780,11 +780,11 @@ Kept out of the table of contents on purpose.
 
 **Drive:** ~24 min from T-Centralen (23 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 7 am to 8 pm; Sun 7 am to 8 pm.
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 7 am to 8 pm; Sun 7 am to 8 pm; the Ostboden cheese cabin is self-service **daily 07:00–20:00** per the official site.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.13208,18.18565) · [geo:](geo:59.13208,18.18565) — Klockarlötsvägen 5, 137 95 Österhaninge
 
-**Source:** [Google Maps listing](https://www.google.com/maps/place/G%C3%A5rdsmejeriet+Sanda/data=!4m7!3m6!1s0x465f7b7e58ffffff:0xf83afd20a75b1c6a!8m2!3d59.1320826!4d18.1856464!16s%2Fg%2F11bbrk6h28!19sChIJ____WH57X0YRahxbpyD9Ovg)
+**Source:** [Google Maps listing](https://www.google.com/maps/place/G%C3%A5rdsmejeriet+Sanda/data=!4m7!3m6!1s0x465f7b7e58ffffff:0xf83afd20a75b1c6a!8m2!3d59.1320826!4d18.1856464!16s%2Fg%2F11bbrk6h28!19sChIJ____WH57X0YRahxbpyD9Ovg), [gardsmejerietsanda.se](http://gardsmejerietsanda.se/)
 
 
 ### 3.24 Klockargårdens Våffleri — Google Maps 4.6★ (1364 reviews) {notoc}
@@ -856,7 +856,7 @@ Kept out of the table of contents on purpose.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.65951,18.93225) · [geo:](geo:59.65951,18.93225) — Holmbergsbacken 1, 760 18 Yxlan
 
-**Source:** [Google Maps listing](https://www.google.com/maps/place/K%C3%B6pmanholms+Lanthandel+Grill+%26+Bar/data=!4m7!3m6!1s0x46f55c618757d28d:0x1acd8e433396f7b9!8m2!3d59.6595144!4d18.9322477!16s%2Fg%2F11g6wjlrzh!19sChIJjdJXh2Fc9UYRufeWM0OOzRo)
+**Source:** [Google Maps listing](https://www.google.com/maps/place/K%C3%B6pmanholms+Lanthandel+Grill+%26+Bar/data=!4m7!3m6!1s0x46f55c618757d28d:0x1acd8e433396f7b9!8m2!3d59.6595144!4d18.9322477!16s%2Fg%2F11g6wjlrzh!19sChIJjdJXh2Fc9UYRufeWM0OOzRo), [lunchfindr — Köpmanholms Lanthandel](https://lunchfindr.se/location/404/yxlan/lunch/2061/kopmanholms-lanthandel-grill-bar/) — no own website found
 
 
 ### 3.30 Miklagård — Google Maps 4.7★ (186 reviews) {notoc}
@@ -959,7 +959,7 @@ Kept out of the table of contents on purpose.
 
 **Drive:** ~19 min from T-Centralen (18 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no hours listed on Google Maps).
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** no public taproom hours on Google Maps — check varmdobryggeri.se / visitvarmdo.com before going.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.30870,18.37868) · [geo:](geo:59.30870,18.37868) — Leveransvägen 15, 134 45 Gustavsberg
 
@@ -971,7 +971,7 @@ Kept out of the table of contents on purpose.
 
 **Drive:** ~23 min from T-Centralen (22 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no hours listed on Google Maps).
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** no taproom hours on Google Maps — check waxholmsbryggeri.se before going.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.39380,18.43701) · [geo:](geo:59.39380,18.43701) — 4.8(9) Brewery · Hus 105, Rindöhamn, 185 41
 
@@ -983,7 +983,7 @@ Kept out of the table of contents on purpose.
 
 **Drive:** ~46 min from T-Centralen (44 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no hours listed on Google Maps).
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** brewery at Taxinge-Näsby slott — slottscafé open **Fri–Sun 11:00–16:00** (§3.8); taproom mainly on event days, check taxingekrog.com.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.24087,17.30315) · [geo:](geo:59.24087,17.30315) — NÄSBY 22, 155 93 Nykvarn
 
