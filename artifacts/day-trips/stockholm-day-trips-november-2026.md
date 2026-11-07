@@ -27,7 +27,7 @@ Järvafältet has its own entrances; Järvaleden runs through.
 **Drive:** ~25 min, ~18 km via E4 (Akalla/Hjulsta/Barkarby) or väg 267.
 
 **November caveats:** reserve open 24/7 year-round (verified). Exposed and windy in November; some
-paths muddy; no lighting after dark. Fire only at designated fireplaces.
+paths muddy; no lighting after dark.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.463087,17.870929) · [geo:](geo:59.463087,17.870929) — Fäboda gård parking, main entrance
 
@@ -50,14 +50,13 @@ no lighting after dark. Best birding is dawn–midday.
 ### 1.3 Paradiset — forest, lakes and a historic torp (**open all winter**)
 **What:** Paradiset-Hanveden, a large forest reserve in Huddinge's southern tip: old-growth patches,
 lakes Trekanten and Trehörningen with bathing rocks, marked trails (Sörmlandsleden passes through),
-six fireplaces and the old torp Paradiset with a raststuga.
+and the old torp Paradiset with a raststuga.
 
 **Drive:** ~35 min, ~25–30 km via väg 259 (Haningeleden), exit toward "Ådran / Ekedal / Paradiset",
 then Ådravägen ~1.6 km to the main parking.
 
 **November caveats:** reserve open every day, all year (verified). The torp's raststuga is **closed on
-Sundays in winter** (reopens March) — bring your own fika and wood; fire only at the designated
-fireplaces. Headlamp recommended.
+Sundays in winter** (reopens March) — bring your own fika. Headlamp recommended.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.159899,18.046202) · [geo:](geo:59.159899,18.046202) — Entré Paradiset main parking
 
@@ -99,8 +98,7 @@ winter); Upplandsleden stage 11 passes nearby. Parking at Gimo herrgård.
 **Drive:** ~55–60 min, ~80 km via väg 76 to Gimo (or E4 + väg 288).
 
 **November caveats:** outdoor walks always open (allemansrätten, verified via naturkartan); the herrgård
-interior/hotel restaurant is a separate stop (see §3.10). The damm is summer-only. Fire only at
-designated fireplaces.
+interior/hotel restaurant is a separate stop (see §3.10). The damm is summer-only.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=60.178311,18.173202) · [geo:](geo:60.178311,18.173202) — Gimo herrgård parking
 
@@ -126,8 +124,8 @@ parking lots.
 
 **Drive:** ~60 min, ~58 km via väg 73 to Nynäshamn, over Älgviksbron and Herrhamra, then Torövägen.
 
-**November caveats:** reserve open 24/7 (verified); park only in designated lots; **no open fires** in
-Ören (allmänt eldningsförbud in the reserve per kommun); exposed and windy — spikes recommended.
+**November caveats:** reserve open 24/7 (verified); park only in designated lots; exposed and windy —
+spikes recommended.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=58.802722,17.806849) · [geo:](geo:58.802722,17.806849) — Ören NR / Torö stenstrand, Torö's south tip
 
@@ -171,7 +169,7 @@ coastal artillery battery.
 **November caveats:** reserve **open year-round** (verified); the fort's last public 2026 tours ended
 30 October — **in November the fort interior is closed** (group bookings only). Winter birding is good
 (sea eagles, eiders in the ice-free channel). Exposed cliffs: wind, spray ice, slippery rocks; never
-trust the ice in Femörekanalen. Fire only at designated grillplatser.
+trust the ice in Femörekanalen.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=58.653173,17.107627) · [geo:](geo:58.653173,17.107627) — Femörefortets parkering (also fiskehamn parking: [Maps](https://www.google.com/maps?q=58.655962,17.099209) · [geo:](geo:58.655962,17.099209))
 
@@ -574,8 +572,6 @@ Combine with the Söderköping town walk (§2.11).
 - **Nynäsgården julbord 2026 dates** not yet published.
 - **Västerås ice rink (vinterplatser) 2026 opening date** not verified.
 - **Femörefortet** spring-2027 public reopening dates not yet published; November = group bookings only.
-- **Day-of eldningsförbud status** — check on the day via krisinformation.se / the Brandrisk Ute app; in
-  all reserves fire only at designated fixed fireplaces. Note Ören NR (Torö) has a general fire ban.
 - **Stendörren suspension bridges**: no formal 2026 reopening notice found after the 2023 inspection
   closure — check before revisiting.
 
