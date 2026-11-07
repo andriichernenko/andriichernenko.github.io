@@ -27,7 +27,6 @@ const itin = {"I1": {"title": "I1. Sun 22 Nov \u2014 V\u00e4ster\u00e5s winter d
 const HOME = { lat: 59.305701, lon: 18.0351886, label: "Home \u2014 Sj\u00f6viksv\u00e4gen 81, Stockholm" };
 const GUIDE = "https://andrii.ch/artifacts/day-trips/";
 const map = L.map('map', { zoomControl: false }).setView([59.45, 17.6], 8);
-L.control.zoom({ position: 'bottomright' }).addTo(map);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
 const bySlug = Object.fromEntries(pts.map(p => [p.slug, p]));
 const sel = document.getElementById('sel');
