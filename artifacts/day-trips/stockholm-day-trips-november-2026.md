@@ -5,7 +5,7 @@ of late autumn. One main destination per day — no multi-stop loops. The guide 
 what matters is whether a place is open on **Sat–Sun**; weekday-only service is flagged. Entries in each
 section are sorted by driving time, shortest first; headings note whether the destination is **open all
 winter** or **partly closed** in November–December. Opening hours were checked on official sites on
-**2026-11-07**; anything that could not be verified is listed at the end. All 68 locations on one map:
+**2026-11-07**; anything that could not be verified is listed at the end. All 71 locations on one map:
 [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml).
 
 ## Daylight in November–December 2026
@@ -923,35 +923,60 @@ explorearchipelago.com — Google Maps lists no hours, so verify on the bakery's
 
 ## 4. Breweries & taprooms {notoc}
 
-Found in the same Google Maps sweep (2026-11-07) as the entries above; rating ≥ 4.4, within 1.5 h, sorted by
-drive time. Weekend hours are from the Google Maps listings — brewery taprooms often keep irregular hours,
-so check the brewery site before driving out. Kept out of the table of contents on purpose.
+Found in the same Google Maps sweep (2026-11-07) as the restaurant entries above, within 1.5 h, sorted by
+drive time. **No rating filter here** — that applies to restaurants only. Weekend hours are from the Google
+Maps listings (2026-11-07); taprooms often keep irregular hours, so check the brewery site before driving out.
+Kept out of the table of contents on purpose.
 
-### 4.1 Värmdö Bryggeri — Google Maps 4.9★ (11 reviews) {notoc}
+### 4.1 Ekerö Brygghus & Taproom — Google Maps 4.7★ (42 reviews) {notoc}
+**What:** Taproom of Ekerö Brygghus on Ekerö (Drottningholm side) — own beers on tap, pizza.
+
+**Drive:** ~14 min from T-Centralen (14 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 4 to 11 pm; Sun Closed.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.27400,17.84717) · [geo:](geo:59.27400,17.84717) — Riggvägen 7, 178 51 Ekerö
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Eker%C3%B6+Brygghus+%26+Taproom/data=!4m7!3m6!1s0x465f7506456bbfdd:0x96796b948952b5a1!8m2!3d59.2740034!4d17.8471664!16s%2Fg%2F11xsghv_dn!19sChIJ3b9rRQZ1X0YRobVSiZRreZY), [book.easytable.com/book/?ref=mb&id=7386e&lang=en](https://book.easytable.com/book/?ref=mb&id=7386e&lang=en)
+
+
+### 4.2 Värmdö Bryggeri — Google Maps 4.9★ (11 reviews) {notoc}
 **What:** Craft brewery in Gustavsberg (Värmdö kommun) with a taproom — small but well-liked (only 11 reviews, so rating is soft).
 
 **Drive:** ~19 min from T-Centralen (18 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no weekend hours listed on Google Maps).
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no hours listed on Google Maps).
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.30870,18.37868) · [geo:](geo:59.30870,18.37868) — Leveransvägen 15, 134 45 Gustavsberg
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/V%C3%A4rmd%C3%B6+Bryggeri+AB/data=!4m7!3m6!1s0x46f57eabdc5018ab:0xe376a59bfb68285c!8m2!3d59.3087012!4d18.3786804!16s%2Fg%2F1yh9tz7h6!19sChIJqxhQ3Kt-9UYRXCho-5ulduM), [www.varmdobryggeri.se](http://www.varmdobryggeri.se/)
 
 
-### 4.2 Taxinge Brewery — Google Maps 4.7★ (154 reviews) {notoc}
+### 4.3 Waxholms Bryggeri — Google Maps 4.8★ (9 reviews) {notoc}
+**What:** Microbrewery at Rindöhamn (island north of Vaxholm, reachable by road via the Rindö bridge).
+
+**Drive:** ~23 min from T-Centralen (22 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no hours listed on Google Maps).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.39380,18.43701) · [geo:](geo:59.39380,18.43701) — 4.8(9) Brewery · Hus 105, Rindöhamn, 185 41
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Waxholms+Bryggeri/data=!4m7!3m6!1s0x465f87b047b97247:0x9310802527e8cc98!8m2!3d59.3938018!4d18.4370092!16s%2Fg%2F11fm321l88!19sChIJR3K5R7CHX0YRmMzoJyWAEJM), [www.waxholmsbryggeri.se](https://www.waxholmsbryggeri.se/)
+
+
+### 4.4 Taxinge Brewery — Google Maps 4.7★ (154 reviews) {notoc}
 **What:** Brewery at Taxinge-Näsby slott — same venue as the slottscafé (§3.8); brewery/taproom activity mainly on event and julmarknad days.
 
 **Drive:** ~46 min from T-Centralen (44 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no weekend hours listed on Google Maps).
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no hours listed on Google Maps).
 
 **Links:** [Google Maps](https://www.google.com/maps?q=59.24087,17.30315) · [geo:](geo:59.24087,17.30315) — NÄSBY 22, 155 93 Nykvarn
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Taxinge+Brewery/data=!4m7!3m6!1s0x465f1b160c1bcc71:0x413190d8180d7a0a!8m2!3d59.2408726!4d17.303151!16s%2Fg%2F11rrj6k453!19sChIJccwbDBYbX0YRCnoNGNiQMUE), [www.taxingekrog.com](http://www.taxingekrog.com/)
 
 
-### 4.3 Stationshuset i Knivsta — Google Maps 4.6★ (230 reviews) {notoc}
+### 4.5 Stationshuset i Knivsta — Google Maps 4.6★ (230 reviews) {notoc}
 **What:** Brewpub in the old station house in Knivsta — own beers on tap plus food.
 
 **Drive:** ~49 min from T-Centralen (47 km straight-line).
@@ -963,7 +988,7 @@ so check the brewery site before driving out. Kept out of the table of contents 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Stationshuset+i+Knivsta/data=!4m7!3m6!1s0x465fb869b9741981:0xf46ed04efc99427f!8m2!3d59.7256231!4d17.7866093!16s%2Fg%2F11d_d55n52!19sChIJgRl0uWm4X0YRf0KZ_E7QbvQ), [stationshusetiknivsta.se](https://stationshusetiknivsta.se/)
 
 
-### 4.4 Taps Beer Bar — Google Maps 4.5★ (620 reviews) {notoc}
+### 4.6 Taps Beer Bar — Google Maps 4.5★ (620 reviews) {notoc}
 **What:** Beer hall on Drottninggatan, Uppsala — wide tap list, late weekend hours.
 
 **Drive:** ~66 min from T-Centralen (63 km straight-line).
@@ -975,7 +1000,7 @@ so check the brewery site before driving out. Kept out of the table of contents 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Taps+Beer+Bar/data=!4m7!3m6!1s0x465fcbf0db770701:0x24f66d491a56499b!8m2!3d59.85705!4d17.6358598!16s%2Fg%2F11g9n9mvdg!19sChIJAQd32_DLX0YRm0lWGklt9iQ), [www.tapsbeerbar.se](http://www.tapsbeerbar.se/)
 
 
-### 4.5 Eskilstuna Ölkultur — Google Maps 4.4★ (245 reviews) {notoc}
+### 4.7 Eskilstuna Ölkultur — Google Maps 4.4★ (245 reviews) {notoc}
 **What:** Craft brewery/taproom at Faktorigatan, Eskilstuna.
 
 **Drive:** ~92 min from T-Centralen (88 km straight-line).
@@ -987,7 +1012,7 @@ so check the brewery site before driving out. Kept out of the table of contents 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Eskilstuna+%C3%96lkultur/data=!4m7!3m6!1s0x465ef2ca511200ad:0x4c79efa31b531194!8m2!3d59.3754874!4d16.5087381!16s%2Fg%2F1q2wfxlm4!19sChIJrQASUcryXkYRlBFTG6PveUw), [www.eskilstunaolkultur.se](http://www.eskilstunaolkultur.se/)
 
 
-### 4.6 Nyköping Brewing Company — Google Maps 4.4★ (276 reviews) {notoc}
+### 4.8 Nyköping Brewing Company — Google Maps 4.4★ (276 reviews) {notoc}
 **What:** Craft brewery on Kungsgatan, Nyköping.
 
 **Drive:** ~92 min from T-Centralen (88 km straight-line).
@@ -999,6 +1024,16 @@ so check the brewery site before driving out. Kept out of the table of contents 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Nyk%C3%B6ping+Brewing+Company/data=!4m7!3m6!1s0x465f2d65976621ef:0x5fab890b4b71a9af!8m2!3d58.7493626!4d17.009592!16s%2Fg%2F11flvw6zsd!19sChIJ7yFml2UtX0YRr6lxSwuJq18), [www.nykopingbrewing.se](http://www.nykopingbrewing.se/)
 
 
+### 4.9 Nornir Brewery — Google Maps 5★ (48 reviews) {notoc}
+**What:** Brewery/taproom on Kungsgatan, Eskilstuna (5.0★ but only 48 reviews — no rating filter here).
+
+**Drive:** ~92 min from T-Centralen (88 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 2 pm to 12 am; Sun Closed.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.37113,16.51215) · [geo:](geo:59.37113,16.51215) — Kungsgatan 20, 632 18 Eskilstuna
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Nornir+Brewery+AB/data=!4m7!3m6!1s0x465ef3640254c4d3:0xff946de992bcb14a!8m2!3d59.3711334!4d16.5121502!16s%2Fg%2F11s75q7f4_!19sChIJ08RUAmTzXkYRSrG8kultlP8), [nornirbrewery.se](https://nornirbrewery.se/)
 ---
 
 
@@ -1038,7 +1073,7 @@ so check the brewery site before driving out. Kept out of the table of contents 
 - **Femörefortet** spring-2027 public reopening dates not yet published; November = group bookings only.
 - **Stendörren suspension bridges**: no formal 2026 reopening notice found after the 2023 inspection
   closure — check before revisiting.
-- **Entries 3.15–3.33 and section 4 (Google Maps research additions)**: ratings/reviews are from Google Maps listings checked 2026-11-07; weekend hours shown there are **not** re-verified on official sites — confirm before travelling. Värmdö Bryggeri has only 11 reviews (rating soft). Beer Monkey (Uppsala) showed "temporarily closed" on Maps and was dropped.
+- **Entries 3.15–3.34 and section 4 (Google Maps research additions)**: the ≥ 4.4 / ≥ 100-review filter applied to restaurant entries only; ratings/reviews are from Google Maps listings checked 2026-11-07; weekend hours shown there are **not** re-verified on official sites — confirm before travelling. Värmdö Bryggeri has only 11 reviews (rating soft). Beer Monkey (Uppsala) showed "temporarily closed" on Maps and was dropped.
 - **Roslagens sjöfartsmuseum** (Älmsta, Väddö): verified **closed to the public September–May** (office
   Tue–Thu only) — not a November stop. **Pythagoras industrimuseum** (Norrtälje): closed on ordinary days
   Nov–Mar; only its **julmarknad Sun 6 Dec 2026** (andra advent). **Roslagsmuseet** (Norrtälje): first two
@@ -1157,6 +1192,6 @@ Drive ~30–35 min south. Walk **Paradiset-Hanveden** (§1.3, free, always open)
 **Klockargårdens Våffleri** in Kagghamra (Sat–Sun 10:00–17:00 per Maps, §3.24 — verify on site).
 
 
-### I18. Brewery afternoon in Gustavsberg (§4.1, §3.22) [View on map](map.html?i=I18)
+### I18. Brewery afternoon in Gustavsberg (§4.2, §3.22) [View on map](map.html?i=I18)
 Drive ~20 min. Taproom at **Värmdö Bryggeri** (Leveransvägen 15, Gustavsberg — hours not listed on Maps,
-check varmdobryggeri.se first, §4.1), then dinner at **Nelson's Krog** (Sat 13:00–24:00 per Maps, §3.22).
+check varmdobryggeri.se first, §4.2), then dinner at **Nelson's Krog** (Sat 13:00–24:00 per Maps, §3.22).
