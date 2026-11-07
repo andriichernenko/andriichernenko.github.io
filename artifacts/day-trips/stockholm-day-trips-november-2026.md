@@ -5,7 +5,7 @@ of late autumn. One main destination per day — no multi-stop loops. The guide 
 what matters is whether a place is open on **Sat–Sun**; weekday-only service is flagged. Entries in each
 section are sorted by driving time, shortest first; headings note whether the destination is **open all
 winter** or **partly closed** in November–December. Opening hours were checked on official sites on
-**2026-11-07**; anything that could not be verified is listed at the end. All 66 locations on one map:
+**2026-11-07**; anything that could not be verified is listed at the end. All 68 locations on one map:
 [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml).
 
 ## Daylight in November–December 2026
@@ -433,6 +433,21 @@ Outdoor area free but cold and dark early.
 **Source:** [salasilvergruva.se — öppettider](https://www.salasilvergruva.se/oppettider), [salasilvergruva.se — jul/Lucia](https://www.salasilvergruva.se/jul)
 
 ---
+
+
+### 2.16 Gustavsbergs Porslinsmuseum — porcelain factory museum (**Fri–Sun only** in winter) {notoc}
+**What:** Museum at the old Gustavsberg porcelain factory: 400+ years of Swedish porcelain and the factory's
+art studio; guided intro Fri–Sun 11:30–11:45 included in the entry. Google Maps 4.0★ (163 reviews) — below
+the usual 4.4 filter, included on request.
+
+**Drive:** ~20 min, ~16 km via väg 222 to Gustavsberg.
+
+**November caveats (hours per Google Maps listing 2026-11-07):** open **Fri–Sun 11:00–16:00**, closed
+Mon–Thu in the winter season; check the official site for November deviations and entry price.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.32406,18.38363) · [geo:](geo:59.32406,18.38363) — Odelbergs väg 5, 134 46 Gustavsberg
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Gustavsbergs+Porslinsmuseum/@59.3266,18.3921,14z/data=!4m6!3m5!1s0x465f805e9d96ca15:0x979e8cad23cf0749!8m2!3d59.3240639!4d18.3836258), [gustavsbergsporslinsmuseum.se](https://gustavsbergsporslinsmuseum.se/)
 
 
 ## 3. Restaurants, cafés, julbord
@@ -892,6 +907,20 @@ Kept out of the table of contents on purpose.
 **Source:** [Google Maps listing](https://www.google.com/maps/place/K%C3%A4rrbo+Pr%C3%A4stg%C3%A5rd/data=!4m7!3m6!1s0x465e5f20e9b078a5:0x346f9c9733ffa618!8m2!3d59.554688!4d16.7575645!16s%2Fg%2F1hc1gfk8q!19sChIJpXiw6SBfXkYRGKb_M5ecbzQ), [www.karrboprastgard.se](http://www.karrboprastgard.se/)
 
 
+### 3.34 Munkens Bageri, Djurhamn — archipelago bakery on Värmdö (**open weekends**) {notoc}
+**What:** Bakery/konditori at Gransbergsvägen 12, Djurhamn (Värmdö) — cinnamon buns, breakfast, lunch and
+fika. Google Maps 4.4★ (197 reviews).
+
+**Drive:** ~45 min, ~36 km via väg 222/274 across Värmdö to Djurhamn.
+
+**November caveats:** **Sat–Sun 08:00–16:00** (Mon–Thu 07:00–16:00, Fri 07:00–17:00) per
+explorearchipelago.com — Google Maps lists no hours, so verify on the bakery's site before going.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.31038,18.69794) · [geo:](geo:59.31038,18.69794) — Gransbergsvägen 12, 139 73 Djurhamn
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Munkens+Bageri,+Djurhamn,+V%C3%A4rmd%C3%B6/@59.25,18.55,12z/data=!4m6!3m5!1s0x46f57b9fe3503fc1:0x1ad9390302ec9836!8m2!3d59.3103917!4d18.6978928), [explorearchipelago.com — Munkens Bageri](https://www.explorearchipelago.com/sv/sthlm/mellersta-skargarden/djurostavsnas/munkens-konditori-djurhamn-varmdo-stockholms-skargard)
+
+
 ## 4. Breweries & taprooms {notoc}
 
 Found in the same Google Maps sweep (2026-11-07) as the entries above; rating ≥ 4.4, within 1.5 h, sorted by
@@ -1115,10 +1144,12 @@ Drive ~15–20 min over the bridge. Walk **Bogesundslandet** (§1.4, free, alway
 (opens 08:00 Sun per Maps, §3.18) and/or **Lidingo Musteri** at Grönsta (opens 10:00 Sun per Maps, §3.19).
 
 
-### I16. Vaxholm + Gustavsberg food stops (§1.4, §3.21, §3.22) [View on map](map.html?i=I16)
-Drive ~20–30 min. Morning walk on **Bogesundslandet** (§1.4), lunch at **Camilles Trädgård & Café** on
-Vaxholm island (Sat 11:00–17:00, Sun 11:00–16:00 per Maps, §3.21 — seasonal garden café, verify), dinner at
-**Nelson's Krog** in Gustavsberg (Sat 13:00–24:00, Sun 13:00–21:00 per Maps, §3.22).
+### I16. Vaxholm + Gustavsberg + Djurhamn food & museum day (§1.4, §2.16, §3.21, §3.22, §3.34) [View on map](map.html?i=I16)
+Drive ~20–45 min. Morning walk on **Bogesundslandet** (§1.4), **Gustavsbergs Porslinsmuseum** in Gustavsberg
+(Fri–Sun 11:00–16:00, §2.16), lunch at **Camilles Trädgård & Café** on Vaxholm island (Sat 11:00–17:00, Sun
+11:00–16:00 per Maps, §3.21 — seasonal garden café, verify), fika at **Munkens Bageri** in Djurhamn on the way
+back (Sat–Sun 08:00–16:00, §3.34), dinner at **Nelson's Krog** in Gustavsberg (Sat 13:00–24:00, Sun 13:00–21:00
+per Maps, §3.22).
 
 
 ### I17. Grödinge waffles + Paradiset hike (§1.3, §3.24) [View on map](map.html?i=I17)
