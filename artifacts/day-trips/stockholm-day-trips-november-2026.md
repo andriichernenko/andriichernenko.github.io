@@ -5,7 +5,7 @@ of late autumn. One main destination per day — no multi-stop loops. The guide 
 what matters is whether a place is open on **Sat–Sun**; weekday-only service is flagged. Entries in each
 section are sorted by driving time, shortest first; headings note whether the destination is **open all
 winter** or **partly closed** in November–December. Opening hours were checked on official sites on
-**2026-11-07**; anything that could not be verified is listed at the end. All 35 locations on one map:
+**2026-11-07**; anything that could not be verified is listed at the end. All 66 locations on one map:
 [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml).
 
 ## Daylight in November–December 2026
@@ -659,6 +659,317 @@ Combine with the Söderköping town walk (§2.14).
 
 **Source:** [sbrunn.se — restaurang](https://www.sbrunn.se/restaurang/)
 
+Entries 3.15+ were found in a Google Maps search sweep (2026-11-07): rating ≥ 4.4 and ≥ 100 reviews,
+not permanently closed, within 1.5 h of T-Centralen, not already listed above, sorted by drive time. Weekend
+hours are from the Google Maps listings checked 2026-11-07 — re-verify on the venue site before going.
+Kept out of the table of contents on purpose.
+
+### 3.15 Husby gård — Google Maps 4.5★ (189 reviews) {notoc}
+**What:** Farm café at Husby gård (Helenelund/Sollentuna).
+
+**Drive:** ~12 min from T-Centralen (12 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 4 pm; Sun 12 to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.40720,17.91983) · [geo:](geo:59.40720,17.91983) — Husby gård 8, 164 30 Kista
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Husby+g%C3%A5rd/data=!4m7!3m6!1s0x465f9efb56367479:0x266c78c0add9ef64!8m2!3d59.4072034!4d17.9198254!16s%2Fg%2F11d_bb629v!19sChIJeXQ2VvueX0YRZO_ZrcB4bCY), [www.husbygard.nu](http://www.husbygard.nu/)
+
+
+### 3.16 450 Gradi — Google Maps 4.5★ (2234 reviews) {notoc}
+**What:** Neapolitan pizza (450° oven) on Brostugevägen, Lidingö centrum.
+
+**Drive:** ~12 min from T-Centralen (5 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** open daily, closes 21:00 (per Maps).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.34392,18.15323) · [geo:](geo:59.34392,18.15323) — Brostugevägen 1, 181 30 Lidingö
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/450+Gradi/data=!4m7!3m6!1s0x465f8252a8c5ccbf:0xca3f0b07184c6a61!8m2!3d59.3439205!4d18.1532322!16s%2Fg%2F11bwptckm3!19sChIJv8zFqFKCX0YRYWpMGAcLP8o)
+
+
+### 3.17 Sundby Gård — Google Maps 4.4★ (1365 reviews) {notoc}
+**What:** Restaurant at Sundby gård (Tumba, Botkyrka kommun) — 4.4★ but 1,365 reviews.
+
+**Drive:** ~15 min from T-Centralen (14 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 3 pm; Sun 12 to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.20167,18.02169) · [geo:](geo:59.20167,18.02169) — Sundby gårdsväg 5, 141 91 Huddinge
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Sundby+G%C3%A5rd/data=!4m7!3m6!1s0x465f7a7a8514047b:0xb8c9412b5bcc2b81!8m2!3d59.2016669!4d18.02169!16s%2Fg%2F11dyjmm8b!19sChIJewQUhXp6X0YRgSvMWytBybg), [book.easytablebooking.com/book/?id=38a3e&lang=se](https://book.easytablebooking.com/book/?id=38a3e&lang=se)
+
+
+### 3.18 Vattenverket Kottlasjön — Google Maps 4.5★ (760 reviews) {notoc}
+**What:** Cafeteria at the old waterworks by Kottlasjön, Lidingö — lakeside setting.
+
+**Drive:** ~16 min from T-Centralen (8 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** opens 08:00 Sun (per Maps).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.35034,18.19292) · [geo:](geo:59.35034,18.19292) — Insjöhagsvägen 14, Lidingö
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Vattenverket+Kottlasj%C3%B6n/data=!4m7!3m6!1s0x465f82fed5580315:0x9fe04566ea4ebf89!8m2!3d59.3503429!4d18.1929196!16s%2Fg%2F11dyzcrbqj!19sChIJFQNY1f6CX0YRib9O6mZF4J8)
+
+
+### 3.19 Lidingo Musteri — Google Maps 4.5★ (109 reviews) {notoc}
+**What:** Orchard café / musteri at Grönsta prästgård, Lidingö.
+
+**Drive:** ~16 min from T-Centralen (8 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** opens 10:00 Sun (per Maps).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.37978,18.15605) · [geo:](geo:59.37978,18.15605) — Grönsta Prästgård 8, Lidingö
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Lidingo+Musteri/data=!4m7!3m6!1s0x465f83374c877c03:0x874aeb57de5369d2!8m2!3d59.3797827!4d18.1560458!16s%2Fg%2F11bxdcl9tn!19sChIJA3yHTDeDX0YR0mlT3lfrSoc)
+
+
+### 3.20 Cafè Säby Gård — Google Maps 4.5★ (1099 reviews) {notoc}
+**What:** Café in the old magazine building at Säby gård (Sollentuna).
+
+**Drive:** ~17 min from T-Centralen (16 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 10 am to 4 pm; Sun 10 am to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.42594,17.85803) · [geo:](geo:59.42594,17.85803) — Magasinet Säbygårdsvägen, 177 38 Järfälla
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Caf%C3%A8+S%C3%A4by+G%C3%A5rd/data=!4m7!3m6!1s0x465f9f67a3844c69:0x6022cd69df0b02a7!8m2!3d59.4259374!4d17.858028!16s%2Fg%2F1tj6sg1h!19sChIJaUyEo2efX0YRpwIL32nNImA), [cafesabygard.se](https://cafesabygard.se/)
+
+
+### 3.21 Camilles Trädgård & Café — Google Maps 4.8★ (715 reviews) {notoc}
+**What:** Trädgård café on Vaxholm island — garden setting, lunch and fika.
+
+**Drive:** ~19 min from T-Centralen (18 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 5 pm; Sun 11 am to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.40448,18.35238) · [geo:](geo:59.40448,18.35238) — Fiskaregatan 12, 185 32 Vaxholm
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Camilles+Tr%C3%A4dg%C3%A5rd+%26+Caf%C3%A9/data=!4m7!3m6!1s0x465f8791f154ea9d:0xf37e0b89cfc218da!8m2!3d59.4044779!4d18.3523796!16s%2Fg%2F11jhwnkhch!19sChIJnepU8ZGHX0YR2hjCz4kLfvM), [camillesgarden.com](http://camillesgarden.com/)
+
+
+### 3.22 Nelson's Krog — Google Maps 4.4★ (102 reviews) {notoc}
+**What:** Neighbourhood krog in Gustavsberg with evening service.
+
+**Drive:** ~19 min from T-Centralen (19 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 1 pm to 12 am; Sun 1 to 9 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.33088,18.39544) · [geo:](geo:59.33088,18.39544) — Markörplan 1, 134 36 Gustavsberg
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Nelson%27s+Krog/data=!4m7!3m6!1s0x465f808b682868a5:0x8e46492ed35a6439!8m2!3d59.3308808!4d18.3954422!16s%2Fg%2F1yh9tzy5l!19sChIJpWgoaIuAX0YROWRa0y5JRo4), [nelsonskrog.se](https://nelsonskrog.se/)
+
+
+### 3.23 Gårdsmejeriet Sanda — Google Maps 4.6★ (122 reviews) {notoc}
+**What:** Farm-dairy cheese shop & café on Ekerö (Sanda), by the ferry road.
+
+**Drive:** ~24 min from T-Centralen (23 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 7 am to 8 pm; Sun 7 am to 8 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.13208,18.18565) · [geo:](geo:59.13208,18.18565) — Klockarlötsvägen 5, 137 95 Österhaninge
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/G%C3%A5rdsmejeriet+Sanda/data=!4m7!3m6!1s0x465f7b7e58ffffff:0xf83afd20a75b1c6a!8m2!3d59.1320826!4d18.1856464!16s%2Fg%2F11bbrk6h28!19sChIJ____WH57X0YRahxbpyD9Ovg)
+
+
+### 3.24 Klockargårdens Våffleri — Google Maps 4.6★ (1364 reviews) {notoc}
+**What:** Waffle café at Klockargården, Kagghamra/Grödinge — same hamlet as Karshamra Mat och Trädgård.
+
+**Drive:** ~27 min from T-Centralen (26 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 10 am to 5 pm; Sun 10 am to 5 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.14479,17.78955) · [geo:](geo:59.14479,17.78955) — Grödinge Kyrkby 6, 147 92 Grödinge
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Klockarg%C3%A5rdens+V%C3%A5ffleri/data=!4m7!3m6!1s0x465f6d9c07591ee3:0x4713a48ba74186ea!8m2!3d59.1447879!4d17.7895533!16s%2Fg%2F11g1dvfb7b!19sChIJ4x5ZB5xtX0YR6oZBp4ukE0c), [www.klockargardensvaffleri.se/vanligaste-fragorna](https://www.klockargardensvaffleri.se/vanligaste-fragorna/)
+
+
+### 3.25 Steninge Brygga — Google Maps 4.5★ (119 reviews) {notoc}
+**What:** Restaurant by the jetty at Steninge slott (a different venue from Steninge Bruk §3.5).
+
+**Drive:** ~36 min from T-Centralen (34 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 10 pm; Sun 11 am to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.60105,17.77988) · [geo:](geo:59.60105,17.77988) — Steninge Slottsväg 411, 195 59 Märsta
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Steninge+Brygga/data=!4m7!3m6!1s0x465fbbab0ec3b803:0xda91810609e695de!8m2!3d59.6010484!4d17.7798804!16s%2Fg%2F11w9n52x6v!19sChIJA7jDDqu7X0YR3pXmCQaBkdo), [www.steningebrygga.se](https://www.steningebrygga.se/)
+
+
+### 3.26 Österby Gårdsbutik — Google Maps 4.7★ (168 reviews) {notoc}
+**What:** Gårdsbutik (farm shop) with café at Österby, between Sigtuna and Uppsala.
+
+**Drive:** ~44 min from T-Centralen (42 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 4 pm; Sun Closed.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.66051,17.68916) · [geo:](geo:59.66051,17.68916) — Vassundavägen 243, 193 91 Sigtuna
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/%C3%96sterby+G%C3%A5rdsbutik/data=!4m7!3m6!1s0x465fba012f3e6e0d:0x904c3ba740dd7345!8m2!3d59.6605139!4d17.6891614!16s%2Fg%2F11c6df1ff9!19sChIJDW4-LwG6X0YRRXPdQKc7TJA), [www.osterbygard.se](http://www.osterbygard.se/)
+
+
+### 3.27 Krägga Café & Lanthandel — Google Maps 4.6★ (184 reviews) {notoc}
+**What:** Café + lanthandel at Krägga herrgård, south-east of Enköping.
+
+**Drive:** ~50 min from T-Centralen (48 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 8 pm; Sun 12 to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.60487,17.40734) · [geo:](geo:59.60487,17.40734) — Grönlundsvägen 1a, 746 93 Bålsta
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Kr%C3%A4gga+Caf%C3%A9+%26+Lanthandel/data=!4m7!3m6!1s0x465fad86bf223c61:0x2ab57a19ef47124e!8m2!3d59.6048738!4d17.4073435!16s%2Fg%2F11c0xytv6t!19sChIJYTwiv4atX0YRThJH7xl6tSo), [www.kraggamatochvanner.se](https://www.kraggamatochvanner.se/)
+
+
+### 3.28 Café Grassagården — Google Maps 4.6★ (785 reviews) {notoc}
+**What:** Café-restaurant on Kvarngatan in Strängnäs old town.
+
+**Drive:** ~61 min from T-Centralen (59 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 10 am to 5 pm; Sun 10 am to 5 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.37784,17.03132) · [geo:](geo:59.37784,17.03132) — Kvarngatan 2, 645 30 Strängnäs
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Caf%C3%A9+Grassag%C3%A5rden/data=!4m7!3m6!1s0x465efe9f9c149279:0x46558d6edd78692c!8m2!3d59.3778394!4d17.0313203!16s%2Fg%2F11c59wfq3k!19sChIJeZIUnJ_-XkYRLGl43W6NVUY), [cafegrassagarden.se](https://cafegrassagarden.se/)
+
+
+### 3.29 Köpmanholms Lanthandel Grill & Bar — Google Maps 4.4★ (211 reviews) {notoc}
+**What:** Lanthandel with grill & bar at Köpmanholm on Rådmansö/Väddö.
+
+**Drive:** ~64 min from T-Centralen (61 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 4 pm; Sun 11 am to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.65951,18.93225) · [geo:](geo:59.65951,18.93225) — Holmbergsbacken 1, 760 18 Yxlan
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/K%C3%B6pmanholms+Lanthandel+Grill+%26+Bar/data=!4m7!3m6!1s0x46f55c618757d28d:0x1acd8e433396f7b9!8m2!3d59.6595144!4d18.9322477!16s%2Fg%2F11g6wjlrzh!19sChIJjdJXh2Fc9UYRufeWM0OOzRo)
+
+
+### 3.30 Miklagård — Google Maps 4.7★ (186 reviews) {notoc}
+**What:** Restaurant on Årstagatan in Uppsala (Gamla Uppsala side).
+
+**Drive:** ~67 min from T-Centralen (64 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 10 pm; Sun 12 to 9 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.86809,17.66254) · [geo:](geo:59.86809,17.66254) — Årstagatan 6, 754 34 Uppsala
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Miklag%C3%A5rd/data=!4m7!3m6!1s0x465fcdf7b461da4d:0x83396e11dca7e108!8m2!3d59.8680897!4d17.6625427!16s%2Fg%2F11t81h37r2!19sChIJTdphtPfNX0YRCOGn3BFuOYM), [www.miklagarduppsala.se](http://www.miklagarduppsala.se/)
+
+
+### 3.31 Landsberga Gårdsbutik & Café — Google Maps 4.4★ (722 reviews) {notoc}
+**What:** Gårdsbutik & café at Landsberga, west of Uppsala.
+
+**Drive:** ~70 min from T-Centralen (68 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 5 pm; Sun 11 am to 5 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.74038,17.18078) · [geo:](geo:59.74038,17.18078) — BISKOPSKULLA LANDSBERGA 5, 749 63 Örsundsbro
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Landsberga+G%C3%A5rdsbutik+%26+Caf%C3%A9/data=!4m7!3m6!1s0x465e492de8a24435:0xfa9ec6c287b6c555!8m2!3d59.7403805!4d17.1807824!16s%2Fg%2F11c4b2_htb!19sChIJNUSi6C1JXkYRVcW2h8LGnvo), [www.landsberga.se](http://www.landsberga.se/)
+
+
+### 3.32 Café Östergården — Google Maps 4.6★ (132 reviews) {notoc}
+**What:** Cafeteria at Östergården farm, Uvsta (south-west of Uppsala).
+
+**Drive:** ~75 min from T-Centralen (72 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 4 pm; Sun 11 am to 4 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=58.90881,17.09668) · [geo:](geo:58.90881,17.09668) — Uvsta Östergården 1, 611 91 Nyköping
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Caf%C3%A9+%C3%96sterg%C3%A5rden/data=!4m7!3m6!1s0x465f2529aff703a3:0x492813aaf1624c1!8m2!3d58.9088123!4d17.0966813!16s%2Fg%2F11r2jpv8mw!19sChIJowP3ryklX0YRwSQWrzqBkgQ), [www.cafeostergarden.se](http://www.cafeostergarden.se/)
+
+
+### 3.33 Kärrbo Prästgård — Google Maps 4.5★ (151 reviews) {notoc}
+**What:** Farm café/restaurant at Kärrbo prästgård, Köpings kommun (E18 corridor).
+
+**Drive:** ~81 min from T-Centralen (78 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 6 am to 9 pm; Sun 6 am to 9 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.55469,16.75756) · [geo:](geo:59.55469,16.75756) — Kärrbo Prästgård 6, 725 97 Västerås
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/K%C3%A4rrbo+Pr%C3%A4stg%C3%A5rd/data=!4m7!3m6!1s0x465e5f20e9b078a5:0x346f9c9733ffa618!8m2!3d59.554688!4d16.7575645!16s%2Fg%2F1hc1gfk8q!19sChIJpXiw6SBfXkYRGKb_M5ecbzQ), [www.karrboprastgard.se](http://www.karrboprastgard.se/)
+
+
+## 4. Breweries & taprooms {notoc}
+
+Found in the same Google Maps sweep (2026-11-07) as the entries above; rating ≥ 4.4, within 1.5 h, sorted by
+drive time. Weekend hours are from the Google Maps listings — brewery taprooms often keep irregular hours,
+so check the brewery site before driving out. Kept out of the table of contents on purpose.
+
+### 4.1 Värmdö Bryggeri — Google Maps 4.9★ (11 reviews) {notoc}
+**What:** Craft brewery in Gustavsberg (Värmdö kommun) with a taproom — small but well-liked (only 11 reviews, so rating is soft).
+
+**Drive:** ~19 min from T-Centralen (18 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no weekend hours listed on Google Maps).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.30870,18.37868) · [geo:](geo:59.30870,18.37868) — Leveransvägen 15, 134 45 Gustavsberg
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/V%C3%A4rmd%C3%B6+Bryggeri+AB/data=!4m7!3m6!1s0x46f57eabdc5018ab:0xe376a59bfb68285c!8m2!3d59.3087012!4d18.3786804!16s%2Fg%2F1yh9tz7h6!19sChIJqxhQ3Kt-9UYRXCho-5ulduM), [www.varmdobryggeri.se](http://www.varmdobryggeri.se/)
+
+
+### 4.2 Taxinge Brewery — Google Maps 4.7★ (154 reviews) {notoc}
+**What:** Brewery at Taxinge-Näsby slott — same venue as the slottscafé (§3.8); brewery/taproom activity mainly on event and julmarknad days.
+
+**Drive:** ~46 min from T-Centralen (44 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** (no weekend hours listed on Google Maps).
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.24087,17.30315) · [geo:](geo:59.24087,17.30315) — NÄSBY 22, 155 93 Nykvarn
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Taxinge+Brewery/data=!4m7!3m6!1s0x465f1b160c1bcc71:0x413190d8180d7a0a!8m2!3d59.2408726!4d17.303151!16s%2Fg%2F11rrj6k453!19sChIJccwbDBYbX0YRCnoNGNiQMUE), [www.taxingekrog.com](http://www.taxingekrog.com/)
+
+
+### 4.3 Stationshuset i Knivsta — Google Maps 4.6★ (230 reviews) {notoc}
+**What:** Brewpub in the old station house in Knivsta — own beers on tap plus food.
+
+**Drive:** ~49 min from T-Centralen (47 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 4 pm to 1 am; Sun Closed.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.72562,17.78661) · [geo:](geo:59.72562,17.78661) — Stationsvägen 2, 741 40 Knivsta
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Stationshuset+i+Knivsta/data=!4m7!3m6!1s0x465fb869b9741981:0xf46ed04efc99427f!8m2!3d59.7256231!4d17.7866093!16s%2Fg%2F11d_d55n52!19sChIJgRl0uWm4X0YRf0KZ_E7QbvQ), [stationshusetiknivsta.se](https://stationshusetiknivsta.se/)
+
+
+### 4.4 Taps Beer Bar — Google Maps 4.5★ (620 reviews) {notoc}
+**What:** Beer hall on Drottninggatan, Uppsala — wide tap list, late weekend hours.
+
+**Drive:** ~66 min from T-Centralen (63 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 2 pm to 3 am; Sun 2 to 10 pm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.85705,17.63586) · [geo:](geo:59.85705,17.63586) — Drottninggatan 8b, 753 10 Uppsala
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Taps+Beer+Bar/data=!4m7!3m6!1s0x465fcbf0db770701:0x24f66d491a56499b!8m2!3d59.85705!4d17.6358598!16s%2Fg%2F11g9n9mvdg!19sChIJAQd32_DLX0YRm0lWGklt9iQ), [www.tapsbeerbar.se](http://www.tapsbeerbar.se/)
+
+
+### 4.5 Eskilstuna Ölkultur — Google Maps 4.4★ (245 reviews) {notoc}
+**What:** Craft brewery/taproom at Faktorigatan, Eskilstuna.
+
+**Drive:** ~92 min from T-Centralen (88 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 1 pm to 12 am; Sun Closed.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=59.37549,16.50874) · [geo:](geo:59.37549,16.50874) — Faktorigatan 1, 632 17 Eskilstuna
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Eskilstuna+%C3%96lkultur/data=!4m7!3m6!1s0x465ef2ca511200ad:0x4c79efa31b531194!8m2!3d59.3754874!4d16.5087381!16s%2Fg%2F1q2wfxlm4!19sChIJrQASUcryXkYRlBFTG6PveUw), [www.eskilstunaolkultur.se](http://www.eskilstunaolkultur.se/)
+
+
+### 4.6 Nyköping Brewing Company — Google Maps 4.4★ (276 reviews) {notoc}
+**What:** Craft brewery on Kungsgatan, Nyköping.
+
+**Drive:** ~92 min from T-Centralen (88 km straight-line).
+
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 1 pm to 12 am; Sun Closed.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=58.74936,17.00959) · [geo:](geo:58.74936,17.00959) — Kungsgatan 30, 611 32 Nyköping
+
+**Source:** [Google Maps listing](https://www.google.com/maps/place/Nyk%C3%B6ping+Brewing+Company/data=!4m7!3m6!1s0x465f2d65976621ef:0x5fab890b4b71a9af!8m2!3d58.7493626!4d17.009592!16s%2Fg%2F11flvw6zsd!19sChIJ7yFml2UtX0YRr6lxSwuJq18), [www.nykopingbrewing.se](http://www.nykopingbrewing.se/)
+
+
 ---
 
 
@@ -698,6 +1009,7 @@ Combine with the Söderköping town walk (§2.14).
 - **Femörefortet** spring-2027 public reopening dates not yet published; November = group bookings only.
 - **Stendörren suspension bridges**: no formal 2026 reopening notice found after the 2023 inspection
   closure — check before revisiting.
+- **Entries 3.15–3.33 and section 4 (Google Maps research additions)**: ratings/reviews are from Google Maps listings checked 2026-11-07; weekend hours shown there are **not** re-verified on official sites — confirm before travelling. Värmdö Bryggeri has only 11 reviews (rating soft). Beer Monkey (Uppsala) showed "temporarily closed" on Maps and was dropped.
 - **Roslagens sjöfartsmuseum** (Älmsta, Väddö): verified **closed to the public September–May** (office
   Tue–Thu only) — not a November stop. **Pythagoras industrimuseum** (Norrtälje): closed on ordinary days
   Nov–Mar; only its **julmarknad Sun 6 Dec 2026** (andra advent). **Roslagsmuseet** (Norrtälje): first two
@@ -777,9 +1089,9 @@ afterwards a short park walk at **Örbyhus slott** (~15 min away, park open all 
 Bålsta on 13 Dec at 13:00 if you stay.
 
 
-### I11. Väddö day — prästgård reserve walk + farm dairy (§1.11, §3.10) [View on map](map.html?i=I11)
+### I11. Väddö day — prästgård reserve walk + farm dairy + lanthandel grill (§1.11, §3.10, §3.29) [View on map](map.html?i=I11)
 Drive ~1 h 10 min. Walk Väddö prästgårds naturreservat (free, always open) and the Roslagen coast near
-Gåsvik, then fika and shopping at Väddö gårdsmejeri — Bondens Kök **Sat 10:00–16:00, Sun 10:00–15:00**.
+Gåsvik, then fika and shopping at Väddö gårdsmejeri — Bondens Kök **Sat 10:00–16:00, Sun 10:00–15:00** — and lunch/grill at **Köpmanholms Lanthandel** on the way back (Sat–Sun 11:00–16:00 per Maps, §3.29).
 First Advent weekend 28–29 Nov: julmarknad at Bergby Gård on Väddö. If driving through Norrtälje on
 **Sun 6 Dec**, Pythagoras industrimuseum holds its julmarknad (andra advent) there.
 
@@ -788,10 +1100,32 @@ Drive ~40 min. Tom Tits Experiment (indoor science centre, house daily 10:00–1
 weekend days) plus Torekällberget open-air museum grounds (free, daily 06:30–21:00). **6–7 Dec: Jul på
 1800-talet julmarknad** on the hill.
 
-### I13. Arsenalen + Strängnäs (§2.9, §2.7) [View on map](map.html?i=I13)
+### I13. Arsenalen + Strängnäs (§2.9, §2.7, §3.28) [View on map](map.html?i=I13)
 Drive ~1 h 05 min. Arsenalen military-vehicle museum **Wed–Sun 11:00–16:00** (140 kr), then Strängnäs town
-stroll and domkyrka (daily 10:00–16:00).
+stroll and domkyrka (daily 10:00–16:00), with lunch at **Café Grassagården** on Kvarngatan (Sat–Sun 10:00–17:00 per Maps, §3.28).
 
 ### I14. Munktellmuseet, Eskilstuna (§2.11) [View on map](map.html?i=I14)
 Drive ~1 h 10 min. Munktellmuseet **Sat–Sun ~12:00–16:00** (verify on munktellmuseet.com; 150 kr pre-booked /
 180 kr at the door) plus an Eskilstuna town stroll.
+
+
+### I15. Lidingö fika & pizza day (§1.4, §3.16, §3.18, §3.19) [View on map](map.html?i=I15)
+Drive ~15–20 min over the bridge. Walk **Bogesundslandet** (§1.4, free, always open), then lunch pizza at
+**450 Gradi** (open daily, closes 21:00 per Maps, §3.16), fika at **Vattenverket Kottlasjön** by the lake
+(opens 08:00 Sun per Maps, §3.18) and/or **Lidingo Musteri** at Grönsta (opens 10:00 Sun per Maps, §3.19).
+
+
+### I16. Vaxholm + Gustavsberg food stops (§1.4, §3.21, §3.22) [View on map](map.html?i=I16)
+Drive ~20–30 min. Morning walk on **Bogesundslandet** (§1.4), lunch at **Camilles Trädgård & Café** on
+Vaxholm island (Sat 11:00–17:00, Sun 11:00–16:00 per Maps, §3.21 — seasonal garden café, verify), dinner at
+**Nelson's Krog** in Gustavsberg (Sat 13:00–24:00, Sun 13:00–21:00 per Maps, §3.22).
+
+
+### I17. Grödinge waffles + Paradiset hike (§1.3, §3.24) [View on map](map.html?i=I17)
+Drive ~30–35 min south. Walk **Paradiset-Hanveden** (§1.3, free, always open), then waffles at
+**Klockargårdens Våffleri** in Kagghamra (Sat–Sun 10:00–17:00 per Maps, §3.24 — verify on site).
+
+
+### I18. Brewery afternoon in Gustavsberg (§4.1, §3.22) [View on map](map.html?i=I18)
+Drive ~20 min. Taproom at **Värmdö Bryggeri** (Leveransvägen 15, Gustavsberg — hours not listed on Maps,
+check varmdobryggeri.se first, §4.1), then dinner at **Nelson's Krog** (Sat 13:00–24:00 per Maps, §3.22).
