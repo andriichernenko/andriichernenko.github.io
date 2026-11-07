@@ -60,12 +60,12 @@ function popup(p) {
 const layers = {};
 for (const [prefix, k] of Object.entries(KINDS)) {
   const g = L.layerGroup();
-  for (const p of pts.filter(p => p.kind === k.key)) L.marker([p.lat, p.lon], { icon: icon(k.key) }).addTo(g).bindPopup(popup(p));
+  for (const p of pts.filter(p => p.kind === k.key)) L.marker([p.lat, p.lon], { icon: icon(k.key) }).addTo(g).bindPopup(popup(p), { offset: [0, -28] });
   layers[k.key] = g;
 }
 const homeLayer = L.layerGroup();
 L.marker([HOME.lat, HOME.lon], { icon: icon('home') }).addTo(homeLayer)
-  .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a>');
+  .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a>', { offset: [0, -32] });
 layers['home'] = homeLayer;
 
 for (const k of Object.keys(layers)) map.addLayer(layers[k]);
@@ -94,10 +94,10 @@ function show(key) {
     for (const s of itin[key].slugs) {
       const p = bySlug[s]; if (!p) continue;
       bounds.push([p.lat, p.lon]);
-      L.marker([p.lat, p.lon], { icon: icon(p.kind) }).addTo(itinLayer).bindPopup(popup(p));
+      L.marker([p.lat, p.lon], { icon: icon(p.kind) }).addTo(itinLayer).bindPopup(popup(p), { offset: [0, -28] });
     }
     L.marker([HOME.lat, HOME.lon], { icon: icon('home') }).addTo(itinLayer)
-      .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a>');
+      .bindPopup('<strong>' + HOME.label + '</strong><br>Home base · <a href="https://www.google.com/maps?q=59.305701,18.0351886" target="_blank" rel="noopener">Google Maps</a>', { offset: [0, -32] });
     itinLayer.addTo(map);
     map.fitBounds(bounds, { padding: [30, 30] });
   }
