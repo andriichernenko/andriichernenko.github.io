@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /day-trips-stockholm-november-2026/
