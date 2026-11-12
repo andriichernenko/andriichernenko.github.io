@@ -320,49 +320,227 @@ All trains leave from **Barcelona-Sants** (18 min from the hotel: L3 from Liceu,
 
 ## 3. Breakfast near the base (opens by 09:00)
 
-### 3.1 Granja M. Viader — hot chocolate since 1870
-**What:** Historic granja on La Rambla: thick drinking chocolate, churros, suizo. Opens 9:00 (9:00–13:30, 17:00–20:30). Classic, standing room, very local ritual.
+All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours verified on Google Maps **2026-11-12**. **Sun 3 Jan:** several places close — flagged per entry. **Fri 1 Jan (public holiday):** forns/bakeries normally open, but cafés and bars often close — confirm the evening before. Ratings/reviews are Google Maps values captured 2026-11-12. No chains — all local forns, bars and roasters.
 
-**Getting there:** 4 min walk from the hotel (La Rambla 32).
+### 3.1 Forns del Pi — forn on the next street (opens 7:00 daily)
+**What:** Old-school neighbourhood forn on Carrer de Ferran: pa amb tomàquet, coca, pastries, churros, coffee. 4.2★ (1,962). Opens **7:00 every day incl. Sunday**, 7:00–21:00.
 
-**Winter caveats:** closed Sundays (so not Sun 3 Jan); closes 13:30 — a morning-only stop.
+**Getting there:** 1 min walk from the hotel (Carrer de Ferran 12).
+
+**Winter caveats:** verified 7:00–21:00 all seven days — the most reliable Sunday option (Sun 3 Jan). 1 Jan hours not published; forns normally open on holidays, confirm on the day.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3807611,2.1748) · [geo:](geo:41.3807611,2.1748) — Carrer de Ferran 12
+
+**Source:** Google Maps listing (weekly hours checked 2026-11-12), [fornsdelpi.com](https://fornsdelpi.com/es/)
+
+### 3.2 Forneria Tiana (Cal Tiana) — tiny forn on Escudellers (opens 7:30)
+**What:** Family forn on Carrer dels Escudellers: fresh bread, coca, pastries, coffee — locals' spot, few tourists. 4.5★ (164). Mon–Fri 7:30–20:30; Sat–Sun from 8:30.
+
+**Getting there:** 2 min walk (Carrer dels Escudellers 59).
+
+**Winter caveats:** open all six days of your stay (from 8:30 on Sat 2 / Sun 3 Jan) per verified weekly hours; 1 Jan likely open (forn), confirm on the day.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3803215,2.1770371) · [geo:](geo:41.3803215,2.1770371) — Carrer dels Escudellers 59
+
+**Source:** Google Maps listing (checked 2026-11-12), [caltiana.cat](https://www.caltiana.cat/)
+
+### 3.3 ARTiSA — historic pâtisserie at Plaça Reial (opens 9:00 daily)
+**What:** Espresso bar & pâtisserie on Plaça Reial: coffee, toasties, cakes in a classic marble interior. 4.4★ (3,565). Opens **9:00 every day incl. Sunday** (Sun 9:00–20:30, Mon–Sat 9:00–20:30/21:30).
+
+**Getting there:** 2 min walk (Plaça Reial 2, Carrer de Colom side).
+
+**Winter caveats:** verified 9:00 opening all seven days; 1 Jan not published — confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3797283,2.1748844) · [geo:](geo:41.3797283,2.1748844) — Plaça Reial 2
+
+**Source:** Google Maps listing (checked 2026-11-12), [artisa.es](http://www.artisa.es/)
+
+### 3.4 A Little Bud — small brunch café on Avinyó (opens 9:00; closed Wed & Thu)
+**What:** Tiny brunch spot: pancakes, eggs, specialty coffee. 4.9★ (618). Opens 9:00 — **closed Wed 30 Dec and Thu 31 Dec**.
+
+**Getting there:** 2 min walk (Carrer d'Avinyó 26).
+
+**Winter caveats:** open Tue 29, Sat 2, Sun 3 (and Fri 1 Jan — confirm); closed Wed/Thu per verified weekly hours.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3809095,2.1770425) · [geo:](geo:41.3809095,2.1770425) — Carrer d'Avinyó 26
+
+**Source:** Google Maps listing (checked 2026-11-12)
+
+### 3.5 Noor Brunch — specialty coffee & matcha (opens 7:30 daily)
+**What:** Local roaster's brunch café (Noor Coffee, Barcelona): espresso, matcha, brunch plates, cakes. 4.6★ (848). Opens **7:30 every day incl. Sunday** (Mon–Thu until 17:00, Fri–Sun until 20:00).
+
+**Getting there:** 3 min walk (Carrer del Cardenal Casañas 4).
+
+**Winter caveats:** open all six days from 7:30 per verified weekly hours; 1 Jan not published — confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3815434,2.1735203) · [geo:](geo:41.3815434,2.1735203) — Cardenal Casañas 4
+
+**Source:** Google Maps listing (checked 2026-11-12), [noorcoffee.co](https://www.noorcoffee.co/)
+
+### 3.6 Forn Boix — Eixample forn, old-town branch
+**What:** Traditional bakery-café (est. 1945) on Carrer de Muntaner: toasties, pa amb tomàquet, cakes.
+
+**Getting there:** 4 min walk from the hotel — the old-town branch (pin); the main bakery is at Carrer de Muntaner 179 (8 min walk).
+
+**Winter caveats:** weekday hours not captured — forns typically open 7:00–8:00; verify on the day.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3810051,2.1723394) · [geo:](geo:41.3810051,2.1723394) — Forn Boix, old town
+
+**Source:** Google Maps listing (checked 2026-11-12), [fornboix.com](https://www.fornboix.com/)
+
+### 3.7 Conesa Entrepans — bocadillos since 1951 (opens 8:30; closed Sun)
+**What:** Historic entrepà shop on La Llibreteria: legendary bocadillos to go or at the counter, coffee. 4.5★ (3,147). Opens 8:30 Mon–Sat; **closed Sundays**.
+
+**Getting there:** 4 min walk (Carrer de la Llibreteria 1).
+
+**Winter caveats:** closed Sun 3 Jan; open Tue 29–Sat 2 from 8:30 per verified weekly hours. 1 Jan not published — confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3830864,2.1770921) · [geo:](geo:41.3830864,2.1770921) — Carrer de la Llibreteria 1
+
+**Source:** Google Maps listing (checked 2026-11-12), [conesaentrepans.com](http://www.conesaentrepans.com/)
+
+### 3.8 Sant Jordi Forn de pa — bakery on La Llibreteria (opens 8:00)
+**What:** Neighbourhood bakery: bread, pa amb tomàquet, pastries, coffee. 4.6★ (249). Opens 8:00 Mon–Sat, 8:30 Sun.
+
+**Getting there:** 4 min walk (Carrer de la Llibreteria 8).
+
+**Winter caveats:** open all six days from 8:00 (Sun from 8:30) per verified weekly hours; 1 Jan likely open (forn), confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3831291,2.1773302) · [geo:](geo:41.3831291,2.1773302) — Carrer de la Llibreteria 8
+
+**Source:** Google Maps listing (checked 2026-11-12)
+
+### 3.9 Cafè del Suizo — classic bar by the hotel (opens 8:00 daily)
+**What:** Old-school cafeteria on Carrer de Jaume I — run by the same Gargallo group as your hotel: café con leche, tostadas, bocadillos. 4.9★ (99). Opens **8:00 every day incl. Sunday**, 8:00–20:00.
+
+**Getting there:** 5 min walk (Carrer de Jaume I 19).
+
+**Winter caveats:** verified 8:00–20:00 daily; 1 Jan not published — bars often close on 1 Jan, confirm the evening before.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.383727,2.1783414) · [geo:](geo:41.383727,2.1783414) — Carrer de Jaume I 19
+
+**Source:** Google Maps listing (checked 2026-11-12), [gargallo-hotels.com — Cafè del Suizo](https://www.gargallo-hotels.com/hotel-suizo/cafe-del-suizo)
+
+### 3.10 Buenas Migas — migas & coffee, small local chain (opens 8:00)
+**What:** Small Barcelona chain (3–4 spots) famous for migas, coffee and toasties — the Gòtic branch is locals-only. 4.5★ (1,238). Opens 8:00 Mon–Fri; 9:00 Sat & Sun.
+
+**Getting there:** 5 min walk (Baixada de Santa Clara 2).
+
+**Winter caveats:** open all six days (from 9:00 on Sat 2 / Sun 3 Jan) per verified weekly hours; 1 Jan not published — confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3838103,2.1772981) · [geo:](geo:41.3838103,2.1772981) — Baixada de Santa Clara 2
+
+**Source:** Google Maps listing (checked 2026-11-12), [buenasmigas.com](http://www.buenasmigas.com/)
+
+### 3.11 Farggi — old café by Plaça del Rei (opens 8:00 daily)
+**What:** Historic café-pâtisserie on Baixada de la Llibreteria: coffee, churros, cakes, light breakfasts in an old-world room. 4.4★ (2,807). Opens **8:00 every day incl. Sunday**, 8:00–20:30.
+
+**Getting there:** 5 min walk (Baixada de la Llibreteria 5, Plaça del Rei corner).
+
+**Winter caveats:** open all six days from 8:00 per verified weekly hours; 1 Jan not published — confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3836648,2.1778468) · [geo:](geo:41.3836648,2.1778468) — Baixada de la Llibreteria 5
+
+**Source:** Google Maps listing (checked 2026-11-12)
+
+### 3.12 Tostaderos Bon Mercat Llibreteria — local roastery café (opens 8:00; closed Sun)
+**What:** Barcelona coffee roaster's café: freshly roasted beans, espresso, toasties. 4.7★ (1,088). Opens 8:00 Mon–Sat; **closed Sundays**.
+
+**Getting there:** 5 min walk (Baixada de la Llibreteria 1).
+
+**Winter caveats:** closed Sun 3 Jan; open Tue 29–Sat 2 from 8:00 per verified weekly hours. 1 Jan not published — confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3836033,2.1777507) · [geo:](geo:41.3836033,2.1777507) — Baixada de la Llibreteria 1
+
+**Source:** Google Maps listing (checked 2026-11-12)
+
+### 3.13 Kafeto bakery & coffee — La Rambla bakery (opens 7:00 daily)
+**What:** Bakery & coffee on La Rambla: fresh bread, pastries, pa amb tomàquet, espresso. 4.7★ (1,748). Opens **7:00 every day incl. Sunday**, 7:00–24:00.
+
+**Getting there:** 5 min walk (La Rambla 116).
+
+**Winter caveats:** open all six days from 7:00 per verified weekly hours; 1 Jan likely open (bakery), confirm. (A duplicate "Kafetó" listing at the same address opens 10:00 — use the 7:00 one.)
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3830378,2.1719645) · [geo:](geo:41.3830378,2.1719645) — La Rambla 116
+
+**Source:** Google Maps listing (checked 2026-11-12)
+
+### 3.14 Soul Cafe — neighbourhood café on Carrer Ample (opens 8:00 daily)
+**What:** Cosy café on Carrer Ample: coffee, toasties, cakes, breakfast plates. 4.6★ (332). Opens **8:00 every day** (Mon–Sat 8:00–19:00, Sun 8:00–15:30).
+
+**Getting there:** 5 min walk (Carrer Ample 31).
+
+**Winter caveats:** open all six days from 8:00 per verified weekly hours; 1 Jan not published — confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3804376,2.1797846) · [geo:](geo:41.3804376,2.1797846) — Carrer Ample 31
+
+**Source:** Google Maps listing (checked 2026-11-12)
+
+### 3.15 La Pallaresa — xurros & porras (opens 9:00 daily)
+**What:** Family xurreria since 1890: churros, porras, hot chocolate to go. 4.2★ (6,322). Opens 9:00 daily **including Sunday** (9:00–13:00, 16:00–21:00 Sun).
+
+**Getting there:** 5 min walk from the hotel (Carrer de Petritxol 11).
+
+**Winter caveats:** open every day of your stay.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.382919,2.1727706) · [geo:](geo:41.382919,2.1727706) — Carrer de Petritxol 11
+
+**Source:** Google Maps listing (hours checked 2026-11-12), [lapallaresa.com](https://www.lapallaresa.com/)
+
+### 3.16 Granja M. Viader — hot chocolate since 1870 (opens 9:00; closed Sun)
+**What:** Historic granja on La Rambla: thick drinking chocolate, churros, suizo. 4.4★ (4,476). Opens 9:00 Mon–Sat (9:00–13:30, 17:00–20:30). Classic, standing room, very local ritual.
+
+**Getting there:** 6 min walk from the hotel (La Rambla 32 / Carrer d'en Xuclà 4).
+
+**Winter caveats:** closed Sundays (so not Sun 3 Jan); closes 13:30 — a morning-only stop. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps?q=41.3830917,2.1708449) · [geo:](geo:41.3830917,2.1708449) — La Rambla 32
 
 **Source:** Google Maps listing (hours checked 2026-11-12), [granjamviader.com](https://www.granjamviader.com/)
 
-### 3.2 La Pallaresa — xurros & porras
-**What:** Family xurreria since 1890: churros, porras, hot chocolate to go. Opens 9:00 daily **including Sunday** (9:00–13:00, 16:00–21:00 Sun).
+### 3.17 LA CANDELARIA — tiny espresso bar in the Raval (opens 8:00)
+**What:** Hole-in-the-wall espresso bar on Carrer d'En Robador: espresso, cortado, toasties — standing room, very local. 5.0★ (113). Opens 8:00 Mon–Fri; 9:00 Sat & Sun, until 16:00.
 
-**Getting there:** 5 min walk from the hotel (Carrer de Petxina 17).
+**Getting there:** 6 min walk (Carrer d'En Robador 1).
 
-**Winter caveats:** open every day of your stay.
+**Winter caveats:** open all six days (from 9:00 on Sat 2 / Sun 3 Jan) per verified weekly hours; 1 Jan not published — confirm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=41.382919,2.1727706) · [geo:](geo:41.382919,2.1727706) — Carrer de Petxina 17
-
-**Source:** Google Maps listing (hours checked 2026-11-12), [lapallaresa.com](https://www.lapallaresa.com/)
-
-### 3.3 Forns del Pi — neighbourhood bakery, Plaça de Sant Gregori
-**What:** Old-school forn (bakery) in the Gothic Quarter: pa amb tomàquet, coca, pastries, coffee. Local breakfast spot.
-
-**Getting there:** 5 min walk from the hotel (Plaça de Sant Gregori 7).
-
-**Winter caveats:** weekday hours not captured from Maps — opens early on weekdays (forns open ~7:00–8:00 typically); verify on the day. Likely closed Sun.
-
-**Links:** [Google Maps](https://www.google.com/maps?q=41.3807611,2.1748) · [geo:](geo:41.3807611,2.1748) — Plaça de Sant Gregori 7
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3803396,2.1702547) · [geo:](geo:41.3803396,2.1702547) — Carrer d'En Robador 1
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.4 Forn Boix — Eixample forn
-**What:** Traditional bakery-café (est. 1945) on Carrer de Muntaner: toasties, pa amb tomàquet, cakes.
+### 3.18 Cafetería Cafés Caracas — old-school cafeteria in Born (opens 8:00; closed Sun)
+**What:** Classic cafeteria in Sant Pere Més Baix: café con leche, bikini (ham & cheese toastie), churros. 5.0★ (1,312). Opens 8:00 Mon–Fri, 9:00 Sat; **closed Sundays**; closes 15:00 (14:00 Sat) — morning only.
 
-**Getting there:** 6 min walk from the hotel — the old-town branch (pin); the main bakery is at Carrer de Muntaner 179 (8 min walk).
+**Getting there:** 10 min walk (Carrer de Sant Pere Més Baix 44).
 
-**Winter caveats:** weekday hours not captured — verify on the day.
+**Winter caveats:** closed Sun 3 Jan; open Tue 29–Sat 2 from 8:00 (Sat from 9:00) per verified weekly hours. 1 Jan not published — confirm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=41.3810051,2.1723394) · [geo:](geo:41.3810051,2.1723394) — Forn Boix, old town
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3875413,2.1778814) · [geo:](geo:41.3875413,2.1778814) — Sant Pere Més Baix 44
 
-**Source:** Google Maps listing (checked 2026-11-12), [fornboix.com](https://www.fornboix.com/)
+**Source:** Google Maps listing (checked 2026-11-12), [cafescaracas.com](https://www.cafescaracas.com/)
+
+### 3.19 Pastisseria Hofmann — pâtisserie institution, Born (opens 9:00 daily)
+**What:** Hofmann's Born pâtisserie: coffee with a cake or croissant — their pastries are the draw. 4.4★ (4,270). Opens **9:00 every day incl. Sunday** (Mon–Sat 9:00–20:00, Sun 9:00–19:00).
+
+**Getting there:** 10 min walk (Carrer dels Flassaders 44).
+
+**Winter caveats:** open all six days from 9:00 per verified weekly hours; 1 Jan likely open (pâtisserie), confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.385079,2.1827036) · [geo:](geo:41.385079,2.1827036) — Flassaders 44
+
+**Source:** Google Maps listing (checked 2026-11-12), [hofmannpasteleria.com](http://hofmannpasteleria.com/)
+
+### 3.20 Forn Baluard Barceloneta — artisan wood-oven bakery (opens 7:30 daily)
+**What:** Award-winning artisan bakery (wood-fired oven) in Barceloneta — the beach-day breakfast: bread, coca, pastries, coffee. 4.6★ (1,638). Opens **7:30 every day** (Mon–Sat 7:30–20:30, Sun 7:30–15:00).
+
+**Getting there:** 14 min walk along the port (Carrer del Baluard 38).
+
+**Winter caveats:** open all six days from 7:30 per Maps and the official site; 1 Jan likely open, confirm.
+
+**Links:** [Google Maps](https://www.google.com/maps?q=41.3800126,2.1889083) · [geo:](geo:41.3800126,2.1889083) — Carrer del Baluard 38
+
+**Source:** Google Maps listing (checked 2026-11-12), [baluardbarceloneta.com — obradores & hours](https://www.baluardbarceloneta.com/es/obradores/)
 
 ---
 
@@ -615,7 +793,9 @@ All trains leave from **Barcelona-Sants** (18 min from the hotel: L3 from Liceu,
 - **Freixenet/Codorníu winter tour slots and prices for late Dec** — book on their sites; capacity-capped.
 - **Tibidabo exact winter calendar** (2–5 Jan 11:00–18:00 per the tourism PDF; verify on tibidabo.cat).
 - **Nadal al Port Vell 2026–27 programme details** (dates 27 Nov–6 Jan, 11:00–23:00 confirmed by Port de Barcelona / Museu Marítim; activity schedule on nadalalportvell.com).
-- **Forns del Pi / Forn Boix weekday hours** — Maps weekly hours not captured; forns typically open 7:00–8:00 weekdays.
+- **1 Jan (Fri, holiday) hours for the §3 breakfast cafés/bars** — weekly hours verified, but holiday exceptions are not published; forns/bakeries normally open on 1 Jan, cafés & bars often close. Confirm each venue the evening before (Maps often shows holiday hours only on the day).
+- **Forn Boix weekday hours** — Maps weekly hours not captured; forns typically open 7:00–8:00 weekdays. (Forns del Pi verified 7:00–21:00 daily.)
+- **Extra breakfast candidates whose Maps place pages would not load for hour extraction** (checked via search snippets only, not in §3): Haití Bar (Jaume I 3, opens ~7:30), Charcha (Avinyó 24, opens ~8:00), Caravelle (Pintor Fortuny 31, Melbourne-style brunch), Colibri Brunch (Barceloneta), Bloome by Sasha (Via Laietana 45, queues), Satan's Coffee Corner (Arc de Sant Ramon del Call 11, listings conflict 8:00 vs 9:00, closed Tue). Bo de B (Fusteria 14) opens ~12:00 — not a breakfast option, excluded.
 - **Ratings/reviews** are Google Maps values captured 2026-11-12. Coordinates are Google Maps pins for the entrance/POI, captured 2026-11-12.
 
 ---
@@ -640,4 +820,4 @@ Shops/most restaurants/museums closed — eat at the hotel or a confirmed-open t
 Option A: L4 to Passeig de Gràcia + R2 Sud to **Sitges** (~50 min train) — old town, Cau Ferrat museum (open Sat 10:00–19:00), beach walk (§2.3). Option B: Sants + R4 to **Sant Sadurní** for a booked cava cellar visit (Freixenet at the station / Codorníu), lunch in town, VINSEUM in Vilafranca if time (§2.2). Metro all night tonight. Dinner back in Barcelona: **XERA** (§4.1, opens 18:30) or **Bar Calders** (§4.2, opens 11:00 Sat). Overnight at base.
 
 ### I6. Sun 3 Jan — slow morning, last sights, departure (§1.12, §1.13, §5.7) [View on map](map.html?i=I6)
-Check out by 12:00 — ask the hotel to store luggage. Early Gothic Quarter/El Born (emptiest Sunday morning), **MACBA** (§1.12, Sun 10:00–15:00) or **Museu Picasso** (§1.13, Sun 10:00–19:00; first-Sunday free needs the 29 Dec 10:00 reservation and is crowded — just buy a ticket). Sunday vermut at **Bodega del Vermut** Gràcia (§5.7, 12:00–16:00). Markets closed — brunch at **La Pallaresa** (§3.2, open Sun 9:00–13:00). Afternoon: departure (L9 airport ticket €5.90, or L3 to Paral·lel + Aerobus).
+Check out by 12:00 — ask the hotel to store luggage. Early Gothic Quarter/El Born (emptiest Sunday morning), **MACBA** (§1.12, Sun 10:00–15:00) or **Museu Picasso** (§1.13, Sun 10:00–19:00; first-Sunday free needs the 29 Dec 10:00 reservation and is crowded — just buy a ticket). Sunday vermut at **Bodega del Vermut** Gràcia (§5.7, 12:00–16:00). Markets closed — Sunday breakfast at **Forns del Pi** (§3.1, open Sun 7:00–21:00) or **La Pallaresa** (§3.15, open Sun 9:00–13:00). Afternoon: departure (L9 airport ticket €5.90, or L3 to Paral·lel + Aerobus).
