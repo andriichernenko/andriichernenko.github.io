@@ -5,7 +5,7 @@ of late autumn. One main destination per day — no multi-stop loops. The guide 
 what matters is whether a place is open on **Sat–Sun**; weekday-only service is flagged. Entries in each
 section are sorted by driving time, shortest first; headings note whether the destination is **open all
 winter** or **partly closed** in November–December. Opening hours were checked on official sites on
-**2026-11-07**; anything that could not be verified is listed at the end. All 89 locations on one map:
+**2026-11-07**; anything that could not be verified is listed at the end. All 88 locations (+ Home) on one map:
 [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml).
 
 ## Daylight in November–December 2026
@@ -29,7 +29,7 @@ Järvafältet has its own entrances; Järvaleden runs through.
 **November caveats:** reserve open 24/7 year-round (verified). Exposed and windy in November; some
 paths muddy; no lighting after dark.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.463087,17.870929) · [geo:](geo:59.463087,17.870929) — Fäboda gård parking, main entrance
+**Links:** [Google Maps](https://www.google.com/maps/search/J%C3%A4rvaf%C3%A4ltet/@59.463087,17.870929,16z) · [geo:](geo:59.463087,17.870929) — Fäboda gård parking, main entrance
 
 **Source:** [länsstyrelsen.se — Östra Järvafältet](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/ostra-jarvafaltet.html), [länsstyrelsen.se — Västra Järvafältet](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/vastra-jarvafaltet.html)
 
@@ -45,7 +45,7 @@ gym. One of Stockholm's most-visited outdoor areas.
 **November caveats:** reserve open 24 h and free (verified, länsstyrelsen/nacka.se); Hellasgården free
 to visit year-round. Short daylight — start by ~10:00; trails muddy/icy in November.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.284913,18.146947) · [geo:](geo:59.284913,18.146947) — Nackareservatet / Hellasgården
+**Links:** [Google Maps](https://www.google.com/maps/search/Nackareservatet/@59.284913,18.146947,16z) · [geo:](geo:59.284913,18.146947) — Nackareservatet / Hellasgården
 
 **Source:** [länsstyrelsen.se — Nackareservatet](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/nackareservatet-i-stockholm.html), [nacka.se — Nackareservatet](https://www.nacka.se/boende-miljo/natur-och-parker/natur--och-friluftsomraden/nackareservatet/)
 
@@ -59,7 +59,7 @@ Combine with Tyresö slott (§2.2) 5 min away.
 
 **November caveats:** open year-round, free; trails unlit — go midday.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.230188,18.270640) · [geo:](geo:59.230188,18.270640) — Friluftsgård Alby parking, Alby skogsväg
+**Links:** [Google Maps](https://www.google.com/maps/place/Friluftsg%C3%A5rd+Alby/@59.2301876,18.2616281,16z/data=!4m10!1m2!2m1!1sAlby+naturreservat+%26+Friluftsg%C3%A5rd+Alby,+Tyres%C3%B6+(op!3m6!1s0x465f7e5611ae9595:0x76f54ab380c1a0e!8m2!3d59.2301876!4d18.2706403!15sCjRBbGJ5IG5hdHVycmVzZXJ2YXQgJiBGcmlsdWZ0c2fDpXJkIEFsYnksIFR5cmVzw7YgKG9wkgEEcGFya-ABAA!16s%2Fg%2F1hc4hbfvk?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.230188,18.270640) — Friluftsgård Alby parking, Alby skogsväg
 
 **Source:** [naturkartan.se — Alby friluftsgård](https://www.naturkartan.se/sv/stockholms-lan/alby-friluftsgard-2), [tyreso.se](https://www.tyreso.se/)
 
@@ -72,7 +72,7 @@ parkings e.g. Prästvik (Lovö) or Sandviksskolan/Råcksta.
 
 **November caveats:** open year-round, free; unlit trails — midday only.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.426660,17.792797) · [geo:](geo:59.426660,17.792797) — Görvälns naturreservat (Lovö)
+**Links:** [Google Maps](https://www.google.com/maps/search/G%C3%B6rv%C3%A4lns%20naturreservat/@59.426660,17.792797,16z) · [geo:](geo:59.426660,17.792797) — Görvälns naturreservat (Lovö)
 
 **Source:** [länsstyrelsen.se — Görväln](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/gorvaln.html), [naturkartan.se — Görväln](https://www.naturkartan.se/sv/stockholms-lan/gorvaln-2)
 
@@ -86,7 +86,7 @@ with fågeltorn (bird towers) and the Midsommarberget viewpoint. Main entrance/p
 **November caveats:** open 24/7 year-round (verified). Boardwalk sections can be wet/icy in November;
 no lighting after dark. Best birding is dawn–midday.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.538917,18.150240) · [geo:](geo:59.538917,18.150240) — Entré Örsta parking
+**Links:** [Google Maps](https://www.google.com/maps/search/Angarnssj%C3%B6%C3%A4ngen/@59.538917,18.150240,16z) · [geo:](geo:59.538917,18.150240) — Entré Örsta parking
 
 **Source:** [länsstyrelsen.se — Angarnssjöängen](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/angarnssjoangen.html), [naturkartan.se — parkering vid Örsta](https://www.naturkartan.se/en/stockholms-lan/parkering-vid-orsta)
 
@@ -102,7 +102,7 @@ then Ådravägen ~1.6 km to the main parking.
 **November caveats:** reserve open every day, all year (verified). The torp's raststuga is **closed on
 Sundays in winter** (reopens March) — bring your own fika. Headlamp recommended.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.159899,18.046202) · [geo:](geo:59.159899,18.046202) — Entré Paradiset main parking
+**Links:** [Google Maps](https://www.google.com/maps/search/Paradiset/@59.159899,18.046202,16z) · [geo:](geo:59.159899,18.046202) — Entré Paradiset main parking
 
 **Source:** [naturkartan.se — Entré Paradiset](https://www.naturkartan.se/sv/stockholms-lan/entre-paradiset-paradisets-naturreservat), [länsstyrelsen.se — Paradiset](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/paradiset.html), [paradiset-hanveden.se](https://paradiset-hanveden.se/)
 
@@ -116,7 +116,7 @@ kiln remains.
 
 **November caveats:** open year-round, free; exposed — windy and cold on the beaches; short daylight.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.089563,18.281290) · [geo:](geo:59.089563,18.281290) — Gålö naturreservat
+**Links:** [Google Maps](https://www.google.com/maps/search/G%C3%A5l%C3%B6%20naturreservat/@59.089563,18.281290,16z) · [geo:](geo:59.089563,18.281290) — Gålö naturreservat
 
 **Source:** [haninge.se — Gålö](https://www.haninge.se/uppleva-och-gora/besok-och-upplev-haninge/platser-att-besoka/galo/)
 
@@ -131,7 +131,7 @@ Stensjödal, Brakmaren.
 **November caveats:** reserve free and open year-round; naturum + café at Tyresta by (winter weekend
 hours on sverigesnationalparker.se); trails unlit — go midday, bring a headlamp.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.184310,18.281183) · [geo:](geo:59.184310,18.281183) — Tyresta nationalpark, Tyresta by
+**Links:** [Google Maps](https://www.google.com/maps/search/Tyresta%20nationalpark/@59.184310,18.281183,16z) · [geo:](geo:59.184310,18.281183) — Tyresta nationalpark, Tyresta by
 
 **Source:** [länsstyrelsen.se — Tyresta nationalpark](https://www.lansstyrelsen.se/stockholm/besoksmal/nationalparker/tyresta-nationalpark.html), [sverigesnationalparker.se — Tyresta](https://www.sverigesnationalparker.se/park/tyresta-nationalpark/besoksinformation/), [naturkartan.se — Huvudentré Tyresta by](https://www.naturkartan.se/sv/stockholms-lan/huvudentre-tyresta-by)
 
@@ -144,7 +144,7 @@ Stora Djurgården (Norra Norby).
 
 **November caveats:** open 24 h, free; unlit trails — midday only.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.822666,17.574527) · [geo:](geo:59.822666,17.574527) — Hågadalen–Nåsten, parkering Stora Djurgården
+**Links:** [Google Maps](https://www.google.com/maps/search/H%C3%A5gadalen%E2%80%93N%C3%A5sten%20naturreservat%2C%20Uppsala%20(open%20all%20/@59.822666,17.574527,16z) · [geo:](geo:59.822666,17.574527) — Hågadalen–Nåsten, parkering Stora Djurgården
 
 **Source:** [uppsala.se — Hågadalen–Nåstens naturreservat](https://www.uppsala.se/kultur-idrott-fritid/plats/friluftsomraden-naturreservat/hagadalen-nastens-naturreservat/), [naturkartan.se — Parkering Stora Djurgården](https://www.naturkartan.se/sv/uppsala-lan/parkering-stora-djurgarden-hagadalen-nasten)
 
@@ -160,7 +160,7 @@ väg to the castle parking.
 summer tours ran 6/6–13/9 2026, Christmas-market tours 12–13 Dec 2026; the castle is a private
 residence, grounds open. Rocky shores icy — bring spikes; wind off Stora Värtan.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.394016,18.286209) · [geo:](geo:59.394016,18.286209) — Bogesunds slott / Per Brahes väg parking
+**Links:** [Google Maps](https://www.google.com/maps/search/Bogesundslandet/@59.394016,18.286209,16z) · [geo:](geo:59.394016,18.286209) — Bogesunds slott / Per Brahes väg parking
 
 **Source:** [länsstyrelsen.se — Bogesundslandet](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/bogesundslandet.html), [bogesundsslott.se](https://bogesundsslott.se/slottet-idag)
 
@@ -175,7 +175,7 @@ havsbad; parking at the reserve entrance (fee).
 **November caveats:** open year-round, free; exposed island climate — warm clothes; no services on the
 island in winter.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.223184,18.544123) · [geo:](geo:59.223184,18.544123) — Björnö naturreservat entrance parking
+**Links:** [Google Maps](https://www.google.com/maps/place/Bj%C3%B6rn%C3%B6+nature+reserve/@59.223184,18.544123,16z/data=!4m6!3m5!1s0x46f58239cd868b0d:0x93c86800d20c3b5!8m2!3d59.2231837!4d18.5441233!16s%2Fg%2F11c4bc0cdc?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.223184,18.544123) — Björnö naturreservat entrance parking
 
 **Source:** [länsstyrelsen.se — Björnö](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/bjorno.html), [skärgårdsstiftelsen.se — Björnö](https://skargardsstiftelsen.se/omraden/bjorno/)
 
@@ -188,7 +188,7 @@ November attraction — the castle interior is private/event-only.
 **November caveats:** park verified open year-round, free entrance; castle interior not open for
 drop-in (no November tours verified). Short daylight; unlit paths.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.200007,17.709127) · [geo:](geo:60.200007,17.709127) — Örbyhus slott
+**Links:** [Google Maps](https://www.google.com/maps/search/%C3%96rbyhus%20slott%20park/@60.200007,17.709127,16z) · [geo:](geo:60.200007,17.709127) — Örbyhus slott
 
 **Source:** [orbyhusslott.se — parkerna](https://www.orbyhusslott.se/parkerna), [tierp.se](https://www.tierp.se/)
 
@@ -203,7 +203,7 @@ bird tower at Kvarnberget and hides; wintering geese, ducks and sea eagles. Comb
 **November caveats:** open year-round; the bird-protection zone (1 Apr–15 Aug) does not apply in Nov–Dec,
 but stay on the marked trail. Cold and windy at the tower — dress warm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.655033,17.405344) · [geo:](geo:59.655033,17.405344) — Hjälstaviken, Kvarnbergsvägen 2
+**Links:** [Google Maps](https://www.google.com/maps/search/Hj%C3%A4lstaviken/@59.655033,17.405344,16z) · [geo:](geo:59.655033,17.405344) — Hjälstaviken, Kvarnbergsvägen 2
 
 **Source:** [naturkartan.se — Hjälstaviken](https://www.naturkartan.se/sv/uppsala-lan/hjalstaviken), [aventyrligare.se — Hjälstaviken](https://www.aventyrligare.se/naturreservat/Hjalstaviken-2002048)
 
@@ -214,9 +214,9 @@ winter); Upplandsleden stage 11 passes nearby. Parking at Gimo herrgård.
 **Drive:** ~55–60 min, ~80 km via väg 76 to Gimo (or E4 + väg 288).
 
 **November caveats:** outdoor walks always open (allemansrätten, verified via naturkartan); the herrgård
-interior/hotel restaurant is a separate stop (see §3.12). The damm is summer-only.
+interior/hotel restaurant is a separate stop (see §3.11). The damm is summer-only.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.178311,18.173202) · [geo:](geo:60.178311,18.173202) — Gimo herrgård parking
+**Links:** [Google Maps](https://www.google.com/maps/search/Gimo%20bruk/@60.178311,18.173202,16z) · [geo:](geo:60.178311,18.173202) — Gimo herrgård parking
 
 **Source:** [naturkartan.se — Parkering, Gimo herrgård](https://www.naturkartan.se/en/uppsala-lan/parkering-gimo-herrgard), [gimoherrgard.se](https://www.gimoherrgard.se/)
 
@@ -230,7 +230,7 @@ templet) is a short signed round walk from the bruk; riverside strolls.
 **November caveats:** park/walk verified open year-round and free; the Erasteel works site is still
 operating — stay on marked paths. Cold by the Dalälven in November.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.383427,17.238822) · [geo:](geo:60.383427,17.238822) — Söderfors herrgård / Engelska parken
+**Links:** [Google Maps](https://www.google.com/maps/search/S%C3%B6derfors%20bruk%20%26%20Engelska%20parken/@60.383427,17.238822,16z) · [geo:](geo:60.383427,17.238822) — Söderfors herrgård / Engelska parken
 
 **Source:** [länsstyrelsen.se — Engelska parken i Söderfors bruk](https://www.lansstyrelsen.se/uppsala/besoksmal/kulturmiljoer/engelska-parken-i-soderfors-bruk.html), [tierp.se — vandring](https://www.tierp.se/), [soderforsherrgard.se](https://www.soderforsherrgard.se/)
 
@@ -245,7 +245,7 @@ parking lots.
 **November caveats:** reserve open 24/7 (verified); park only in designated lots; exposed and windy —
 spikes recommended.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.802722,17.806849) · [geo:](geo:58.802722,17.806849) — Ören NR / Torö stenstrand, Torö's south tip
+**Links:** [Google Maps](https://www.google.com/maps/search/Tor%C3%B6%20%26%20%C3%96ren/@58.802722,17.806849,16z) · [geo:](geo:58.802722,17.806849) — Ören NR / Torö stenstrand, Torö's south tip
 
 **Source:** [nynäshamn.se — Torö och Ören](https://www.nynas.se/uppleva/skargard--batliv/toro-och-oren), [naturkartan.se](https://www.naturkartan.se/)
 
@@ -261,7 +261,7 @@ oaks, forest and coastline; Sörmlandsleden stages 51–52 meet at the castle; S
 **castle, café, exhibitions and shop are closed until summer 2027** — bring food and water; trails can
 be muddy; dark from ~15:00 in late November.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.807945,17.366226) · [geo:](geo:58.807945,17.366226) — Nynäs slott and its signed parking
+**Links:** [Google Maps](https://www.google.com/maps/search/Nyn%C3%A4s/@58.807945,17.366226,16z) · [geo:](geo:58.807945,17.366226) — Nynäs slott and its signed parking
 
 **Source:** [nynasslott.se — besöksinformation](https://nynasslott.se/besoksinformation/), [sormlandsmuseum.se — Nynäs slott](https://sormlandsmuseum.se/besoksinfo/nynas-slott/)
 
@@ -275,7 +275,7 @@ shore, motionsspår; Albert Engström's studio/gården (seasonal museum).
 **November caveats:** coastal paths open year-round; museum, shops and cafés are seasonal — verify
 before relying on them. Exposed seafront: cold and windy in November.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.099772,18.812831) · [geo:](geo:60.099772,18.812831) — Grisslehamn harbour / färjeläge
+**Links:** [Google Maps](https://www.google.com/maps/search/Grisslehamn/@60.099772,18.812831,16z) · [geo:](geo:60.099772,18.812831) — Grisslehamn harbour / färjeläge
 
 **Source:** [norrtalje.se](https://www.norrtalje.se/), [sv.wikipedia.org — Grisslehamn](https://sv.wikipedia.org/wiki/Grisslehamn)
 
@@ -290,7 +290,7 @@ walk on the Roslagen coast (Roslagsleden passes Gåsvik nearby).
 **November caveats:** open year-round and free (verified, länsstyrelsen). No constructed parking — 1–2
 spaces at the info board on Sörgårdsvägen ("Prästgårdsleden"); muddy in November.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.003556,18.832889) · [geo:](geo:60.003556,18.832889) — info-board parking, Sörgårdsvägen
+**Links:** [Google Maps](https://www.google.com/maps/search/V%C3%A4dd%C3%B6%20pr%C3%A4stg%C3%A5rds%20naturreservat/@60.003556,18.832889,16z) · [geo:](geo:60.003556,18.832889) — info-board parking, Sörgårdsvägen
 
 **Source:** [länsstyrelsen.se — Väddö prästgård](https://www.lansstyrelsen.se/stockholm/besoksmal/naturreservat/vaddo-prastgard.html), [sv.wikipedia.org](https://sv.wikipedia.org/wiki/V%C3%A4dd%C3%B6_pr%C3%A4stg%C3%A5rds_naturreservat)
 
@@ -306,7 +306,7 @@ coastal artillery battery.
 (sea eagles, eiders in the ice-free channel). Exposed cliffs: wind, spray ice, slippery rocks; never
 trust the ice in Femörekanalen.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.653173,17.107627) · [geo:](geo:58.653173,17.107627) — Femörefortets parkering (also fiskehamn parking: [Maps](https://www.google.com/maps?q=58.655962,17.099209) · [geo:](geo:58.655962,17.099209))
+**Links:** [Google Maps](https://www.google.com/maps/search/Fem%C3%B6re/@58.653173,17.107627,16z) · [geo:](geo:58.653173,17.107627) — Femörefortets parkering (also fiskehamn parking: [Maps](https://www.google.com/maps/search/Fem%C3%B6re%20fiskehamn/@58.655962,17.099209,16z) · [geo:](geo:58.655962,17.099209))
 
 **Source:** [länsstyrelsen.se — Femöre](https://www.lansstyrelsen.se/sodermanland/besoksmal/naturreservat/femore.html), [femorefortet.se](https://www.femorefortet.se/), [visitoxelosund.se](https://visitoxelosund.se/)
 
@@ -325,7 +325,7 @@ slottspark along the Mälaren shore is open to pedestrians year-round.
 (verified, kungligaslotten.se); Confidencen closed in winter; Slottsträdgården café is seasonal — check
 rappne.se. The park walk is free, any day.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.390420,18.016814) · [geo:](geo:59.390420,18.016814) — Ulriksdals slott
+**Links:** [Google Maps](https://www.google.com/maps/search/Ulriksdals%20slott/@59.390420,18.016814,16z) · [geo:](geo:59.390420,18.016814) — Ulriksdals slott
 
 **Source:** [kungligaslotten.se — Ulriksdals slott öppettider](https://www.royalpalaces.se/vara-besoksmal/ulriksdals-slott/oppettider.html), [rappne.se — Slottsträdgården](https://www.rappne.se/oppettider/)
 
@@ -342,7 +342,7 @@ slott (EasyPark/Smart Park app: 30 min free, then 15 kr/h) or at Tyresö kyrka (
 (verified, tyresoslott.se); park and Borggårdscafét open in winter. Combine with Alby naturreservat
 (§1.3, 5 min away).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.235347,18.305214) · [geo:](geo:59.235347,18.305214) — Tyresö slott, Slottsvägen 7
+**Links:** [Google Maps](https://www.google.com/maps/search/Tyres%C3%B6%20slott/@59.235347,18.305214,16z) · [geo:](geo:59.235347,18.305214) — Tyresö slott, Slottsvägen 7
 
 **Source:** [tyresoslott.se — besök oss](https://www.tyresoslott.se/besok-oss/), [tyreso.se — Tyresö slott och park](https://www.tyreso.se/uppleva--gora/upptack-tyreso/tyreso-slott-och-park.html), [cafekartan.se — Borggårdscafét](https://www.cafekartan.se/0355878/Borgg%C3%A5rdscafet)
 
@@ -357,7 +357,7 @@ slott (Chinese pavilion) and Drottningholms slottsteater stand outdoors and are 
 with the family tour Sun 14:30 — pre-book on kungligaslotten.se. Park open 24 h, free; theatre hosts
 occasional winter concerts (dtm.se).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.321688,17.886830) · [geo:](geo:59.321688,17.886830) — Drottningholms slott
+**Links:** [Google Maps](https://www.google.com/maps/search/Drottningholms%20slott/@59.321688,17.886830,16z) · [geo:](geo:59.321688,17.886830) — Drottningholms slott
 
 **Source:** [kungligaslotten.se — Drottningholms slott öppettider](https://www.kungligaslotten.se/vara-besoksmal/drottningholms-slott/oppettider.html), [kungligaslotten.se — guidade visningar](https://www.kungligaslotten.se/english/royal-palaces-and-sites/drottningholm-palace/visit-us/guided-tours.html), [dtm.se](https://www.dtm.se/)
 
@@ -371,7 +371,7 @@ garden and English landscape park with views over Sigtunafjärden; Ingegerdslede
 only**; furnishings winter-covered Sept–May, so no drop-in; groups can pre-book. **Slottsparken open
 year-round** — go midday, paths unlit. The Slottshotell restaurant/café is a separate food stop (§3.1).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.574951,17.843381) · [geo:](geo:59.574951,17.843381) — Rosersbergs slott, parking below the castle
+**Links:** [Google Maps](https://www.google.com/maps/search/Rosersbergs%20slott/@59.574951,17.843381,16z) · [geo:](geo:59.574951,17.843381) — Rosersbergs slott, parking below the castle
 
 **Source:** [kungligaslotten.se — Rosersbergs slott öppettider](https://www.kungligaslotten.se/vara-besoksmal/rosersbergs-slott/oppettider.html), [rosersbergsslott.se](https://www.rosersbergsslott.se/)
 
@@ -387,7 +387,7 @@ car and take the ferry from Strömkajen (winter timetable from 10 Dec, waxholmsb
 **November caveats:** Vaxholms Fästnings Museum open to the public in summer only, booked groups in
 winter (verified, vaxholmsfastning.se); town and harbour open all winter.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.402831,18.359485) · [geo:](geo:59.402831,18.359485) — Vaxholms kastell
+**Links:** [Google Maps](https://www.google.com/maps/search/Waxholm/@59.402831,18.359485,16z) · [geo:](geo:59.402831,18.359485) — Vaxholms kastell
 
 **Source:** [vaxholmsfastning.se](https://www.vaxholmsfastning.se/), [waxholmsbolaget.se](https://waxholmsbolaget.se/)
 
@@ -401,7 +401,7 @@ around the centrum, ~15 min from Skoklosters slott.
 10:00–15:00** (verified on balstacentrum.se — fish pond, lotteries, pony rides, local crafts); Luciatåg
 through the centre 13 Dec 13:00. Venue-level winter hours not verified.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.566901,17.530088) · [geo:](geo:59.566901,17.530088) — Bålsta centrum
+**Links:** [Google Maps](https://www.google.com/maps/search/B%C3%A5lsta/@59.566901,17.530088,16z) · [geo:](geo:59.566901,17.530088) — Bålsta centrum
 
 **Source:** [balstacentrum.se — Jul i Bålsta centrum](https://balstacentrum.se/jul-i-balsta-centrum/)
 
@@ -418,7 +418,7 @@ closed for the season.
 re-check the event page). Pair with Tom Tits Experiment next door (indoor science centre, house 10:00–17:00,
 entry 210–255 kr; the outdoor experiment park is closed in November — verify weekend days on tomtit.se).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.192889,17.612740) · [geo:](geo:59.192889,17.612740) — Torekällberget, Kvarnbacken 8
+**Links:** [Google Maps](https://www.google.com/maps/search/Torek%C3%A4llberget%20open-air%20museum%2C%20S%C3%B6dert%C3%A4lje%20(ground/@59.192889,17.612740,16z) · [geo:](geo:59.192889,17.612740) — Torekällberget, Kvarnbacken 8
 
 **Source:** [sodertalje.se — öppettider](https://www.sodertalje.se/), [tomtit.se](https://www.tomtit.se/)
 
@@ -433,7 +433,7 @@ wooden town of Mariefred hosts its **julmarknad on Rådhustorget Sun 29 Nov 10:0
 **November caveats:** interior mostly closed in Nov–Dec — verify any winter opening day on
 kungligaslotten.se before going; the steam railway (MÖJ) and steamboat run in summer only.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.253700,17.218200) · [geo:](geo:59.253700,17.218200) — Gripsholms slott
+**Links:** [Google Maps](https://www.google.com/maps/search/Mariefred/@59.253700,17.218200,16z) · [geo:](geo:59.253700,17.218200) — Gripsholms slott
 
 **Source:** [kungligaslotten.se — Gripsholms slott öppettider](https://www.kungligaslotten.se/vara-besoksmal/gripsholms-slott/oppettider.html), [julmarknaderna.se — Mariefreds julmarknad](https://julmarknaderna.se/julmarknad-mariefreds/)
 
@@ -447,7 +447,7 @@ Sat–Sun 12:00–17:00.
 
 **November caveats:** museum winter hours as listed (sigtuna.se); julmarknad free.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.615250,17.719080) · [geo:](geo:59.615250,17.719080) — Sigtuna Museum & Art, Stora Gatan 55
+**Links:** [Google Maps](https://www.google.com/maps/search/Sigtuna/@59.615250,17.719080,16z) · [geo:](geo:59.615250,17.719080) — Sigtuna Museum & Art, Stora Gatan 55
 
 **Source:** [sigtuna.se — Sigtuna Museum & Art öppettider](https://www.sigtuna.se/uppleva-och-gora/uppleva-kultur/sigtuna-museum--art/besok/oppettider-och-entre.html), [julmarknaderna.se — Sigtuna stads julmarknad](https://julmarknaderna.se/julmarknad-sigtuna-stads/)
 
@@ -463,14 +463,14 @@ orangery open year-round. Light festival **Allt ljus på Uppsala runs 6–22 Nov
 **November caveats:** castle museum closed Mon–Thu in winter (verified, slottshistoriska.uppsala.se);
 Gamla Uppsala museum Sat–Sun only — check upplandsmuseet.se.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.853262,17.635616) · [geo:](geo:59.853262,17.635616) — Uppsala slott
+**Links:** [Google Maps](https://www.google.com/maps/place/Uppsala/@59.853262,17.635616,16z/data=!4m6!3m5!1s0x465fcbfb8532ab8d:0xaa4fe90a85820807!8m2!3d59.8585638!4d17.6389267!16zL20vMDd0Y3M?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.853262,17.635616) — Uppsala slott
 
 **Source:** [slottshistoriska.uppsala.se](https://slottshistoriska.uppsala.se/), [svenskakyrkan.se — Uppsala domkyrka](https://www.svenskakyrkan.se/uppsaladomkyrka/besok-uppsala-domkyrka), [upplandsmuseet.se — Gamla Uppsala museum](https://www.upplandsmuseet.se/gamla-uppsala-museum/), [uu.se — Botaniska trädgården](https://www.uu.se/botaniska-tradgarden), [alltljuspauppsala.se](https://alltljuspauppsala.se/)
 
 ### 2.11 Steninge slottsby — manor park, shops, Advent markets (**open all winter**)
 **What:** Late-17th-century manor (Tessin the Elder) by Lake Mälaren near Märsta. Castle interior is
 private year-round, but the **slottspark is open daily 12:00–16:30**; around it Steninge slottsby with
-Stenladan shops and Restaurang Steninge Bruk (§3.5).
+Stenladan shops and Restaurang Steninge Bruk (§3.4).
 
 **Drive:** ~45 min, ~45 km via E4 north, exit 180, väg 263 toward Märsta/Steninge.
 
@@ -478,7 +478,7 @@ Stenladan shops and Restaurang Steninge Bruk (§3.5).
 Trälogen Sat 28 – Sun 29 Nov and 5–6 Dec 2026, 11:00–16:00** — arrive early for parking. Stenladan
 shops otherwise Mon–Fri 11:00–18:00, Sat–Sun 10:00–17:00. Park closes 16:30 — go midday.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.603754,17.802121) · [geo:](geo:59.603754,17.802121) — Steninge slott, Steninge Slottsväg 141
+**Links:** [Google Maps](https://www.google.com/maps/search/Steninge%20slottsby/@59.603754,17.802121,16z) · [geo:](geo:59.603754,17.802121) — Steninge slott, Steninge Slottsväg 141
 
 **Source:** [steningeslottsby.se — Jul i Steninge slottsby](https://steningeslottsby.se/fira-jul-i-steninge-slottsby/), [julmarknad.nu — Steninge slottsby](https://www.julmarknad.nu/event/julmarknad-steninge-slottsby/), [steningebruk.se](https://www.steningebruk.se/)
 
@@ -493,7 +493,7 @@ draws the season — market free, winter castle tour 95 kr.
 **November caveats:** outside the market weekend the castle is not open for tours (verified seasonal);
 the park/grounds remain walkable. Market weekends can be crowded — arrive before 11:00.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.704390,17.622203) · [geo:](geo:59.704390,17.622203) — Skoklosters slott parking
+**Links:** [Google Maps](https://www.google.com/maps/place/Skokloster+Castle/@59.70439,17.622203,16z/data=!4m6!3m5!1s0x465fb6e14b1c0cdd:0xcfc3f96a3c202e22!8m2!3d59.7031769!4d17.6211558!16zL20vMGM4czNo?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.704390,17.622203) — Skoklosters slott parking
 
 **Source:** [skoklostersslott.se](https://www.skoklostersslott.se/), [bygdeband.se — julmarknader](https://bygdeband.se/julmarknader/)
 
@@ -509,7 +509,7 @@ the park/grounds remain walkable. Market weekends can be crowded — arrive befo
 Sun 11–16, free entry) — note one organiser page still showed stale 2025 dates; 28–29/11/2026 is correct
 for 2026.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.635450,17.077892) · [geo:](geo:59.635450,17.077892) — Enköping Stora torget
+**Links:** [Google Maps](https://www.google.com/maps/search/Enk%C3%B6ping/@59.635450,17.077892,16z) · [geo:](geo:59.635450,17.077892) — Enköping Stora torget
 
 **Source:** [enkoping.se — museum öppettider](https://www.enkoping.se/fritid-och-kultur/museum/oppettider-och-entreavgifter.html), [lionsenkoping.se — julmarknad](https://www.lionsenkoping.se/)
 
@@ -524,7 +524,7 @@ and Gripsholmsvägen, Mekanikus museum.
 **Julmarknad Sat 12 Dec 2026, 10:00–15:00** in the city centre, with sales in the cathedral 10:00–13:30.
 Dark early in November.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.376893,17.035674) · [geo:](geo:59.376893,17.035674) — Strängnäs Stortorget/domkyrkan
+**Links:** [Google Maps](https://www.google.com/maps/search/Str%C3%A4ngn%C3%A4s/@59.376893,17.035674,16z) · [geo:](geo:59.376893,17.035674) — Strängnäs Stortorget/domkyrkan
 
 **Source:** [svenskakyrkan.se — Strängnäs domkyrka](https://www.svenskakyrkan.se/strangnasstift/), [mittstrangnas.se — julmarknad](https://www.mittstrangnas.se/)
 
@@ -539,7 +539,7 @@ Nov–Mar but holds its **julmarknad Sun 6 Dec** (andra advent); **Luftvärnsmus
 **November caveats:** museum days are sparse in winter — plan around 7/14 Nov and 6 Dec; verify the
 calendar on roslagsmuseet.se.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.758620,18.698551) · [geo:](geo:59.758620,18.698551) — Roslagsmuseet, Hantverkaregatan 23
+**Links:** [Google Maps](https://www.google.com/maps/search/Norrt%C3%A4lje/@59.758620,18.698551,16z) · [geo:](geo:59.758620,18.698551) — Roslagsmuseet, Hantverkaregatan 23
 
 **Source:** [roslagsmuseet.se](https://www.roslagsmuseet.se/), [norrtalje.se — Luftvärnsmuseum](https://www.norrtalje.se/info/kultur-och-fritid/kultur-och-konst/norrtalje-museerkulturarv-och-stadsarkiv/museer-hembygds--och-kulturforeningar/norrtalje-luftvarnsmuseum/)
 
@@ -554,7 +554,7 @@ parking at the palace, Sörsjön or Näset. Combine with Trosa (§2.19, ~20 min 
 **November caveats:** palace interior and slottscafé **closed for the 2026 season** (verified,
 kungligaslotten.se) — park walk only; unlit, go midday; bring a thermos.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.950800,17.573300) · [geo:](geo:58.950800,17.573300) — Tullgarns slott
+**Links:** [Google Maps](https://www.google.com/maps/search/Tullgarns%20slott/@58.950800,17.573300,16z) · [geo:](geo:58.950800,17.573300) — Tullgarns slott
 
 **Source:** [kungligaslotten.se — Tullgarns slott öppettider](https://www.kungligaslotten.se/vara-besoksmal/tullgarns-slott/oppettider.html), [kungligaslotten.se — Tullgarns slottspark](https://kungligaslottenny-red.sitevision.se/vara-besoksmal/tullgarns-slott/tullgarns-slottspark.html), [naturkartan.se — Tullgarn](https://www.naturkartan.se/sv/sodermanlands-lan/tullgarns-slott)
 
@@ -570,7 +570,7 @@ Tue–Sun 10:00–16:00 in the winter half-year.
 **Jul på Vallby friluftsmuseum 28–29 Nov, 11–16, free entry**; Skultuna Messingsbruk julmarknad 20–22 Nov.
 Ice-rink opening date 2026 not verified.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.609432,16.544715) · [geo:](geo:59.609432,16.544715) — Västerås Stora torget (Anundshög: [Maps](https://www.google.com/maps?q=59.653300,16.667500) · [geo:](geo:59.653300,16.667500))
+**Links:** [Google Maps](https://www.google.com/maps/search/V%C3%A4ster%C3%A5s%20%2B%20Anundsh%C3%B6g/@59.609432,16.544715,16z) · [geo:](geo:59.609432,16.544715) — Västerås Stora torget (Anundshög: [Maps](https://www.google.com/maps/search/Anundsh%C3%B6g/@59.6533,16.6675,16z) · [geo:](geo:59.653300,16.667500))
 
 **Source:** [vasterascity.com — julmarknad 2026](https://www.vasterascity.com/julmarknad-2026), [anundshog.se](https://www.anundshog.se/), [visitvasteras.se — julmarknader](https://www.visitvasteras.se/julmarknader)
 
@@ -584,7 +584,7 @@ tanks, trucks, artillery and other vehicles.
 **November caveats (verified, arsenalen.se):** open **Wed–Sun 11:00–16:00** (closed Mon–Tue); entry 140 kr
 adult (pensionär 100 kr, youth 12–17 70 kr, child 3–11 50 kr). Combine with Strängnäs town and domkyrka (§2.14).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.367378,16.930581) · [geo:](geo:59.367378,16.930581) — Arsenalen, Härad
+**Links:** [Google Maps](https://www.google.com/maps/place/Arsenalen+-+Swedish+Tank+Museum/@59.367378,16.930581,16z/data=!4m6!3m5!1s0x465efbc72572d103:0xe89925a5993ee3a2!8m2!3d59.3673784!4d16.9305807!16s%2Fg%2F11dyk45p8?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.367378,16.930581) — Arsenalen, Härad
 
 **Source:** [arsenalen.se — öppettider och priser](https://www.arsenalen.se/besok-oss/oppettider-och-priser/)
 
@@ -595,10 +595,10 @@ canal, medieval Trosa kyrka, Garvaregården open-air museum by the square.
 **Drive:** ~70 min, ~74 km via E4 south + väg 219.
 
 **November caveats:** town always accessible, but off-season — several summer restaurants closed
-(e.g. Trosa Sjökrog) and others Fri–Sun only (see §3.11). **Trosa julmarknad, Sun 29 Nov 2026 (1st Advent),
+(e.g. Trosa Sjökrog) and others Fri–Sun only (see §3.10). **Trosa julmarknad, Sun 29 Nov 2026 (1st Advent),
 10:00–15:00**, Trosa Torg/Garvaregården (verified). Tourist office winter hours not verified.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.895934,17.547115) · [geo:](geo:58.895934,17.547115) — Trosa Torg
+**Links:** [Google Maps](https://www.google.com/maps/search/Trosa/@58.895934,17.547115,16z) · [geo:](geo:58.895934,17.547115) — Trosa Torg
 
 **Source:** [trosa.com — Trosa julmarknad](https://trosa.com/event/trosa-julmarknad/), [trosa.com](https://trosa.com/)
 
@@ -612,7 +612,7 @@ canal, medieval Trosa kyrka, Garvaregården open-air museum by the square.
 truncated when checked, so verify on munktellmuseet.com before going; entry 150 kr pre-booked / 180 kr at
 the door.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.376488,16.509906) · [geo:](geo:59.376488,16.509906) — Munktellmuseet, Munktellsgatan 3
+**Links:** [Google Maps](https://www.google.com/maps/search/Munktellmuseet%2C%20Eskilstuna%20(weekends%20~12%E2%80%9316/@59.376488,16.509906,16z) · [geo:](geo:59.376488,16.509906) — Munktellmuseet, Munktellsgatan 3
 
 **Source:** [munktellmuseet.com](https://www.munktellmuseet.com/)
 
@@ -628,7 +628,7 @@ to 21:00 Wed 18 Nov 2026); **Kungstornet Sundays 10:00–16:00** in the low seas
 entry to both sites Sat 28 – Sun 29 Nov 2026**. Ticket 80 kr (free ≤18), valid both sites one day.
 Castle ruins/tower outdoors and unheated — dress warm. Regular November tour times not verified.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.748889,17.011111) · [geo:](geo:58.748889,17.011111) — Nyköpingshus (museum parking on Tolagsgatan opposite)
+**Links:** [Google Maps](https://www.google.com/maps/search/Nyk%C3%B6ping/@58.748889,17.011111,16z) · [geo:](geo:58.748889,17.011111) — Nyköpingshus (museum parking on Tolagsgatan opposite)
 
 **Source:** [sormlandsmuseum.se — Sörmlands museum](https://sormlandsmuseum.se/besoksinfo/sormlands-museum/), [sormlandsmuseum.se — Nyköpingshus](https://sormlandsmuseum.se/besoksinfo/nykopingshus/)
 
@@ -642,7 +642,7 @@ Castle ruins/tower outdoors and unheated — dress warm. Regular November tour t
 **Julmarknad i Köping centrum Sat 28 Nov 2026, 10:00–15:00**; **julmarknad på Bürgers Växtgård
 (Barnhemsgatan 54) 21–22 Nov 2026, 10:00–16:00**.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.512513,15.997874) · [geo:](geo:59.512513,15.997874) — Köping Stora gatan
+**Links:** [Google Maps](https://www.google.com/maps/search/K%C3%B6ping/@59.512513,15.997874,16z) · [geo:](geo:59.512513,15.997874) — Köping Stora gatan
 
 **Source:** [julmarknad.nu — Köping centrum](https://www.julmarknad.nu/event/julmarknad-i-koping), [julmarknad.nu — Bürgers Växtgård](https://www.julmarknad.nu/event/julmarknad-burgers-vaxtgard)
 
@@ -655,10 +655,10 @@ hand-operated canal locks, Rådhustorget and Ramunderberget with the view over t
 
 **November caveats:** town open, but **Söderköpings Glass / Smultronstället closed for the season (2026
 season ended 30 Aug — verified)** and the camping café closes 8 Nov 2026. Locks not operating in winter.
-Year-round lunch options exist (Söderköpings Brunn §3.13, Österns Stjärna, Stockrosen Café) but their
+Year-round lunch options exist (Söderköpings Brunn §3.12, Österns Stjärna, Stockrosen Café) but their
 exact November hours were not verified. Adventsmarknad is the first December weekend.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.481977,16.320255) · [geo:](geo:58.481977,16.320255) — Rådhustorget (canal locks: [Maps](https://www.google.com/maps?q=58.488693,16.295662) · [geo:](geo:58.488693,16.295662))
+**Links:** [Google Maps](https://www.google.com/maps/search/S%C3%B6derk%C3%B6ping/@58.481977,16.320255,16z) · [geo:](geo:58.481977,16.320255) — Rådhustorget (canal locks: [Maps](https://www.google.com/maps/search/G%C3%B6ta%20kanal%20S%C3%B6derk%C3%B6ping%20slussar/@58.488693,16.295662,16z) · [geo:](geo:58.488693,16.295662))
 
 **Source:** [smultronstallet.se — öppettider](https://www.smultronstallet.se/oppettider/), [soderkopingscamping.se](https://www.soderkopingscamping.se/), [soderkoping.se](https://www.soderkoping.se/)
 
@@ -674,7 +674,7 @@ out; age limit 5); Konstmästargården 10:00–16:00, museum 10:00–16:00. **Lu
 julmarknad Sat 12 Dec + torch-lit mine descents (fackelvandringar), Lucia with Gruvfolkskör on 13 Dec.**
 Outdoor area free but cold and dark early.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.906776,16.580250) · [geo:](geo:59.906776,16.580250) — Sala silvergruva visitor parking
+**Links:** [Google Maps](https://www.google.com/maps/search/Sala%20silvergruva/@59.906776,16.580250,16z) · [geo:](geo:59.906776,16.580250) — Sala silvergruva visitor parking
 
 **Source:** [salasilvergruva.se — öppettider](https://www.salasilvergruva.se/oppettider), [salasilvergruva.se — jul/Lucia](https://www.salasilvergruva.se/jul)
 
@@ -691,14 +691,14 @@ the usual 4.4 filter, included on request.
 **November caveats (hours per Google Maps listing 2026-11-07):** open **Fri–Sun 11:00–16:00**, closed
 Mon–Thu in the winter season; check the official site for November deviations and entry price.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.32406,18.38363) · [geo:](geo:59.32406,18.38363) — Odelbergs väg 5, 134 46 Gustavsberg
+**Links:** [Google Maps](https://www.google.com/maps/search/Gustavsbergs%20Porslinsmuseum/@59.32406,18.38363,16z) · [geo:](geo:59.32406,18.38363) — Odelbergs väg 5, 134 46 Gustavsberg
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Gustavsbergs+Porslinsmuseum/@59.3266,18.3921,14z/data=!4m6!3m5!1s0x465f805e9d96ca15:0x979e8cad23cf0749!8m2!3d59.3240639!4d18.3836258), [gustavsbergsporslinsmuseum.se](https://gustavsbergsporslinsmuseum.se/)
 
 
-## 3. Restaurants, cafés, julbord
+## 3. Restaurants & cafés
 
-### 3.1 Rosersbergs Slottshotell — slott's restaurant, julbord from 27/11 (**partly closed**: slottscafé closed Oct–Apr)
+### 3.1 Rosersbergs Slottshotell — slott's restaurant (**partly closed**: slottscafé closed Oct–Apr)
 **What:** Restaurant and hotel in the royal palace at Rosersberg: slottsfrukost, lunch, dinner; the
 slottscafé in the wing is closed October–April.
 
@@ -706,32 +706,14 @@ slottscafé in the wing is closed October–April.
 
 **November caveats (verified):** restaurant open — breakfast Tue–Fri 07:00–09:00, Sat–Sun 08:00–10:30;
 lunch Mon–Fri 11:30–13:00; dinner Mon–Sat 17:30–20:00 — but in autumn/winter it mainly runs on
-weekends, meetings, events and julbord, so **always book a table**. **Julbord 27 Nov – 19 Dec 2026**:
-evening sittings Wed–Sat 17:30 & 19:30 (795 kr Wed–Thu, 895 kr Fri, 995 kr Sat), lunch sittings
-Sat–Sun 13:00 (895 kr); vegan/vegetarian 50%. Slottscafé **closed October–April**.
+weekends, so **always book a table**. Slottscafé **closed October–April**.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.574951,17.843381) · [geo:](geo:59.574951,17.843381) — Rosersbergs slott / Slottshotell, Slottsvägen 203
+**Links:** [Google Maps](https://www.google.com/maps/search/Rosersbergs%20Slottshotell/@59.574951,17.843381,16z) · [geo:](geo:59.574951,17.843381) — Rosersbergs slott / Slottshotell, Slottsvägen 203
 
-**Source:** [rosersbergsslott.se — julbord](https://www.rosersbergsslott.se/julbord/), [rosersbergsslott.se](https://www.rosersbergsslott.se/)
+**Source:** [rosersbergsslott.se](https://www.rosersbergsslott.se/)
 
 
-### 3.2 Bommersvik — castle julbord by lake Yngern (**julbord-only stop; weekends OK**)
-**What:** Conference castle/hotel in Nykvarn kommun by Lake Yngern, ~40 min south. In November–December
-the regular restaurant is closed and the venue runs its **julbord** — buffet with 40 hot/cold dishes,
-glöggmingel, cheese and dessert buffet; Sunday is a family-lunch julbord with julpyssel for children.
-
-**Drive:** ~40 min, ~40 km via E4 south, Nykvarn/Järna area.
-
-**November caveats (verified):** julbord **Thu–Sun 26 Nov – 19 Dec 2026** (weeks 47–50; week 51 Mon–Wed);
-795 kr Thu–Sat, Sunday family lunch; book ahead. Outside julbord sittings the restaurant is closed or
-on request only — this is a julbord day trip, not a general lunch stop.
-
-**Links:** [Google Maps](https://www.google.com/maps?q=59.128011,17.455956) · [geo:](geo:59.128011,17.455956) — Bommersvik
-
-**Source:** [bommersvik.se — julbord](https://www.bommersvik.se/erbjudanden/julbord/)
-
-
-### 3.3 Kulturhuset i Ytterjärna — KulturMat café-restaurant (**open all winter**)
+### 3.2 Kulturhuset i Ytterjärna — KulturMat café-restaurant (**open all winter**)
 **What:** Anthroposophical cultural centre (theatre/concerts) in Järna with the biodynamic
 café-restaurant KulturMat in the foyer; Skyspace (Turrell) art work visits by pre-booking.
 
@@ -741,12 +723,12 @@ café-restaurant KulturMat in the foyer; Skyspace (Turrell) art work visits by p
 reception open limited hours and always during performances — check the weekend event calendar at
 kulturhuset.nu before going.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.067404,17.619013) · [geo:](geo:59.067404,17.619013) — Kulturhuset i Ytterjärna, Kulturcentrum 14
+**Links:** [Google Maps](https://www.google.com/maps/search/Kulturhuset%20i%20Ytterj%C3%A4rna/@59.067404,17.619013,16z) · [geo:](geo:59.067404,17.619013) — Kulturhuset i Ytterjärna, Kulturcentrum 14
 
 **Source:** [kulturhuset.nu — öppettider](https://www.kulturhuset.nu/om-kulturhuset/oppettider-kontakt/), [kulturhuset.nu — kafé och restaurang](https://www.kulturhuset.nu/kafe-och-restaurang/)
 
 
-### 3.4 Wira bruk — forge village restaurant (**Sat–Sun only**; Advent julmarknad 27–29/11)
+### 3.3 Wira bruk — forge village restaurant (**Sat–Sun only**; Advent julmarknad 27–29/11)
 **What:** Historic ironworks milieu at Wira bruk (Åkersberga kommun): old forges open for self-guided
 visits 1 May–November, smithy shop, and Wira Restaurang in the Tingshuset.
 
@@ -758,12 +740,12 @@ Saturday–Sunday 11:00–16:00** (daily only midsummer–9 Aug); the old forges
 **Sagolik Julmarknad i Wira Bruk, first Advent weekend 27–29 Nov 2026** (Fri 12–16, Sat–Sun 10–16) —
 wood-fired pizza, mulled wine, saffron buns. Go on a weekend.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.570857,18.547892) · [geo:](geo:59.570857,18.547892) — Wira bruk, Bruksgårdsdvägen 10
+**Links:** [Google Maps](https://www.google.com/maps/search/Wira%20bruk/@59.570857,18.547892,16z) · [geo:](geo:59.570857,18.547892) — Wira bruk, Bruksgårdsdvägen 10
 
 **Source:** [wirabruk.se — besök](https://www.wirabruk.se/besok/), [wirarestaurang.se](https://www.wirarestaurang.se/)
 
 
-### 3.5 Restaurang Steninge Bruk — stone-barn grill (**open all winter**)
+### 3.4 Restaurang Steninge Bruk — stone-barn grill (**open all winter**)
 **What:** Restaurant in the old stone barn at Steninge slottsby (Märsta): open-fire grill, lunch,
 weekend brunch, café.
 
@@ -774,12 +756,12 @@ pattern, not a November-specific guarantee):** lunch Mon–Fri 11:00–14:30; **
 10:30–16:00**; café Mon–Fri 11:00–18:00 (Fri to 22:00), Sat–Sun 10:00–17:00. Combine with the slottspark
 (§2.6) and the julmarknad weekends 28–29 Nov.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.605194,17.800427) · [geo:](geo:59.605194,17.800427) — Restaurang Steninge Bruk, Steninge Slottsväg 141
+**Links:** [Google Maps](https://www.google.com/maps/search/Restaurang%20Steninge%20Bruk/@59.605194,17.800427,16z) · [geo:](geo:59.605194,17.800427) — Restaurang Steninge Bruk, Steninge Slottsväg 141
 
 **Source:** [steningebruk.se](https://www.steningebruk.se/), [steningeslottsby.se](https://www.steningeslottsby.se/)
 
 
-### 3.6 Kökeriet (Nynäs Rökeri) — smoked fish lunch in Nynäshamn harbour (**open Tue–Sun**)
+### 3.5 Kökeriet (Nynäs Rökeri) — smoked fish lunch in Nynäshamn harbour (**open Tue–Sun**)
 **What:** Harbour restaurant of the Nynäs Rökeri smokehouse, right on the fish quay: fish soup, baked
 haddock, hot-smoked salmon, räkmacka, weekday lunch; the fish shop next door sells smoked goods by
 weight. Nynäshamn julmarknad 5–6 Dec in the centre.
@@ -791,29 +773,28 @@ weight. Nynäshamn julmarknad 5–6 Dec in the centre.
 arrive early afternoon; Saturday best. Fish shop open Sat 10–16 (Sun closed). **Nynäs slott's own café is
 closed until summer 2027** — pair with a Nynäs reserve walk (§1.17).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.900869,17.952397) · [geo:](geo:58.900869,17.952397) — Kökeriet, Fiskargränd 6, Nynäshamn
+**Links:** [Google Maps](https://www.google.com/maps/search/K%C3%B6keriet%20(Nyn%C3%A4s%20R%C3%B6keri)/@58.900869,17.952397,16z) · [geo:](geo:58.900869,17.952397) — Kökeriet, Fiskargränd 6, Nynäshamn
 
 **Source:** [nynasrokeri.se — öppettider](https://www.nynasrokeri.se/oppetider), [nynasrokeri.se — Kökeriet](https://www.nynasrokeri.se/kokeriet/)
 
 
-### 3.7 Restaurang Kroken — harbour bistro dinner & julbord in Nynäshamn (**open all winter**)
+### 3.6 Restaurang Kroken — harbour bistro dinner in Nynäshamn (**open all winter**)
 **What:** Family-run bistro in the red wooden houses right by Nynäshamn's gästhamn (Fiskargränd 8, ~30 m
-from Kökeriet §3.6): seasonal à la carte, daily lunch, after-work, beer from the local Ångbryggeriet;
-traditional skärgårdsjulbord by the harbour.
+from Kökeriet §3.5): seasonal à la carte, daily lunch, after-work, beer from the local Ångbryggeriet.
 
 **Drive:** ~50 min, ~55–60 km via väg 73.
 
 **November caveats (verified on the current kontakt/aktuellt pages):** open 7 days a week — **Sat à la
 carte 12:00–22:00, Sun 12:00–21:00**, Fri lunch 11:00–14:00 + dinner 17:00–22:00 (note: Fri 4 Dec lunch
-ends 12:30). **Julbord from Fri 27 Nov 2026** — book ahead (groups over 8 by email). Cashless. This is the
+ends 12:30). Cashless. This is the
 weekend *dinner* option when Kökeriet (lunch-only, closes 15:00–16:00) is shut.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.900500,17.951782) · [geo:](geo:58.900500,17.951782) — Fiskargränd 8, Nynäshamns gästhamn
+**Links:** [Google Maps](https://www.google.com/maps/search/Restaurang%20Kroken/@58.900500,17.951782,16z) · [geo:](geo:58.900500,17.951782) — Fiskargränd 8, Nynäshamns gästhamn
 
-**Source:** [restaurangkroken.se — kontakt/öppettider](https://restaurangkroken.se/kontakta-oss/), [julbord 2026](https://restaurangkroken.se/event/julbord-2026/), [aktuellt](https://restaurangkroken.se/aktuellt/)
+**Source:** [restaurangkroken.se — kontakt/öppettider](https://restaurangkroken.se/kontakta-oss/), [aktuellt](https://restaurangkroken.se/aktuellt/)
 
 
-### 3.8 Taxinge-Näsby slott ("Kakslottet") — cake buffet, julmarknad and julbord (**Fri–Sun only**)
+### 3.7 Taxinge-Näsby slott ("Kakslottet") — cake buffet & julmarknad (**Fri–Sun only**)
 **What:** 17th–19th c. castle on a peninsula in Gripsholmsviken run as a café with "the Nordic region's
 largest cake buffet" (~65 homemade cakes/breads, pay per item) plus smörgåsar and light dishes, served
 in the castle library or park.
@@ -822,15 +803,14 @@ in the castle library or park.
 
 **November caveats (verified):** Slottscafé open **Fri–Sun 11:00–16:00 October–April — closed Mon–Thu** —
 and closed Christmas/New Year. **Jul på Taxinge-Näsby: 13–15 and 19–22 Nov 2026** (entry fee 100 kr
-weekday / 120 kr weekend). **Julbord 27 Nov – 20 Dec 2026** (e.g. 725 kr weekday lunch, 895 kr evening/
-weekend; sittings via the booking page). Plan a Fri–Sun visit.
+weekday / 120 kr weekend). Plan a Fri–Sun visit.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.246944,17.309167) · [geo:](geo:59.246944,17.309167) — Taxinge-Näsby slott, Nykvarn
+**Links:** [Google Maps](https://www.google.com/maps/search/Taxinge-N%C3%A4sby%20slott%20(%22Kakslottet%22)/@59.246944,17.309167,16z) · [geo:](geo:59.246944,17.309167) — Taxinge-Näsby slott, Nykvarn
 
-**Source:** [taxingeslott.se — öppettider](https://www.taxingeslott.se/oppettider/), [taxingeslott.se — slottscafé](https://www.taxingeslott.se/slottscafe/), [nykvarn.com — julbord](https://www.nykvarn.com/)
+**Source:** [taxingeslott.se — öppettider](https://www.taxingeslott.se/oppettider/), [taxingeslott.se — slottscafé](https://www.taxingeslott.se/slottscafe/)
 
 
-### 3.9 Mel's Garage — 1950s diner café in Enköping (**open daily**)
+### 3.8 Mel's Garage — 1950s diner café in Enköping (**open daily**)
 **What:** Retro 50s-style diner café and ice-cream bar by the classic-car hall, a stone's throw from
 Enköping station.
 
@@ -839,12 +819,12 @@ Enköping station.
 **November caveats (verified):** open daily — Mon 10–18, Tue 10–18, Wed 10–20, Thu 10–18, Fri 10–17,
 Sat 09–16, Sun 10–16; holiday deviations posted on mels.se. Pair with Enköping's julmarknad 28–29/11 (§2.13).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.649352,17.086354) · [geo:](geo:59.649352,17.086354) — Mel's Garage, Enköping
+**Links:** [Google Maps](https://www.google.com/maps/search/Mel's%20Garage/@59.649352,17.086354,16z) · [geo:](geo:59.649352,17.086354) — Mel's Garage, Enköping
 
 **Source:** [mels.se](https://www.mels.se/)
 
 
-### 3.10 Väddö gårdsmejeri — farm dairy shop & café Bondens Kök (**open all winter**)
+### 3.9 Väddö gårdsmejeri — farm dairy shop & café Bondens Kök (**open all winter**)
 **What:** KRAV-organic farm dairy on Väddö with a gårdsbutik and café Bondens Kök: own cheese, ice cream and
 meat, production visible, playground.
 
@@ -856,11 +836,11 @@ addresses (currently Hammarbyvägen 34; older pages Grisslehamnsvägen 47 by the
 Lunch service is seasonal (returns mid-August). First Advent weekend 28–29 Nov 2026: julmarknad at Bergby
 Gård on Väddö (Sat 10–16, Sun 10–15).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.979144,18.829947) · [geo:](geo:59.979144,18.829947) — Väddö gårdsmejeri
+**Links:** [Google Maps](https://www.google.com/maps/search/V%C3%A4dd%C3%B6%20g%C3%A5rdsmejeri/@59.979144,18.829947,16z) · [geo:](geo:59.979144,18.829947) — Väddö gårdsmejeri
 
 **Source:** [vaddogardsmejeri.se — äta/öppettider](https://www.vaddogardsmejeri.se/ata/), [vaddobygden.se](https://www.vaddobygden.se/)
 
-### 3.11 Kölsvinet, Trosa guest harbour — wood-fired pizza by the quay (**Fri–Sun only**)
+### 3.10 Kölsvinet, Trosa guest harbour — wood-fired pizza by the quay (**Fri–Sun only**)
 **What:** Harbour-front restaurant/bar in Trosa gästhamn: wood-oven Neapolitan pizza, fish/seafood,
 terrace on the pontoons; lunch, dinner, events.
 
@@ -870,27 +850,25 @@ terrace on the pontoons; lunch, dinner, events.
 note published, so these hours apply in November 2026; go Fri–Sun. Pair with a stroll in Trosa (§2.19;
 julmarknad 29 Nov). Trosa Sjökrog is closed for the season after September.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.890812,17.552446) · [geo:](geo:58.890812,17.552446) — Kölsvinet, Uddbergagatan, Trosa gästhamn
+**Links:** [Google Maps](https://www.google.com/maps/search/K%C3%B6lsvinet%2C%20Trosa%20guest%20harbour/@58.890812,17.552446,16z) · [geo:](geo:58.890812,17.552446) — Kölsvinet, Uddbergagatan, Trosa gästhamn
 
 **Source:** [kolsvinet.se](https://www.kolsvinet.se/), [trosa.com — open all year](https://trosa.com/en/eat-drink/open-all-year/), [trosasjokrog.se — öppettider](https://www.trosasjokrog.se/oppettider/)
 
 
-### 3.12 Gimo herrgård — manor hotel restaurant (**open all winter**; julbord)
+### 3.11 Gimo herrgård — manor hotel restaurant (**open all winter**)
 **What:** Manor hotel/restaurant by the old bruk in Gimo: lunch and dinner in historic surroundings.
 
 **Drive:** ~70 min, ~110 km via E4 north + väg 288 toward Gimo (or väg 76).
 
 **November caveats (verified; weekend-focused):** open year-round — **weekend dinner Sat–Sun
-17:30–21:00** (no weekend lunch; lunch Mon–Fri 11:30–14:00), breakfast weekends 08:00–10:30. Book a table
-recommended. **Julbord Wed–Sun 22 Nov – 22 Dec 2026** (~595 kr; weekend sittings included; order by 17 Dec
-12:00).
+17:30–21:00** (no weekend lunch; lunch Mon–Fri 11:30–14:00), breakfast weekends 08:00–10:30. Book a table recommended.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.178311,18.173202) · [geo:](geo:60.178311,18.173202) — Gimo herrgård, Bruksgatan 24
+**Links:** [Google Maps](https://www.google.com/maps/search/Gimo%20herrg%C3%A5rd/@60.178311,18.173202,16z) · [geo:](geo:60.178311,18.173202) — Gimo herrgård, Bruksgatan 24
 
-**Source:** [gimoherrgard.se — hotellinformation](https://www.gimoherrgard.se/hotellinformation/), [gimoherrgard.se — julbord](https://www.gimoherrgard.se/mat-dryck/julbord/)
+**Source:** [gimoherrgard.se — hotellinformation](https://www.gimoherrgard.se/hotellinformation/)
 
 
-### 3.13 Söderfors herrgård — restaurant by the Dalälven (**open all winter**; julbord)
+### 3.12 Söderfors herrgård — restaurant by the Dalälven (**open all winter**)
 **What:** Restaurant in a 1690s manor hall by the Dalälven (baroque ceiling paintings): lunch, dinner
 and Sunday menu; spa/hotel; the "Potatisbunkern" cellar pub.
 
@@ -898,25 +876,22 @@ and Sunday menu; spa/hotel; the "Potatisbunkern" cellar pub.
 
 **November caveats (verified; weekend-focused):** restaurant open year-round — **weekend: à la carte
 Sat 12:00–23:00 and Sun 12:00–20:00 (Sunday menu); no lunch on weekends** (lunch Mon–Fri 11:00–14:00).
-Re-check the restaurant page before going; book a table. **Julbord Tue–Sun 27 Nov – 20 Dec 2026**,
-weekend sittings included. Combine with the Engelska parken walk (§1.15).
+Re-check the restaurant page before going; book a table. Combine with the Engelska parken walk (§1.15).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=60.383427,17.238822) · [geo:](geo:60.383427,17.238822) — Söderfors herrgård
+**Links:** [Google Maps](https://www.google.com/maps/search/S%C3%B6derfors%20herrg%C3%A5rd/@60.383427,17.238822,16z) · [geo:](geo:60.383427,17.238822) — Söderfors herrgård
 
-**Source:** [soderforsherrgard.se — restaurang](https://www.soderforsherrgard.se/restaurang/), [soderforsherrgard.se — julbord](https://www.soderforsherrgard.se/evenemang/julbord-pa-soderfors-herrgard)
+**Source:** [soderforsherrgard.se — restaurang](https://www.soderforsherrgard.se/restaurang/)
 
 
-### 3.14 Söderköpings Brunn — Sweden's oldest spa hotel, Sunday julbord (**open**; restaurant closed Sundays)
+### 3.13 Söderköpings Brunn — Sweden's oldest spa hotel (**Sat lunch; closed Sundays**)
 **What:** Kurhotel since 1774 in Söderköping: lunch and à la carte in historic rooms; spa.
 
 **Drive:** ~85 min, ~125 km via E4 south → Norrköping → väg 210/209 (at the 1.5 h edge — leave early).
 
-**November caveats (verified; weekend-focused):** **Sat lunch 12:00–15:00; Sundays = julbord only (22 Nov –
-20 Dec 2026, incl. glögg and coffee)** — otherwise the restaurant is closed Sundays (weekday lunch
-11:30–14:30, dinner from 17:00). Closed 25–29 Dec and 1–2 Jan; röda dagar can change hours — call first.
+**November caveats (verified; weekend-focused):** **Sat lunch 12:00–15:00; Sundays closed** (weekday lunch 11:30–14:30, dinner from 17:00). Closed 25–29 Dec and 1–2 Jan; röda dagar can change hours — call first.
 Combine with the Söderköping town walk (§2.23).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.479171,16.330663) · [geo:](geo:58.479171,16.330663) — Söderköpings Brunn, Skönbergagatan 35
+**Links:** [Google Maps](https://www.google.com/maps/search/S%C3%B6derk%C3%B6pings%20Brunn/@58.479171,16.330663,16z) · [geo:](geo:58.479171,16.330663) — Söderköpings Brunn, Skönbergagatan 35
 
 **Source:** [sbrunn.se — restaurang](https://www.sbrunn.se/restaurang/)
 
@@ -925,235 +900,235 @@ not permanently closed, within 1.5 h of T-Centralen, not already listed above, s
 hours are from the Google Maps listings checked 2026-11-07 — re-verify on the venue site before going.
 Kept out of the table of contents on purpose.
 
-### 3.15 Husby gård — Google Maps 4.5★ (189 reviews) {notoc}
+### 3.14 Husby gård — Google Maps 4.5★ (189 reviews) {notoc}
 **What:** Farm café at Husby gård (Helenelund/Sollentuna).
 
 **Drive:** ~12 min from T-Centralen (12 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 4 pm; Sun 12 to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.40720,17.91983) · [geo:](geo:59.40720,17.91983) — Husby gård 8, 164 30 Kista
+**Links:** [Google Maps](https://www.google.com/maps/search/Husby%20g%C3%A5rd/@59.40720,17.91983,16z) · [geo:](geo:59.40720,17.91983) — Husby gård 8, 164 30 Kista
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Husby+g%C3%A5rd/data=!4m7!3m6!1s0x465f9efb56367479:0x266c78c0add9ef64!8m2!3d59.4072034!4d17.9198254!16s%2Fg%2F11d_bb629v!19sChIJeXQ2VvueX0YRZO_ZrcB4bCY), [www.husbygard.nu](http://www.husbygard.nu/)
 
 
-### 3.16 450 Gradi — Google Maps 4.5★ (2234 reviews) {notoc}
+### 3.15 450 Gradi — Google Maps 4.5★ (2234 reviews) {notoc}
 **What:** Neapolitan pizza (450° oven) on Brostugevägen, Lidingö centrum.
 
 **Drive:** ~12 min from T-Centralen (5 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** open daily until 21:00 (per Maps); TheFork lists lunch from 12:00.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.34392,18.15323) · [geo:](geo:59.34392,18.15323) — Brostugevägen 1, 181 30 Lidingö
+**Links:** [Google Maps](https://www.google.com/maps/search/450%20Gradi/@59.34392,18.15323,16z) · [geo:](geo:59.34392,18.15323) — Brostugevägen 1, 181 30 Lidingö
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/450+Gradi/data=!4m7!3m6!1s0x465f8252a8c5ccbf:0xca3f0b07184c6a61!8m2!3d59.3439205!4d18.1532322!16s%2Fg%2F11bwptckm3!19sChIJv8zFqFKCX0YRYWpMGAcLP8o), [thefork.se — 450 Gradi (menu, hours, booking)](https://www.thefork.se/restaurang/450-gradi-r810111) — no official website found
 
 
-### 3.17 Sundby Gård — Google Maps 4.4★ (1365 reviews) {notoc}
+### 3.16 Sundby Gård — Google Maps 4.4★ (1365 reviews) {notoc}
 **What:** Restaurant at Sundby gård (Tumba, Botkyrka kommun) — 4.4★ but 1,365 reviews.
 
 **Drive:** ~15 min from T-Centralen (14 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 3 pm; Sun 12 to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.20167,18.02169) · [geo:](geo:59.20167,18.02169) — Sundby gårdsväg 5, 141 91 Huddinge
+**Links:** [Google Maps](https://www.google.com/maps/search/Sundby%20G%C3%A5rd/@59.20167,18.02169,16z) · [geo:](geo:59.20167,18.02169) — Sundby gårdsväg 5, 141 91 Huddinge
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Sundby+G%C3%A5rd/data=!4m7!3m6!1s0x465f7a7a8514047b:0xb8c9412b5bcc2b81!8m2!3d59.2016669!4d18.02169!16s%2Fg%2F11dyjmm8b!19sChIJewQUhXp6X0YRgSvMWytBybg), [book.easytablebooking.com/book/?id=38a3e&lang=se](https://book.easytablebooking.com/book/?id=38a3e&lang=se)
 
 
-### 3.18 Vattenverket Kottlasjön — Google Maps 4.5★ (760 reviews) {notoc}
+### 3.17 Vattenverket Kottlasjön — Google Maps 4.5★ (760 reviews) {notoc}
 **What:** Cafeteria at the old waterworks by Kottlasjön, Lidingö — lakeside setting.
 
 **Drive:** ~16 min from T-Centralen (8 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** opens 08:00 Sun (per Maps).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.35034,18.19292) · [geo:](geo:59.35034,18.19292) — Insjöhagsvägen 14, Lidingö
+**Links:** [Google Maps](https://www.google.com/maps/search/Vattenverket%20Kottlasj%C3%B6n/@59.35034,18.19292,16z) · [geo:](geo:59.35034,18.19292) — Insjöhagsvägen 14, Lidingö
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Vattenverket+Kottlasj%C3%B6n/data=!4m7!3m6!1s0x465f82fed5580315:0x9fe04566ea4ebf89!8m2!3d59.3503429!4d18.1929196!16s%2Fg%2F11dyzcrbqj!19sChIJFQNY1f6CX0YRib9O6mZF4J8), [vattenverket.se — café vid Kottlasjön](https://www.vattenverket.se/kafe-lidingo)
 
 
-### 3.19 Lidingo Musteri — Google Maps 4.5★ (109 reviews) {notoc}
+### 3.18 Lidingo Musteri — Google Maps 4.5★ (109 reviews) {notoc}
 **What:** Orchard café / musteri at Grönsta prästgård, Lidingö.
 
 **Drive:** ~16 min from T-Centralen (8 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** opens 10:00 Sun (per Maps).
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.37978,18.15605) · [geo:](geo:59.37978,18.15605) — Grönsta Prästgård 8, Lidingö
+**Links:** [Google Maps](https://www.google.com/maps/search/Lidingo%20Musteri/@59.37978,18.15605,16z) · [geo:](geo:59.37978,18.15605) — Grönsta Prästgård 8, Lidingö
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Lidingo+Musteri/data=!4m7!3m6!1s0x465f83374c877c03:0x874aeb57de5369d2!8m2!3d59.3797827!4d18.1560458!16s%2Fg%2F11bxdcl9tn!19sChIJA3yHTDeDX0YR0mlT3lfrSoc), [lidingomusteri.se — öppettider](http://www.lidingomusteri.se/oppettider-99/)
 
 
-### 3.20 Cafè Säby Gård — Google Maps 4.5★ (1099 reviews) {notoc}
+### 3.19 Cafè Säby Gård — Google Maps 4.5★ (1099 reviews) {notoc}
 **What:** Café in the old magazine building at Säby gård (Sollentuna).
 
 **Drive:** ~17 min from T-Centralen (16 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 10 am to 4 pm; Sun 10 am to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.42594,17.85803) · [geo:](geo:59.42594,17.85803) — Magasinet Säbygårdsvägen, 177 38 Järfälla
+**Links:** [Google Maps](https://www.google.com/maps/search/Caf%C3%A8%20S%C3%A4by%20G%C3%A5rd/@59.42594,17.85803,16z) · [geo:](geo:59.42594,17.85803) — Magasinet Säbygårdsvägen, 177 38 Järfälla
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Caf%C3%A8+S%C3%A4by+G%C3%A5rd/data=!4m7!3m6!1s0x465f9f67a3844c69:0x6022cd69df0b02a7!8m2!3d59.4259374!4d17.858028!16s%2Fg%2F1tj6sg1h!19sChIJaUyEo2efX0YRpwIL32nNImA), [cafesabygard.se](https://cafesabygard.se/)
 
 
-### 3.21 Camilles Trädgård & Café — Google Maps 4.8★ (715 reviews) {notoc}
+### 3.20 Camilles Trädgård & Café — Google Maps 4.8★ (715 reviews) {notoc}
 **What:** Trädgård café on Vaxholm island — garden setting, lunch and fika.
 
 **Drive:** ~19 min from T-Centralen (18 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 5 pm; Sun 11 am to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.40448,18.35238) · [geo:](geo:59.40448,18.35238) — Fiskaregatan 12, 185 32 Vaxholm
+**Links:** [Google Maps](https://www.google.com/maps/search/Camilles%20Tr%C3%A4dg%C3%A5rd%20%26%20Caf%C3%A9/@59.40448,18.35238,16z) · [geo:](geo:59.40448,18.35238) — Fiskaregatan 12, 185 32 Vaxholm
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Camilles+Tr%C3%A4dg%C3%A5rd+%26+Caf%C3%A9/data=!4m7!3m6!1s0x465f8791f154ea9d:0xf37e0b89cfc218da!8m2!3d59.4044779!4d18.3523796!16s%2Fg%2F11jhwnkhch!19sChIJnepU8ZGHX0YR2hjCz4kLfvM), [camillesgarden.com](http://camillesgarden.com/)
 
 
-### 3.22 Nelson's Krog — Google Maps 4.4★ (102 reviews) {notoc}
+### 3.21 Nelson's Krog — Google Maps 4.4★ (102 reviews) {notoc}
 **What:** Neighbourhood krog in Gustavsberg with evening service.
 
 **Drive:** ~19 min from T-Centralen (19 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 1 pm to 12 am; Sun 1 to 9 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.33088,18.39544) · [geo:](geo:59.33088,18.39544) — Markörplan 1, 134 36 Gustavsberg
+**Links:** [Google Maps](https://www.google.com/maps/search/Nelson's%20Krog/@59.33088,18.39544,16z) · [geo:](geo:59.33088,18.39544) — Markörplan 1, 134 36 Gustavsberg
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Nelson%27s+Krog/data=!4m7!3m6!1s0x465f808b682868a5:0x8e46492ed35a6439!8m2!3d59.3308808!4d18.3954422!16s%2Fg%2F1yh9tzy5l!19sChIJpWgoaIuAX0YROWRa0y5JRo4), [nelsonskrog.se](https://nelsonskrog.se/)
 
 
-### 3.23 Gårdsmejeriet Sanda — Google Maps 4.6★ (122 reviews) {notoc}
+### 3.22 Gårdsmejeriet Sanda — Google Maps 4.6★ (122 reviews) {notoc}
 **What:** Farm-dairy cheese shop & café on Ekerö (Sanda), by the ferry road.
 
 **Drive:** ~24 min from T-Centralen (23 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 7 am to 8 pm; Sun 7 am to 8 pm; the Ostboden cheese cabin is self-service **daily 07:00–20:00** per the official site.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.13208,18.18565) · [geo:](geo:59.13208,18.18565) — Klockarlötsvägen 5, 137 95 Österhaninge
+**Links:** [Google Maps](https://www.google.com/maps/search/G%C3%A5rdsmejeriet%20Sanda/@59.13208,18.18565,16z) · [geo:](geo:59.13208,18.18565) — Klockarlötsvägen 5, 137 95 Österhaninge
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/G%C3%A5rdsmejeriet+Sanda/data=!4m7!3m6!1s0x465f7b7e58ffffff:0xf83afd20a75b1c6a!8m2!3d59.1320826!4d18.1856464!16s%2Fg%2F11bbrk6h28!19sChIJ____WH57X0YRahxbpyD9Ovg), [gardsmejerietsanda.se](http://gardsmejerietsanda.se/)
 
 
-### 3.24 Klockargårdens Våffleri — Google Maps 4.6★ (1364 reviews) {notoc}
+### 3.23 Klockargårdens Våffleri — Google Maps 4.6★ (1364 reviews) {notoc}
 **What:** Waffle café at Klockargården, Kagghamra/Grödinge — same hamlet as Karshamra Mat och Trädgård.
 
 **Drive:** ~27 min from T-Centralen (26 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 10 am to 5 pm; Sun 10 am to 5 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.14479,17.78955) · [geo:](geo:59.14479,17.78955) — Grödinge Kyrkby 6, 147 92 Grödinge
+**Links:** [Google Maps](https://www.google.com/maps/place/Klockarg%C3%A5rdens+V%C3%A5ffleri/@59.14479,17.78955,16z/data=!4m6!3m5!1s0x465f6d9c07591ee3:0x4713a48ba74186ea!8m2!3d59.1447879!4d17.7895533!16s%2Fg%2F11g1dvfb7b?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.14479,17.78955) — Grödinge Kyrkby 6, 147 92 Grödinge
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Klockarg%C3%A5rdens+V%C3%A5ffleri/data=!4m7!3m6!1s0x465f6d9c07591ee3:0x4713a48ba74186ea!8m2!3d59.1447879!4d17.7895533!16s%2Fg%2F11g1dvfb7b!19sChIJ4x5ZB5xtX0YR6oZBp4ukE0c), [www.klockargardensvaffleri.se/vanligaste-fragorna](https://www.klockargardensvaffleri.se/vanligaste-fragorna/)
 
 
-### 3.25 Steninge Brygga — Google Maps 4.5★ (119 reviews) {notoc}
-**What:** Restaurant by the jetty at Steninge slott (a different venue from Steninge Bruk §3.5).
+### 3.24 Steninge Brygga — Google Maps 4.5★ (119 reviews) {notoc}
+**What:** Restaurant by the jetty at Steninge slott (a different venue from Steninge Bruk §3.4).
 
 **Drive:** ~36 min from T-Centralen (34 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 10 pm; Sun 11 am to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.60105,17.77988) · [geo:](geo:59.60105,17.77988) — Steninge Slottsväg 411, 195 59 Märsta
+**Links:** [Google Maps](https://www.google.com/maps/search/Steninge%20Brygga/@59.60105,17.77988,16z) · [geo:](geo:59.60105,17.77988) — Steninge Slottsväg 411, 195 59 Märsta
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Steninge+Brygga/data=!4m7!3m6!1s0x465fbbab0ec3b803:0xda91810609e695de!8m2!3d59.6010484!4d17.7798804!16s%2Fg%2F11w9n52x6v!19sChIJA7jDDqu7X0YR3pXmCQaBkdo), [www.steningebrygga.se](https://www.steningebrygga.se/)
 
 
-### 3.26 Österby Gårdsbutik — Google Maps 4.7★ (168 reviews) {notoc}
+### 3.25 Österby Gårdsbutik — Google Maps 4.7★ (168 reviews) {notoc}
 **What:** Gårdsbutik (farm shop) with café at Österby, between Sigtuna and Uppsala.
 
 **Drive:** ~44 min from T-Centralen (42 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 4 pm; Sun Closed.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.66051,17.68916) · [geo:](geo:59.66051,17.68916) — Vassundavägen 243, 193 91 Sigtuna
+**Links:** [Google Maps](https://www.google.com/maps/place/%C3%96sterby+G%C3%A5rdsbutik/@59.66051,17.68916,16z/data=!4m6!3m5!1s0x465fba012f3e6e0d:0x904c3ba740dd7345!8m2!3d59.6605139!4d17.6891614!16s%2Fg%2F11c6df1ff9?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.66051,17.68916) — Vassundavägen 243, 193 91 Sigtuna
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/%C3%96sterby+G%C3%A5rdsbutik/data=!4m7!3m6!1s0x465fba012f3e6e0d:0x904c3ba740dd7345!8m2!3d59.6605139!4d17.6891614!16s%2Fg%2F11c6df1ff9!19sChIJDW4-LwG6X0YRRXPdQKc7TJA), [www.osterbygard.se](http://www.osterbygard.se/)
 
 
-### 3.27 Krägga Café & Lanthandel — Google Maps 4.6★ (184 reviews) {notoc}
+### 3.26 Krägga Café & Lanthandel — Google Maps 4.6★ (184 reviews) {notoc}
 **What:** Café + lanthandel at Krägga herrgård, south-east of Enköping.
 
 **Drive:** ~50 min from T-Centralen (48 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 8 pm; Sun 12 to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.60487,17.40734) · [geo:](geo:59.60487,17.40734) — Grönlundsvägen 1a, 746 93 Bålsta
+**Links:** [Google Maps](https://www.google.com/maps/place/Kr%C3%A4gga+Caf%C3%A9+%26+Lanthandel/@59.60487,17.40734,16z/data=!4m6!3m5!1s0x465fad86bf223c61:0x2ab57a19ef47124e!8m2!3d59.6048738!4d17.4073435!16s%2Fg%2F11c0xytv6t?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D) · [geo:](geo:59.60487,17.40734) — Grönlundsvägen 1a, 746 93 Bålsta
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Kr%C3%A4gga+Caf%C3%A9+%26+Lanthandel/data=!4m7!3m6!1s0x465fad86bf223c61:0x2ab57a19ef47124e!8m2!3d59.6048738!4d17.4073435!16s%2Fg%2F11c0xytv6t!19sChIJYTwiv4atX0YRThJH7xl6tSo), [www.kraggamatochvanner.se](https://www.kraggamatochvanner.se/)
 
 
-### 3.28 Café Grassagården — Google Maps 4.6★ (785 reviews) {notoc}
+### 3.27 Café Grassagården — Google Maps 4.6★ (785 reviews) {notoc}
 **What:** Café-restaurant on Kvarngatan in Strängnäs old town.
 
 **Drive:** ~61 min from T-Centralen (59 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 10 am to 5 pm; Sun 10 am to 5 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.37784,17.03132) · [geo:](geo:59.37784,17.03132) — Kvarngatan 2, 645 30 Strängnäs
+**Links:** [Google Maps](https://www.google.com/maps/search/Caf%C3%A9%20Grassag%C3%A5rden/@59.37784,17.03132,16z) · [geo:](geo:59.37784,17.03132) — Kvarngatan 2, 645 30 Strängnäs
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Caf%C3%A9+Grassag%C3%A5rden/data=!4m7!3m6!1s0x465efe9f9c149279:0x46558d6edd78692c!8m2!3d59.3778394!4d17.0313203!16s%2Fg%2F11c59wfq3k!19sChIJeZIUnJ_-XkYRLGl43W6NVUY), [cafegrassagarden.se](https://cafegrassagarden.se/)
 
 
-### 3.29 Köpmanholms Lanthandel Grill & Bar — Google Maps 4.4★ (211 reviews) {notoc}
+### 3.28 Köpmanholms Lanthandel Grill & Bar — Google Maps 4.4★ (211 reviews) {notoc}
 **What:** Lanthandel with grill & bar at Köpmanholm on Rådmansö/Väddö.
 
 **Drive:** ~64 min from T-Centralen (61 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 4 pm; Sun 11 am to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.65951,18.93225) · [geo:](geo:59.65951,18.93225) — Holmbergsbacken 1, 760 18 Yxlan
+**Links:** [Google Maps](https://www.google.com/maps/search/K%C3%B6pmanholms%20Lanthandel%20Grill%20%26%20Bar/@59.65951,18.93225,16z) · [geo:](geo:59.65951,18.93225) — Holmbergsbacken 1, 760 18 Yxlan
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/K%C3%B6pmanholms+Lanthandel+Grill+%26+Bar/data=!4m7!3m6!1s0x46f55c618757d28d:0x1acd8e433396f7b9!8m2!3d59.6595144!4d18.9322477!16s%2Fg%2F11g6wjlrzh!19sChIJjdJXh2Fc9UYRufeWM0OOzRo), [lunchfindr — Köpmanholms Lanthandel](https://lunchfindr.se/location/404/yxlan/lunch/2061/kopmanholms-lanthandel-grill-bar/) — no own website found
 
 
-### 3.30 Miklagård — Google Maps 4.7★ (186 reviews) {notoc}
+### 3.29 Miklagård — Google Maps 4.7★ (186 reviews) {notoc}
 **What:** Restaurant on Årstagatan in Uppsala (Gamla Uppsala side).
 
 **Drive:** ~67 min from T-Centralen (64 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 12 to 10 pm; Sun 12 to 9 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.86809,17.66254) · [geo:](geo:59.86809,17.66254) — Årstagatan 6, 754 34 Uppsala
+**Links:** [Google Maps](https://www.google.com/maps/search/Miklag%C3%A5rd/@59.86809,17.66254,16z) · [geo:](geo:59.86809,17.66254) — Årstagatan 6, 754 34 Uppsala
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Miklag%C3%A5rd/data=!4m7!3m6!1s0x465fcdf7b461da4d:0x83396e11dca7e108!8m2!3d59.8680897!4d17.6625427!16s%2Fg%2F11t81h37r2!19sChIJTdphtPfNX0YRCOGn3BFuOYM), [www.miklagarduppsala.se](http://www.miklagarduppsala.se/)
 
 
-### 3.31 Landsberga Gårdsbutik & Café — Google Maps 4.4★ (722 reviews) {notoc}
+### 3.30 Landsberga Gårdsbutik & Café — Google Maps 4.4★ (722 reviews) {notoc}
 **What:** Gårdsbutik & café at Landsberga, west of Uppsala.
 
 **Drive:** ~70 min from T-Centralen (68 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 5 pm; Sun 11 am to 5 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.74038,17.18078) · [geo:](geo:59.74038,17.18078) — BISKOPSKULLA LANDSBERGA 5, 749 63 Örsundsbro
+**Links:** [Google Maps](https://www.google.com/maps/search/Landsberga%20G%C3%A5rdsbutik%20%26%20Caf%C3%A9/@59.74038,17.18078,16z) · [geo:](geo:59.74038,17.18078) — BISKOPSKULLA LANDSBERGA 5, 749 63 Örsundsbro
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Landsberga+G%C3%A5rdsbutik+%26+Caf%C3%A9/data=!4m7!3m6!1s0x465e492de8a24435:0xfa9ec6c287b6c555!8m2!3d59.7403805!4d17.1807824!16s%2Fg%2F11c4b2_htb!19sChIJNUSi6C1JXkYRVcW2h8LGnvo), [www.landsberga.se](http://www.landsberga.se/)
 
 
-### 3.32 Café Östergården — Google Maps 4.6★ (132 reviews) {notoc}
+### 3.31 Café Östergården — Google Maps 4.6★ (132 reviews) {notoc}
 **What:** Cafeteria at Östergården farm, Uvsta (south-west of Uppsala).
 
 **Drive:** ~75 min from T-Centralen (72 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 11 am to 4 pm; Sun 11 am to 4 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.90881,17.09668) · [geo:](geo:58.90881,17.09668) — Uvsta Östergården 1, 611 91 Nyköping
+**Links:** [Google Maps](https://www.google.com/maps/search/Caf%C3%A9%20%C3%96sterg%C3%A5rden/@58.90881,17.09668,16z) · [geo:](geo:58.90881,17.09668) — Uvsta Östergården 1, 611 91 Nyköping
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Caf%C3%A9+%C3%96sterg%C3%A5rden/data=!4m7!3m6!1s0x465f2529aff703a3:0x492813aaf1624c1!8m2!3d58.9088123!4d17.0966813!16s%2Fg%2F11r2jpv8mw!19sChIJowP3ryklX0YRwSQWrzqBkgQ), [www.cafeostergarden.se](http://www.cafeostergarden.se/)
 
 
-### 3.33 Kärrbo Prästgård — Google Maps 4.5★ (151 reviews) {notoc}
+### 3.32 Kärrbo Prästgård — Google Maps 4.5★ (151 reviews) {notoc}
 **What:** Farm café/restaurant at Kärrbo prästgård, Köpings kommun (E18 corridor).
 
 **Drive:** ~81 min from T-Centralen (78 km straight-line).
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the venue site):** Sat 6 am to 9 pm; Sun 6 am to 9 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.55469,16.75756) · [geo:](geo:59.55469,16.75756) — Kärrbo Prästgård 6, 725 97 Västerås
+**Links:** [Google Maps](https://www.google.com/maps/search/K%C3%A4rrbo%20Pr%C3%A4stg%C3%A5rd/@59.55469,16.75756,16z) · [geo:](geo:59.55469,16.75756) — Kärrbo Prästgård 6, 725 97 Västerås
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/K%C3%A4rrbo+Pr%C3%A4stg%C3%A5rd/data=!4m7!3m6!1s0x465e5f20e9b078a5:0x346f9c9733ffa618!8m2!3d59.554688!4d16.7575645!16s%2Fg%2F1hc1gfk8q!19sChIJpXiw6SBfXkYRGKb_M5ecbzQ), [www.karrboprastgard.se](http://www.karrboprastgard.se/)
 
 
-### 3.34 Munkens Bageri, Djurhamn — archipelago bakery on Värmdö (**open weekends**) {notoc}
+### 3.33 Munkens Bageri, Djurhamn — archipelago bakery on Värmdö (**open weekends**) {notoc}
 **What:** Bakery/konditori at Gransbergsvägen 12, Djurhamn (Värmdö) — cinnamon buns, breakfast, lunch and
 fika. Google Maps 4.4★ (197 reviews).
 
@@ -1162,21 +1137,21 @@ fika. Google Maps 4.4★ (197 reviews).
 **November caveats:** **Sat–Sun 08:00–16:00** (Mon–Thu 07:00–16:00, Fri 07:00–17:00) per
 explorearchipelago.com — Google Maps lists no hours, so verify on the bakery's site before going.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.31038,18.69794) · [geo:](geo:59.31038,18.69794) — Gransbergsvägen 12, 139 73 Djurhamn
+**Links:** [Google Maps](https://www.google.com/maps/search/Munkens%20Bageri%2C%20Djurhamn/@59.31038,18.69794,16z) · [geo:](geo:59.31038,18.69794) — Gransbergsvägen 12, 139 73 Djurhamn
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Munkens+Bageri,+Djurhamn,+V%C3%A4rmd%C3%B6/@59.25,18.55,12z/data=!4m6!3m5!1s0x46f57b9fe3503fc1:0x1ad9390302ec9836!8m2!3d59.3103917!4d18.6978928), [explorearchipelago.com — Munkens Bageri](https://www.explorearchipelago.com/sv/sthlm/mellersta-skargarden/djurostavsnas/munkens-konditori-djurhamn-varmdo-stockholms-skargard)
 
 
-### 3.35 Ösmo Plantshop — garden & plant shop in Ösmo (**open weekends**) {notoc}
+### 3.34 Ösmo Plantshop — garden & plant shop in Ösmo (**open weekends**) {notoc}
 **What:** Plant shop / garden centre at Växtstigen 1, Ösmo (Nynäshamn kommun) — indoor and outdoor plants,
 garden supplies, Interflora florist. Google Maps 4.4★ (928 reviews).
 
-**Drive:** ~45 min, ~35 km via väg 73 south to Ösmo (on the way to Nynäshamn/Torö, §1.16/§3.6).
+**Drive:** ~45 min, ~35 km via väg 73 south to Ösmo (on the way to Nynäshamn/Torö, §1.16/§3.5).
 
 **November caveats:** **Sat–Sun 10:00–15:00** (Mon–Thu 10:00–17:00) per the hitta.se listing — Google Maps
 lists no hours, so verify on osmoplantshop.se before going; winter stock is smaller than in summer.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.97866,17.90882) · [geo:](geo:58.97866,17.90882) — Växtstigen 1, 148 31 Ösmo
+**Links:** [Google Maps](https://www.google.com/maps/search/%C3%96smo%20Plantshop/@58.97866,17.90882,16z) · [geo:](geo:58.97866,17.90882) — Växtstigen 1, 148 31 Ösmo
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/%C3%96smo+Plantshop/@58.93,17.85,11z/data=!4m6!3m5!1s0x465f6784eff09d4f:0x184b1fe1cfc17cbb!8m2!3d58.9786577!4d17.9088216), [osmoplantshop.se](http://www.osmoplantshop.se/)
 
@@ -1195,7 +1170,7 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 4 to 11 pm; Sun Closed.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.27400,17.84717) · [geo:](geo:59.27400,17.84717) — Riggvägen 7, 178 51 Ekerö
+**Links:** [Google Maps](https://www.google.com/maps/search/Eker%C3%B6%20Brygghus%20%26%20Taproom/@59.27400,17.84717,16z) · [geo:](geo:59.27400,17.84717) — Riggvägen 7, 178 51 Ekerö
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Eker%C3%B6+Brygghus+%26+Taproom/data=!4m7!3m6!1s0x465f7506456bbfdd:0x96796b948952b5a1!8m2!3d59.2740034!4d17.8471664!16s%2Fg%2F11xsghv_dn!19sChIJ3b9rRQZ1X0YRobVSiZRreZY), [book.easytable.com/book/?ref=mb&id=7386e&lang=en](https://book.easytable.com/book/?ref=mb&id=7386e&lang=en)
 
@@ -1207,7 +1182,7 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** no public taproom hours on Google Maps — check varmdobryggeri.se / visitvarmdo.com before going.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.30870,18.37868) · [geo:](geo:59.30870,18.37868) — Leveransvägen 15, 134 45 Gustavsberg
+**Links:** [Google Maps](https://www.google.com/maps/search/V%C3%A4rmd%C3%B6%20Bryggeri/@59.30870,18.37868,16z) · [geo:](geo:59.30870,18.37868) — Leveransvägen 15, 134 45 Gustavsberg
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/V%C3%A4rmd%C3%B6+Bryggeri+AB/data=!4m7!3m6!1s0x46f57eabdc5018ab:0xe376a59bfb68285c!8m2!3d59.3087012!4d18.3786804!16s%2Fg%2F1yh9tz7h6!19sChIJqxhQ3Kt-9UYRXCho-5ulduM), [www.varmdobryggeri.se](http://www.varmdobryggeri.se/)
 
@@ -1219,19 +1194,19 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** no taproom hours on Google Maps — check waxholmsbryggeri.se before going.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.39380,18.43701) · [geo:](geo:59.39380,18.43701) — 4.8(9) Brewery · Hus 105, Rindöhamn, 185 41
+**Links:** [Google Maps](https://www.google.com/maps/search/Waxholms%20Bryggeri/@59.39380,18.43701,16z) · [geo:](geo:59.39380,18.43701) — 4.8(9) Brewery · Hus 105, Rindöhamn, 185 41
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Waxholms+Bryggeri/data=!4m7!3m6!1s0x465f87b047b97247:0x9310802527e8cc98!8m2!3d59.3938018!4d18.4370092!16s%2Fg%2F11fm321l88!19sChIJR3K5R7CHX0YRmMzoJyWAEJM), [www.waxholmsbryggeri.se](https://www.waxholmsbryggeri.se/)
 
 
 ### 4.4 Taxinge Brewery — Google Maps 4.7★ (154 reviews) {notoc}
-**What:** Brewery at Taxinge-Näsby slott — same venue as the slottscafé (§3.8); brewery/taproom activity mainly on event and julmarknad days.
+**What:** Brewery at Taxinge-Näsby slott — same venue as the slottscafé (§3.7); brewery/taproom activity mainly on event and julmarknad days.
 
 **Drive:** ~46 min from T-Centralen (44 km straight-line).
 
-**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** brewery at Taxinge-Näsby slott — slottscafé open **Fri–Sun 11:00–16:00** (§3.8); taproom mainly on event days, check taxingekrog.com.
+**November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** brewery at Taxinge-Näsby slott — slottscafé open **Fri–Sun 11:00–16:00** (§3.7); taproom mainly on event days, check taxingekrog.com.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.24087,17.30315) · [geo:](geo:59.24087,17.30315) — NÄSBY 22, 155 93 Nykvarn
+**Links:** [Google Maps](https://www.google.com/maps/search/Taxinge%20Brewery/@59.24087,17.30315,16z) · [geo:](geo:59.24087,17.30315) — NÄSBY 22, 155 93 Nykvarn
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Taxinge+Brewery/data=!4m7!3m6!1s0x465f1b160c1bcc71:0x413190d8180d7a0a!8m2!3d59.2408726!4d17.303151!16s%2Fg%2F11rrj6k453!19sChIJccwbDBYbX0YRCnoNGNiQMUE), [www.taxingekrog.com](http://www.taxingekrog.com/)
 
@@ -1243,7 +1218,7 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 4 pm to 1 am; Sun Closed.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.72562,17.78661) · [geo:](geo:59.72562,17.78661) — Stationsvägen 2, 741 40 Knivsta
+**Links:** [Google Maps](https://www.google.com/maps/search/Stationshuset%20i%20Knivsta/@59.72562,17.78661,16z) · [geo:](geo:59.72562,17.78661) — Stationsvägen 2, 741 40 Knivsta
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Stationshuset+i+Knivsta/data=!4m7!3m6!1s0x465fb869b9741981:0xf46ed04efc99427f!8m2!3d59.7256231!4d17.7866093!16s%2Fg%2F11d_d55n52!19sChIJgRl0uWm4X0YRf0KZ_E7QbvQ), [stationshusetiknivsta.se](https://stationshusetiknivsta.se/)
 
@@ -1255,7 +1230,7 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 2 pm to 3 am; Sun 2 to 10 pm.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.85705,17.63586) · [geo:](geo:59.85705,17.63586) — Drottninggatan 8b, 753 10 Uppsala
+**Links:** [Google Maps](https://www.google.com/maps/search/Taps%20Beer%20Bar/@59.85705,17.63586,16z) · [geo:](geo:59.85705,17.63586) — Drottninggatan 8b, 753 10 Uppsala
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Taps+Beer+Bar/data=!4m7!3m6!1s0x465fcbf0db770701:0x24f66d491a56499b!8m2!3d59.85705!4d17.6358598!16s%2Fg%2F11g9n9mvdg!19sChIJAQd32_DLX0YRm0lWGklt9iQ), [www.tapsbeerbar.se](http://www.tapsbeerbar.se/)
 
@@ -1267,7 +1242,7 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 1 pm to 12 am; Sun Closed.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.37549,16.50874) · [geo:](geo:59.37549,16.50874) — Faktorigatan 1, 632 17 Eskilstuna
+**Links:** [Google Maps](https://www.google.com/maps/search/Eskilstuna%20%C3%96lkultur/@59.37549,16.50874,16z) · [geo:](geo:59.37549,16.50874) — Faktorigatan 1, 632 17 Eskilstuna
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Eskilstuna+%C3%96lkultur/data=!4m7!3m6!1s0x465ef2ca511200ad:0x4c79efa31b531194!8m2!3d59.3754874!4d16.5087381!16s%2Fg%2F1q2wfxlm4!19sChIJrQASUcryXkYRlBFTG6PveUw), [www.eskilstunaolkultur.se](http://www.eskilstunaolkultur.se/)
 
@@ -1279,7 +1254,7 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 1 pm to 12 am; Sun Closed.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=58.74936,17.00959) · [geo:](geo:58.74936,17.00959) — Kungsgatan 30, 611 32 Nyköping
+**Links:** [Google Maps](https://www.google.com/maps/search/Nyk%C3%B6ping%20Brewing%20Company/@58.74936,17.00959,16z) · [geo:](geo:58.74936,17.00959) — Kungsgatan 30, 611 32 Nyköping
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Nyk%C3%B6ping+Brewing+Company/data=!4m7!3m6!1s0x465f2d65976621ef:0x5fab890b4b71a9af!8m2!3d58.7493626!4d17.009592!16s%2Fg%2F11flvw6zsd!19sChIJ7yFml2UtX0YRr6lxSwuJq18), [www.nykopingbrewing.se](http://www.nykopingbrewing.se/)
 
@@ -1291,7 +1266,7 @@ Kept out of the table of contents on purpose.
 
 **November caveats (hours per Google Maps listing 2026-11-07 — verify on the brewery site):** Sat 2 pm to 12 am; Sun Closed.
 
-**Links:** [Google Maps](https://www.google.com/maps?q=59.37113,16.51215) · [geo:](geo:59.37113,16.51215) — Kungsgatan 20, 632 18 Eskilstuna
+**Links:** [Google Maps](https://www.google.com/maps/search/Nornir%20Brewery/@59.37113,16.51215,16z) · [geo:](geo:59.37113,16.51215) — Kungsgatan 20, 632 18 Eskilstuna
 
 **Source:** [Google Maps listing](https://www.google.com/maps/place/Nornir+Brewery+AB/data=!4m7!3m6!1s0x465ef3640254c4d3:0xff946de992bcb14a!8m2!3d59.3711334!4d16.5121502!16s%2Fg%2F11s75q7f4_!19sChIJ08RUAmTzXkYRSrG8kultlP8), [nornirbrewery.se](https://nornirbrewery.se/)
 ---
@@ -1318,17 +1293,14 @@ Kept out of the table of contents on purpose.
 - **Exact weekend hours** of: Rosersbergs Slottshotell day-to-day table availability (booking advised),
   Steninge Bruk (standard hours published), Kölsvinet in December, Söderköping's Österns Stjärna /
   Stockrosen, Köping and Bålsta venues, Hallstavik/Alunda/Rimbo julmarknad 2026 dates.
-- **Bommersvik**: julbord dates verified on its own site; the regular restaurant is closed in the
-  period — no à-la-carte weekend dining verified there.
 - **Österbybruks herrgård restaurant (Gammel Tammen)**: group pre-booking ≥10 only — not a drop-in stop.
 - **Lövstabruks värdshus**: no verified regular November dining hours (julmarknad at Hantverkets Hus
   5–6 Dec 2026 only).
-- **Nynäsgården julbord 2026 dates** not yet published.
 - **Västerås ice rink (vinterplatser) 2026 opening date** not verified.
 - **Femörefortet** spring-2027 public reopening dates not yet published; November = group bookings only.
 - **Stendörren suspension bridges**: no formal 2026 reopening notice found after the 2023 inspection
   closure — check before revisiting.
-- **Entries 3.15–3.34 and section 4 (Google Maps research additions)**: the ≥ 4.4 / ≥ 100-review filter applied to restaurant entries only; ratings/reviews are from Google Maps listings checked 2026-11-07; weekend hours shown there are **not** re-verified on official sites — confirm before travelling. Värmdö Bryggeri has only 11 reviews (rating soft). Beer Monkey (Uppsala) showed "temporarily closed" on Maps and was dropped.
+- **Entries 3.14–3.33 and section 4 (Google Maps research additions)**: the ≥ 4.4 / ≥ 100-review filter applied to restaurant entries only; ratings/reviews are from Google Maps listings checked 2026-11-07; weekend hours shown there are **not** re-verified on official sites — confirm before travelling. Värmdö Bryggeri has only 11 reviews (rating soft). Beer Monkey (Uppsala) showed "temporarily closed" on Maps and was dropped.
 - **Roslagens sjöfartsmuseum** (Älmsta, Väddö): verified **closed to the public September–May** (office
   Tue–Thu only) — not a November stop. **Pythagoras industrimuseum** (Norrtälje): closed on ordinary days
   Nov–Mar; only its **julmarknad Sun 6 Dec 2026** (andra advent). **Roslagsmuseet** (Norrtälje): first two
@@ -1363,39 +1335,31 @@ Nov**; museum Tue–Sun 10:00–17:00, Kungstornet Sun 10:00–16:00. Lunch at t
 80 kr covers both sites.
 
 
-### I3. Sat 28 – Sun 29 Nov — Enköping: traditional julmarknad + museum + lunch (§2.13, §3.9)
+### I3. Sat 28 – Sun 29 Nov — Enköping: traditional julmarknad + museum + lunch (§2.13, §3.8)
 Drive ~57 min. **Julmarknad on Stora torget/Kaplanen Sat 10–16, Sun 11–16** (free); Enköpings museum
 Sat–Sun 11:00–15:00; lunch at **Mel's Garage** (open daily; Sat 09:00–16:00).
 
 
-### I4. Sun 29 Nov — Trosa Advent market + harbour lunch (§2.19, §3.11)
+### I4. Sun 29 Nov — Trosa Advent market + harbour lunch (§2.19, §3.10)
 Drive ~70 min. **Trosa julmarknad 10:00–15:00** at Trosa Torg/Garvaregården, town stroll, then lunch at
 **Kölsvinet** in the guest harbour (open Fri–Sun, 11:00–21:00). Optionally add **Tullgarns
 slottspark** first (~20 min north of Trosa, §2.16 — park open year-round, palace closed in winter).
 
 
-### I5. Sat 28 – Sun 29 Nov — Skokloster Advent market + Wira bruk (§2.12, §3.4)
+### I5. Sat 28 – Sun 29 Nov — Skokloster Advent market + Wira bruk (§2.12, §3.3)
 Drive ~50 min to Skoklosters slott (**julmarknad 28–29 Nov, 11:00–16:00**, market free; winter castle tour
 95 kr), then ~20 min to **Wira bruk**: its **Sagolik Julmarknad runs 27–29 Nov** and Wira Restaurang is
 open Sat–Sun 11:00–16:00.
 
 
-### I6. Fri–Sun in November — Taxinge-Näsby: cake buffet, julmarknad or julbord (§3.7)
-Drive ~55 min. Slottscafé open **Fri–Sun 11:00–16:00**; **Jul på Taxinge-Näsby 13–15 and 19–22 Nov** (entry
-fee); **julbord 27 Nov – 20 Dec** — book a Sat/Sun sitting.
+### I6. Fri–Sun in November — Taxinge-Näsby: cake buffet & julmarknad (§3.6)
+Drive ~55 min. Slottscafé open **Fri–Sun 11:00–16:00**; **Jul på Taxinge-Näsby 13–15 and 19–22 Nov** (entry fee).
 
 
-### I7. Weekend morning hike + smokehouse lunch — Torö/Ören + Nynäshamn (§1.16, §3.6, §3.35)
+### I7. Weekend morning hike + smokehouse lunch — Torö/Ören + Nynäshamn (§1.16, §3.5, §3.34)
 Drive ~60 min to Torö (Ören NR, south tip — coastal walk), then down to Nynäshamn for lunch at
 **Kökeriet** (Sat 11:30–16:00, Sun 11:30–15:00); optionally stop at **Ösmo Plantshop** on väg 73 on the way
-(Sat–Sun 10:00–15:00, §3.35); for dinner, **Restaurang Kroken** next door is open Sat 12:00–22:00, Sun 12:00–21:00 (§3.7). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
-
-
-### I8. Weekend julbord evenings (book ahead) (§3.1, §3.2, §3.7, §3.8, §3.12, §3.13, §3.14)
-Weekend sittings within 1.5 h: **Rosersbergs Slottshotell** Sat–Sun lunch 13:00 (895 kr) or Sat evening
-17:30/19:30, 27 Nov–19 Dec · **Bommersvik** Sat/Sun, Thu–Sun 26 Nov–19 Dec, 795 kr · **Taxinge-Näsby**
-Sat/Sun sittings, 27 Nov–20 Dec · **Gimo herrgård** Sat–Sun dinner, 22 Nov–22 Dec · **Söderfors
-herrgård** Sat/Sun, 27 Nov–20 Dec · **Söderköpings Brunn** Sunday julbord only, 22 Nov–20 Dec · **Restaurang Kroken** (Nynäshamn) from Fri 27 Nov, weekends included (§3.7).
+(Sat–Sun 10:00–15:00, §3.34); for dinner, **Restaurang Kroken** next door is open Sat 12:00–22:00, Sun 12:00–21:00 (§3.6). On **5–6 Dec** add Nynäshamn's julmarknad in the centre.
 
 
 ### I9. Sat 12 Dec — Sala: mine tour + Lucia julmarknad (§2.24)
@@ -1410,9 +1374,9 @@ afterwards a short park walk at **Örbyhus slott** (~15 min away, park open all 
 Bålsta on 13 Dec at 13:00 if you stay.
 
 
-### I11. Väddö day — prästgård reserve walk + farm dairy + lanthandel grill (§1.19, §3.10, §3.29) [View on map](map.html?i=I11)
+### I11. Väddö day — prästgård reserve walk + farm dairy + lanthandel grill (§1.19, §3.9, §3.28) [View on map](map.html?i=I11)
 Drive ~1 h 10 min. Walk Väddö prästgårds naturreservat (free, always open) and the Roslagen coast near
-Gåsvik, then fika and shopping at Väddö gårdsmejeri — Bondens Kök **Sat 10:00–16:00, Sun 10:00–15:00** — and lunch/grill at **Köpmanholms Lanthandel** on the way back (Sat–Sun 11:00–16:00 per Maps, §3.29).
+Gåsvik, then fika and shopping at Väddö gårdsmejeri — Bondens Kök **Sat 10:00–16:00, Sun 10:00–15:00** — and lunch/grill at **Köpmanholms Lanthandel** on the way back (Sat–Sun 11:00–16:00 per Maps, §3.28).
 First Advent weekend 28–29 Nov: julmarknad at Bergby Gård on Väddö. If driving through Norrtälje on
 **Sun 6 Dec**, Pythagoras industrimuseum holds its julmarknad (andra advent) there.
 
@@ -1421,37 +1385,37 @@ Drive ~40 min. Tom Tits Experiment (indoor science centre, house daily 10:00–1
 weekend days) plus Torekällberget open-air museum grounds (free, daily 06:30–21:00). **6–7 Dec: Jul på
 1800-talet julmarknad** on the hill.
 
-### I13. Arsenalen + Strängnäs (§2.18, §2.14, §3.28) [View on map](map.html?i=I13)
+### I13. Arsenalen + Strängnäs (§2.18, §2.14, §3.27) [View on map](map.html?i=I13)
 Drive ~1 h 05 min. Arsenalen military-vehicle museum **Wed–Sun 11:00–16:00** (140 kr), then Strängnäs town
-stroll and domkyrka (daily 10:00–16:00), with lunch at **Café Grassagården** on Kvarngatan (Sat–Sun 10:00–17:00 per Maps, §3.28).
+stroll and domkyrka (daily 10:00–16:00), with lunch at **Café Grassagården** on Kvarngatan (Sat–Sun 10:00–17:00 per Maps, §3.27).
 
 ### I14. Munktellmuseet, Eskilstuna (§2.20) [View on map](map.html?i=I14)
 Drive ~1 h 10 min. Munktellmuseet **Sat–Sun ~12:00–16:00** (verify on munktellmuseet.com; 150 kr pre-booked /
 180 kr at the door) plus an Eskilstuna town stroll.
 
 
-### I15. Lidingö fika & pizza day (§1.10, §3.16, §3.18, §3.19) [View on map](map.html?i=I15)
+### I15. Lidingö fika & pizza day (§1.10, §3.15, §3.17, §3.18) [View on map](map.html?i=I15)
 Drive ~15–20 min over the bridge. Walk **Bogesundslandet** (§1.10, free, always open), then lunch pizza at
-**450 Gradi** (open daily, closes 21:00 per Maps, §3.16), fika at **Vattenverket Kottlasjön** by the lake
-(opens 08:00 Sun per Maps, §3.18) and/or **Lidingo Musteri** at Grönsta (opens 10:00 Sun per Maps, §3.19).
+**450 Gradi** (open daily, closes 21:00 per Maps, §3.15), fika at **Vattenverket Kottlasjön** by the lake
+(opens 08:00 Sun per Maps, §3.17) and/or **Lidingo Musteri** at Grönsta (opens 10:00 Sun per Maps, §3.18).
 
 
-### I16. Vaxholm + Gustavsberg + Djurhamn food & museum day (§1.10, §2.25, §3.21, §3.22, §3.34) [View on map](map.html?i=I16)
+### I16. Vaxholm + Gustavsberg + Djurhamn food & museum day (§1.10, §2.25, §3.20, §3.21, §3.33) [View on map](map.html?i=I16)
 Drive ~20–45 min. Morning walk on **Bogesundslandet** (§1.10), **Gustavsbergs Porslinsmuseum** in Gustavsberg
 (Fri–Sun 11:00–16:00, §2.25), lunch at **Camilles Trädgård & Café** on Vaxholm island (Sat 11:00–17:00, Sun
-11:00–16:00 per Maps, §3.21 — seasonal garden café, verify), fika at **Munkens Bageri** in Djurhamn on the way
-back (Sat–Sun 08:00–16:00, §3.34), dinner at **Nelson's Krog** in Gustavsberg (Sat 13:00–24:00, Sun 13:00–21:00
-per Maps, §3.22).
+11:00–16:00 per Maps, §3.20 — seasonal garden café, verify), fika at **Munkens Bageri** in Djurhamn on the way
+back (Sat–Sun 08:00–16:00, §3.33), dinner at **Nelson's Krog** in Gustavsberg (Sat 13:00–24:00, Sun 13:00–21:00
+per Maps, §3.21).
 
 
-### I17. Grödinge waffles + Paradiset hike (§1.6, §3.24) [View on map](map.html?i=I17)
+### I17. Grödinge waffles + Paradiset hike (§1.6, §3.23) [View on map](map.html?i=I17)
 Drive ~30–35 min south. Walk **Paradiset-Hanveden** (§1.6, free, always open), then waffles at
-**Klockargårdens Våffleri** in Kagghamra (Sat–Sun 10:00–17:00 per Maps, §3.24 — verify on site).
+**Klockargårdens Våffleri** in Kagghamra (Sat–Sun 10:00–17:00 per Maps, §3.23 — verify on site).
 
 
-### I18. Brewery afternoon in Gustavsberg (§4.2, §3.22) [View on map](map.html?i=I18)
+### I18. Brewery afternoon in Gustavsberg (§4.2, §3.21) [View on map](map.html?i=I18)
 Drive ~20 min. Taproom at **Värmdö Bryggeri** (Leveransvägen 15, Gustavsberg — hours not listed on Maps,
-check varmdobryggeri.se first, §4.2), then dinner at **Nelson's Krog** (Sat 13:00–24:00 per Maps, §3.22).
+check varmdobryggeri.se first, §4.2), then dinner at **Nelson's Krog** (Sat 13:00–24:00 per Maps, §3.21).
 
 
 ### I19. Tyresö day — palace park, Alby forest walk & Borggårdscafét (§2.2, §1.3) [View on map](map.html?i=I19)
