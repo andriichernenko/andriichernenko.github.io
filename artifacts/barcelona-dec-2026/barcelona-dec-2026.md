@@ -1,54 +1,34 @@
-# Barcelona by public transport — New Year 2026/27 (Tue 29 Dec – Sun 3 Jan)
+# Barcelona by public transport — New Year 2026/27 (Tue 29 Dec – Sat 2 Jan, departing)
 
-Two travellers, first visit, based at **Hotel Gótico, Carrer de Jaume I 14, Ciutat Vella** (check-in 15:00 / check-out 12:00). No car — everything on foot, metro, FGC and Rodalies trains. Crowd-averse: first-slot tickets on weekdays, and New Year's Eve kept local instead of the Plaça Espanya mega-crowd. Food and drink are local bars, markets and bodegas — no international chains. All locations on one map: [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml). Opening hours and event dates verified **2026-11-12** against official sites and Google Maps; anything not verifiable is listed at the end. 2026 is the Gaudí centenary year — timed-entry tickets sell out days ahead, so book the starred entries now.
+Two travellers, first visit, based at **Hotel Gótico, Carrer de Jaume I 14, Ciutat Vella** (check-in 15:00 / check-out 12:00). No car — everything on foot, metro, FGC and Rodalies trains. Crowd-averse: first-slot tickets on weekdays, and New Year's Eve kept local instead of the Plaça Espanya mega-crowd. Food and drink are local bars, markets and bodegas — no international chains. All locations on one map: [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml). Opening hours and event dates verified **2026-11-12** against official sites and Google Maps; anything not verifiable is listed at the end. All advance bookings are already made — entries marked ★ are booked (confirmed slots: **Sagrada Família Thu 31 Dec 12:15** · **Casa Batlló Thu 31 Dec 16:00** · **Park Güell Fri 1 Jan 13:30**).
 
 <!--DAYLIGHT-->
 
-Plan outdoor sightseeing roughly 09:00–16:30; it is dark by ~17:30.
+Plan outdoor sightseeing roughly 09:00–17:00; sunset is ~17:32–17:36 this week and it is dark by ~18:05.
 
 ---
 
-## Holidays & opening hours, 29 Dec 2026 – 3 Jan 2027
+## Holidays & opening hours, 29 Dec 2026 – 2 Jan 2027
 
 - **Tue 29 Dec – Wed 30 Dec:** normal working days; everything open as usual.
-- **Thu 31 Dec (Nochevieja, not a holiday):** metro runs **all night**; free fireworks/drone show at Av. Reina Maria Cristina / Magic Fountain, Plaça d'Espanya ~23:50–00:10 — **100,000+ people**, avoid if you want no crowds (it is 19 min from the hotel on L3). Cursa dels Nassos 10 km race: streets closed ~16:00–20:00 in Poblenou and along Passeig de Picasso/Port Vell (start 17:15, Carrer de Selva de Mar). Most restaurants do fixed-price *menú de Cap d'Any* dinners, booked solid weeks ahead — book now or eat an early lunch. Picasso Museum open 10:00–14:00 only on 31 Dec.
+- **Thu 31 Dec (Nochevieja, not a holiday):** metro runs **all night**; free fireworks/drone show at Av. Reina Maria Cristina / Magic Fountain, Plaça d'Espanya ~23:50–00:10 — **100,000+ people**, avoid if you want no crowds (it is 19 min from the hotel on L3). Cursa dels Nassos 10 km race: streets closed ~16:00–20:00 in Poblenou and along Passeig de Picasso/Port Vell (start 17:15, Carrer de Selva de Mar). Most restaurants do fixed-price *menú de Cap d'Any* dinners, booked solid weeks ahead — yours are booked; otherwise eat an early lunch. Picasso Museum open 10:00–14:00 only on 31 Dec.
 - **Fri 1 Jan (Año Nuevo — public holiday):** most shops and banks closed; **many restaurants closed**; museums closed (MNAC, Picasso, MACBA, Miró confirmed closed 1 Jan); Sagrada Família open **9:00–14:00 only**; Park Güell open normally; La Boqueria closed; metro 5:00–24:00. Stock up on food on 31 Dec.
-- **Sat 2 Jan:** normal Saturday; metro runs all night into Sun. Tibidabo amusement park open 11:00–18:00 (Jan 2–5 only in deep winter).
-- **Sun 3 Jan:** markets closed (all municipal markets close Sundays); many small restaurants closed Sundays; **first Sunday of the month** = free entry at Picasso/MNAC/MACBA but only with an advance reservation released 4 days ahead at 10:00 (i.e. **Tue 29 Dec 10:00**) — and it is the most crowded museum day. MNAC Sun 10:00–15:00.
+- **Sat 2 Jan (departure day):** normal Saturday; check out by 12:00 and ask the hotel to store luggage. Tibidabo amusement park open 11:00–18:00 — only worth it if your flight is late afternoon. Metro runs all night into Sun.
 - Christmas markets: Fira de Santa Llúcia (Cathedral) and the Sagrada Família fair **closed 21–23 Dec — not available**. Still open: **Nadal al Port Vell**, Moll de la Fusta, **27 Nov 2026 – 6 Jan 2027, daily 11:00–23:00**; **Fira de Reis** (243 stalls), Gran Via between Muntaner and Rocafort, **18 Dec – 6 Jan**.
 
 Key attraction hours in the window (verified on official sites 2026-11-12):
 
-- **Sagrada Família:** Mon–Sat 9:00–18:00, Sun 10:30–18:00; **1 Jan 9:00–14:00**. Timed entry, €26 basic / €36 with tower; sells out days ahead in the Gaudí year. Tue–Thu are the quietest days — book the first slot.
-- **Park Güell:** open every day incl. 1 Jan; Monumental Zone ticketed bands from 9:30, winter last entry ~16:30–17:30 (check the date calendar); €18. Strict 30-min entry windows. Book the 9:30 slot. The rest of the park is free.
-- **Casa Batlló:** open daily (winter general visit ~9:00–18:30; book ahead). Maps currently lists 8:30–22:30 incl. evening "Magic Nights" slots — check which product you buy.
+- **Sagrada Família:** Mon–Sat 9:00–18:00, Sun 10:30–18:00; **1 Jan 9:00–14:00**. Timed entry, €26 basic / €36 with tower; sells out days ahead in the Gaudí year. **Booked: Thu 31 Dec 12:15.**
+- **Park Güell:** open every day incl. 1 Jan; Monumental Zone ticketed bands from 9:30, winter last entry ~16:30–17:30 (check the date calendar); €18. Strict 30-min entry windows. **Booked: Fri 1 Jan 13:30.** The rest of the park is free.
+- **Casa Batlló:** open daily (winter general visit ~9:00–18:30; **booked Thu 31 Dec 16:00**). Maps currently lists 8:30–22:30 incl. evening "Magic Nights" slots — check which product you buy.
 - **La Pedrera (Casa Milà):** 26 Dec–3 Jan day visit 9:00–18:30 (last entry 17:30); Night Experience closed 24, 25 and 31 Dec.
 - **Recinte Modernista de Sant Pau:** Nov–Mar Mon–Sat 9:30–17:00, Sun & holidays 9:30–15:00; likely closed 1 Jan (municipal site) — verify.
 - **MNAC:** Tue–Sat 10:00–18:00, Sun 10:00–15:00, closed Mon and 1 Jan. Free Sat from 15:00 and first Sunday with online booking.
 - **Museu Picasso:** Tue–Sun 10:00–19:00; closed Mon, 1 Jan; 31 Dec 10:00–14:00. Free Thu 16:00–19:00 and first Sunday (reservation 4 days ahead at 10:00).
 - **MACBA:** Mon & Wed–Fri 11:00–19:30, Sat 10:00–20:00, Sun 10:00–15:00, closed Tue and 1 Jan. Entrance works at Plaça dels Àngels until Feb 2027 — follow signs.
 - **Fundació Joan Miró:** Tue–Sun 10:00–19:00 (winter), closed Mon and 1 Jan.
-- **Palau de la Música Catalana:** open daily; **New Year concerts (Orquestra Simfònica del Vallès) run 28 Dec–9 Jan** — during your stay: 29 Dec 12:00, 31 Dec 12:00, 1 Jan 21:00, 2 Jan 18:00 & 21:00, 3 Jan 18:00 & 21:00. Visit+concert package from €57. Book ahead.
+- **Palau de la Música Catalana:** open daily; **New Year concerts (Orquestra Simfònica del Vallès) run 28 Dec–9 Jan** — during your stay: 29 Dec 12:00, 31 Dec 12:00, 1 Jan 21:00, 2 Jan 18:00 & 21:00 (last one before you leave). Visit+concert package from €57.
 - **La Boqueria market:** Mon–Sat 8:00–20:30; closed Sundays, 1 Jan, 25–26 Dec.
-
----
-
-## ★ Book ahead — tickets, tables & cellars
-
-Everything in this table needs an advance reservation or timed ticket — links verified 2026-11-12, official sites first. 2026 is the Gaudí centenary year, so the star sights sell out days ahead. Each entry below also carries a ★ in its heading.
-
-| What | Deadline / slot | Price | Book at |
-|---|---|---|---|
-| **Sagrada Família** (§1.9) | **Book now** — first slot 9:00 Tue–Thu; sells out days ahead | €26 basic · €36 with tower | [sagradafamilia.org/en/tickets](https://sagradafamilia.org/en/tickets) |
-| **Park Güell** Monumental Zone (§1.11) | **Book now** — 9:30 slot; strict 30-min entry windows | €18 | [parkguell.barcelona/en/buy-tickets](https://parkguell.barcelona/en/buy-tickets) |
-| **Casa Batlló** (§1.6) | Timed entry — book ahead | see site | [casabatllo.es/en/online-tickets](https://www.casabatllo.es/en/online-tickets/) |
-| **La Pedrera** (§1.8) | Timed entry — book ahead | see site | [lapedrera.com/en/tickets](https://www.lapedrera.com/en/tickets/) |
-| **Recinte Modernista de Sant Pau** (§1.10) | Book online ahead | €18 | [santpaubarcelona.org — prepare your visit](https://santpaubarcelona.org/en/prepara-la-teva-visita/) |
-| **Palau de la Música New Year concert** (§1.3) | In your window: **29 Dec 12:00 · 31 Dec 12:00 · 1 Jan 21:00 · 2 Jan 18:00 & 21:00 · 3 Jan 18:00 & 21:00** | from €57 | [palaumusica.cat — New Year's Concert](https://www.palaumusica.cat/en/new-year-s-concert_1623745) |
-| **Free first-Sunday entry, Sun 3 Jan** — Picasso (§1.13), MNAC (§1.14), MACBA (§1.12), Miró (§1.15) | Free slots released **Tue 29 Dec at 10:00** (4 days ahead) and go fast; otherwise buy timed tickets online | free (with reservation) / ticket price | [Picasso](https://museupicassobcn.cat/en/plan-your-visit/buy-tickets-and-opening-hours) · [MNAC](https://www.museunacional.cat/es/compra-de-entradas-online) · [MACBA](https://www.macba.cat/en/plan-your-visit/free-entrance-and-discount-admission/) · [Miró](https://www.fmirobcn.org/en/visit-us/tickets/) |
-| **Montserrat day trip** (§2.4) | Monastery + museum entry; Escolania choir 13:00 Mon–Fri | €18 entry | [FGC tickets](https://www.fgc.cat/en/tickets/) · [Cremallera / Aeri](https://www.cremillerademontserrat.cat/en/) · abbey visit info: [montserratvisita.com](https://www.montserratvisita.com/en/) |
-| **Penedès cava cellars** (§2.2, §5.16) | Tours capacity-capped — book days ahead | tour prices on site | [Freixenet](https://www.freixenet.com/es/en/visit/) · [Codorníu](https://www.codorniu.com/en/visits/heritage-tour) · [VINSEUM](https://vinseum.cat/en/visit-us/) |
-| **Dinner reservations** | **31 Dec (NYE) dinners: book now** (fixed-price menus fill weeks ahead) or eat early; the rest book days ahead | — | [Bar Cañete §5.1](https://barcanete.com/en/bookings/) · [XERA §4.1](https://www.xerarestaurant.com/) · [RAO §4.11](https://raobcn.com/#!/reservations) · [El Bandoler §4.7](https://la-alcoba.com/el-bandoler/#reserva) · [Petit Tapas §4.10](https://bookings.zenchef.com/results?rid=353408) · [Gourmet Sensi §4.8](https://bookings.zenchef.com/results?rid=353405) · [Cal Pep §5.2](https://www.calpep.com/) (tables by phone; barra is walk-in) · [Bodega Joan §5.9](https://www.bodegajoan.com/) · [Casa Pepi §5.10](https://casapepirestaurant.com/) |
 
 ---
 
@@ -76,8 +56,8 @@ Everything in this table needs an advance reservation or timed ticket — links 
 
 **Source:** [santamariadelmarbcn.org](https://www.santamariadelmarbcn.org/)
 
-### 1.3 Palau de la Música Catalana — Modernist concert hall (**★ concerts book ahead — see table above**)
-**What:** Domènech i Montaner's 1908 concert hall, UNESCO-listed. Guided day visits plus the New Year concert series 28 Dec–9 Jan (see holiday table). Book concert tickets ahead; day-visit slots also sell out around holidays.
+### 1.3 Palau de la Música Catalana — Modernist concert hall (**★ New Year concerts 28 Dec–9 Jan — booked**)
+**What:** Domènech i Montaner's 1908 concert hall, UNESCO-listed. Guided day visits plus the New Year concert series 28 Dec–9 Jan (see holiday table). Concert tickets booked; day-visit slots also sell out around holidays.
 
 **Getting there:** 9 min walk from the hotel (Carrer del Palau de la Música 4).
 
@@ -109,12 +89,12 @@ Everything in this table needs an advance reservation or timed ticket — links 
 
 **Source:** [barcelona.cat — Barceloneta](https://www.barcelona.cat/en/que-hacer-en-bcn)
 
-### 1.6 Casa Batlló — Gaudí on Passeig de Gràcia (**★ open daily; book ahead — see table above**)
-**What:** Gaudí's 1904 apartment block — façade, Noble Floor, rooftop chimneys, immersive light show. Winter is low season but the Gaudí centenary keeps demand high; book online and take the earliest slot.
+### 1.6 Casa Batlló — Gaudí on Passeig de Gràcia (**★ booked Thu 31 Dec 16:00**)
+**What:** Gaudí's 1904 apartment block — façade, Noble Floor, rooftop chimneys, immersive light show. Winter is low season but the Gaudí centenary keeps demand high; your 16:00 slot on 31 Dec is booked.
 
 **Getting there:** 10 min on L4 from Jaume I (Passeig de Gràcia station).
 
-**Winter caveats:** open every day of the year; winter general visit ~9:00–18:30 (evening "Magic Nights" slots to 22:30 exist — check product). Book ahead.
+**Winter caveats:** open every day of the year; winter general visit ~9:00–18:30 (evening "Magic Nights" slots to 22:30 exist — check which product you have).
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Casa+Batllo/@41.3917,2.164918,17z) · [geo:](geo:41.3917,2.164918) — Pg. de Gràcia 43
 
@@ -131,7 +111,7 @@ Everything in this table needs an advance reservation or timed ticket — links 
 
 **Source:** [barcelona.cat — Passeig de Gràcia](https://www.barcelona.cat/en/que-hacer-en-bcn)
 
-### 1.8 La Pedrera (Casa Milà) (**★ open daily; book ahead — see table above**)
+### 1.8 La Pedrera (Casa Milà) (**★ booked**)
 **What:** Gaudí's last civil work — rooftop with warrior chimneys, attic, apartment. In the window 26 Dec–3 Jan the day visit runs 9:00–18:30 (last entry 17:30).
 
 **Getting there:** 12 min on L4/L3 from Jaume I (Passeig de Gràcia / Diagonal).
@@ -142,8 +122,8 @@ Everything in this table needs an advance reservation or timed ticket — links 
 
 **Source:** [lapedrera.com](https://www.lapedrera.com/en/)
 
-### 1.9 Sagrada Família — ★ book timed ticket NOW (**open daily; 1 Jan 9:00–14:00**)
-**What:** Gaudí's unfinished basilica, Barcelona's icon. Timed-entry tickets €26 (€36 with tower); 2026 Gaudí centenary = exceptionally high demand, slots sell out days ahead. Tue–Thu are statistically the quietest days; take the first slot (9:00).
+### 1.9 Sagrada Família — ★ booked Thu 31 Dec 12:15 (**open daily; 1 Jan 9:00–14:00**)
+**What:** Gaudí's unfinished basilica, Barcelona's icon. Timed-entry ticket €26 (€36 with tower) — **booked for Thu 31 Dec 12:15**. 2026 Gaudí centenary = exceptionally high demand; Tue–Thu are statistically the quietest days.
 
 **Getting there:** 16 min on L4 from Jaume I (Sagrada Família station); 26 min walk.
 
@@ -153,18 +133,18 @@ Everything in this table needs an advance reservation or timed ticket — links 
 
 **Source:** [sagradafamilia.org — hours](https://sagradafamilia.org/en/schedules-how-to-get), [sagradafamilia.org — prices](https://sagradafamilia.org/en/prices)
 
-### 1.10 Recinte Modernista de Sant Pau (**★ book online; likely closed 1 Jan**)
+### 1.10 Recinte Modernista de Sant Pau (**★ booked; likely closed 1 Jan**)
 **What:** Domènech i Montaner's 1916 hospital complex, UNESCO-listed, 10 min walk from the Sagrada Família — far quieter, equally stunning (tunnels, pavilions, gardens).
 
 **Getting there:** 22 min on L4 + bus from Jaume I; or walk from Sagrada Família (~10 min).
 
-**Winter caveats:** Nov–Mar Mon–Sat 9:30–17:00, Sun & holidays 9:30–15:00. Municipal site — likely closed 1 Jan; verify before going. Book online.
+**Winter caveats:** Nov–Mar Mon–Sat 9:30–17:00, Sun & holidays 9:30–15:00. Municipal site — likely closed 1 Jan; verify before going.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Recinte+Modernista+de+Sant+Pau/@41.4117072,2.1743395,17z) · [geo:](geo:41.4117072,2.1743395) — Carrer de Sant Antoni Maria Claret 167
 
 **Source:** [santpaubarcelona.org](https://santpaubarcelona.org/en/), [irBarcelona — Sant Pau hours](https://irbarcelona.cat/edificis-de-barcelona/recinte-modernista-hospital-santa-creu-sant-pau/)
 
-### 1.11 Park Güell — ★ book 9:30 slot NOW (**open every day incl. 1 Jan**)
+### 1.11 Park Güell — ★ booked Fri 1 Jan 13:30 (**open every day incl. 1 Jan**)
 **What:** Gaudí's park: the Monumental Zone (ticketed, €18) with the mosaic terrace, benches and gatehouses; the rest of the park is free. Strict 30-min entry windows — no grace period. Winter light is best in the morning.
 
 **Getting there:** 29 min from Jaume I (L4 + bus V19/116 to the top entrances, or L3 Lesseps + uphill walk).
@@ -191,7 +171,7 @@ Everything in this table needs an advance reservation or timed ticket — links 
 
 **Getting there:** 15 min walk from the hotel (El Born).
 
-**Winter caveats:** Tue–Sun 10:00–19:00; closed Mon, 1 Jan, 25 Dec; **31 Dec 10:00–14:00**. Free Thu 16:00–19:00 and first Sunday of month (Sun 3 Jan) — reservation released 4 days ahead at 10:00 (29 Dec 10:00), and those slots are the most crowded. Articket BCN €38 covers 6 museums (Picasso, MNAC, Miró, MACBA, Tàpies, CCCB).
+**Winter caveats:** Tue–Sun 10:00–19:00; closed Mon, 1 Jan, 25 Dec; **31 Dec 10:00–14:00**. Free Thu 16:00–19:00 and first Sunday of the month — reservation released 4 days ahead at 10:00, and those slots are the most crowded. Articket BCN €38 covers 6 museums (Picasso, MNAC, Miró, MACBA, Tàpies, CCCB).
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Picasso+Museum+Barcelona/@41.3852706,2.1809472,17z) · [geo:](geo:41.3852706,2.1809472) — Carrer de Montcada 15–23
 
@@ -241,23 +221,23 @@ Everything in this table needs an advance reservation or timed ticket — links 
 
 **Source:** [barcelona.cat — Turó de la Rovira](https://www.barcelona.cat/en/)
 
-### 1.18 Tibidabo — Sagrat Cor church & amusement park (**★ park tickets online; weekends/holidays only in deep winter**)
+### 1.18 Tibidabo — Sagrat Cor church & amusement park (**weekends/holidays only in deep winter**)
 **What:** The 1902 Sagrat Cor temple (open daily, city views, free entry to the church) and the vintage amusement park above it. In deep winter the park opens only certain days: **2–5 Jan 2027, 11:00–18:00** (29–31 Dec: panoramic area only). Tramvia Blau is closed for works — go by FGC L7 to Av. Tibidabo + bus V17, or the Cuca de Llum funicular from Vallvidrera (FGC L7/S1 + funicular).
 
 **Getting there:** ~40 min from the hotel: L4/L3 to Plaça de Catalunya, FGC L7 toward Av. Tibidabo, then bus V17.
 
-**Winter caveats:** park rides open **Sat 2 & Sun 3 Jan 11:00–18:00** in your window (verify the exact calendar on tibidabo.cat); panoramic area and church open daily except 25–26 Dec.
+**Winter caveats:** park rides open **Sat 2 Jan 11:00–18:00** — your departure day, only if your flight is late (verify the exact calendar on tibidabo.cat); panoramic area and church open daily except 25–26 Dec.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Temple+Sagrat+Cor+de+Jesus+Tibidabo/@41.4220752,2.1187873,17z) · [geo:](geo:41.4220752,2.1187873) — summit of Tibidabo
 
 **Source:** [tibidabo.cat — schedules](https://tibidabo.cat/en/plan-the-visit/schedules?language=en), [barcelonaturisme.com — Tibidabo winter hours PDF](https://www.barcelonaturisme.com/imgfiles/ecv/tibidabo/HorarisTibidaboPanoramic.pdf)
 
 ### 1.19 Palau Güell — Gaudí's early palace, El Raval (**closed Mon**)
-**What:** Gaudí's 1888 palace for the Güell family — ironwork gates, parabolic arches, rooftop chimneys. Small, book-ahead visit, 10 min from the hotel.
+**What:** Gaudí's 1888 palace for the Güell family — ironwork gates, parabolic arches, rooftop chimneys. Small timed-entry visit, 10 min from the hotel.
 
 **Getting there:** 10 min walk (Carrer Nou de la Rambla 3).
 
-**Winter caveats:** Tue–Sun 10:00–17:30, closed Mon (and 1 Jan likely — verify); timed entry, book online.
+**Winter caveats:** Tue–Sun 10:00–17:30, closed Mon (and 1 Jan likely — verify); timed entry.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Palau+Guell/@41.3788851,2.1742398,17z) · [geo:](geo:41.3788851,2.1742398) — Carrer Nou de la Rambla 3
 
@@ -291,8 +271,8 @@ All trains leave from **Barcelona-Sants** (18 min from the hotel: L3 from Liceu,
 
 **Source:** [girona.cat](https://www.girona.cat/), [renfe.com](https://www.renfe.com/)
 
-### 2.2 Penedès cava country — Sant Sadurní d'Anoia & Vilafranca (~50 min by R4; ★ cellars book ahead)
-**What:** The capital of cava: Freixenet's cellar is right at the station; Codorníu's Modernist palace (Puig i Cadafalch) is a 1.5 km walk; VINSEUM wine museum in Vilafranca del Penedès. Winter = quiet, tastings by appointment. **Book winery visits in advance** — they cap capacity.
+### 2.2 Penedès cava country — Sant Sadurní d'Anoia & Vilafranca (~50 min by R4; ★ cellars booked)
+**What:** The capital of cava: Freixenet's cellar is right at the station; Codorníu's Modernist palace (Puig i Cadafalch) is a 1.5 km walk; VINSEUM wine museum in Vilafranca del Penedès. Winter = quiet, tastings by appointment — capacity-capped, yours are booked.
 
 **Getting there:** Rodalies R4 from Plaça de Catalunya / Arc de Triomf / Sants to Sant Sadurní d'Anoia ~45–50 min (~€6.90), then Vilafranca ~10 min more. From the hotel: 18 min to Sants (L3) + R4.
 
@@ -313,7 +293,7 @@ All trains leave from **Barcelona-Sants** (18 min from the hotel: L3 from Liceu,
 
 **Source:** [museusdesitges.cat — hours](https://museusdesitges.cat/en/schedule), [rodalies.gencat.cat](https://rodalies.gencat.cat/)
 
-### 2.4 Montserrat — monastery & serrated mountains (~1 h 25 min by FGC R5; ★ entry book online)
+### 2.4 Montserrat — monastery & serrated mountains (~1 h 25 min by FGC R5; ★ entry booked)
 **What:** The Benedictine monastery (Basilica with the Black Madonna, museum, €18 standard entry online), the Escolania boys' choir (sings Mon–Fri 13:00 during term — **Thu 31 Dec included**), and hiking trails with views (Sant Joan funicular up to 1,000 m). Weekday = far quieter than weekends.
 
 **Getting there:** FGC R5 from **Plaça d'Espanya** (19 min from the hotel: L3 from Liceu) ~1 h to Aeri de Montserrat or Monistrol de Montserrat stations, then the cable car (Aeri) or rack railway (Cremallera) up. Trans Montserrat / Tot Montserrat combined tickets (train + ascent + monastery entry) online. Total ~1 h 25 min each way, €6.90 train fare each way.
@@ -339,14 +319,14 @@ All trains leave from **Barcelona-Sants** (18 min from the hotel: L3 from Liceu,
 
 ## 3. Breakfast near the base (opens by 09:00)
 
-All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours verified on Google Maps **2026-11-12**. **Sun 3 Jan:** several places close — flagged per entry. **Fri 1 Jan (public holiday):** forns/bakeries normally open, but cafés and bars often close — confirm the evening before. Ratings/reviews are Google Maps values captured 2026-11-12. No chains — all local forns, bars and roasters.
+All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours verified on Google Maps **2026-11-12**. **Sundays:** several places close — not an issue, you leave on Sat 2 Jan. **Fri 1 Jan (public holiday):** forns/bakeries normally open, but cafés and bars often close — confirm the evening before. Ratings/reviews are Google Maps values captured 2026-11-12. No chains — all local forns, bars and roasters.
 
 ### 3.1 Forns del Pi — forn on the next street (opens 7:00 daily)
 **What:** Old-school neighbourhood forn on Carrer de Ferran: pa amb tomàquet, coca, pastries, churros, coffee. 4.2★ (1,962). Opens **7:00 every day incl. Sunday**, 7:00–21:00.
 
 **Getting there:** 1 min walk from the hotel (Carrer de Ferran 12).
 
-**Winter caveats:** verified 7:00–21:00 all seven days — the most reliable Sunday option (Sun 3 Jan). 1 Jan hours not published; forns normally open on holidays, confirm on the day.
+**Winter caveats:** verified 7:00–21:00 all seven days — open Sundays too. 1 Jan hours not published; forns normally open on holidays, confirm on the day.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Forns+del+Pi/@41.3807611,2.1748,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a2f807101e61:0x2531ab519aa90dc3!8m2!3d41.3807611!4d2.1748) · [geo:](geo:41.3807611,2.1748) — Carrer de Ferran 12
 
@@ -357,7 +337,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 2 min walk (Carrer dels Escudellers 59).
 
-**Winter caveats:** open all six days of your stay (from 8:30 on Sat 2 / Sun 3 Jan) per verified weekly hours; 1 Jan likely open (forn), confirm on the day.
+**Winter caveats:** open all five days of your stay (from 8:30 on Sat 2) per verified weekly hours; 1 Jan likely open (forn), confirm on the day.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Forneria+Tiana/data=!4m7!3m6!1s0x12a4a2562cc22db7:0x1480a9a95a4d5e4b!8m2!3d41.3803215!4d2.1770371) · [geo:](geo:41.3803215,2.1770371) — Carrer dels Escudellers 59
 
@@ -379,7 +359,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 2 min walk (Carrer d'Avinyó 26).
 
-**Winter caveats:** open Tue 29, Sat 2, Sun 3 (and Fri 1 Jan — confirm); closed Wed/Thu per verified weekly hours.
+**Winter caveats:** open Tue 29, Sat 2 (and Fri 1 Jan — confirm); closed Wed/Thu per verified weekly hours.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/A+Little+Bud/data=!4m7!3m6!1s0x12a4a3e70a50850f:0xcfc9b753a785001b!8m2!3d41.3809095!4d2.1770425) · [geo:](geo:41.3809095,2.1770425) — Carrer d'Avinyó 26
 
@@ -390,7 +370,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 3 min walk (Carrer del Cardenal Casañas 4).
 
-**Winter caveats:** open all six days from 7:30 per verified weekly hours; 1 Jan not published — confirm.
+**Winter caveats:** open all five days from 7:30 per verified weekly hours; 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Noor+Brunch/@41.3815434,2.1735203,17z) · [geo:](geo:41.3815434,2.1735203) — Cardenal Casañas 4
 
@@ -412,7 +392,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 4 min walk (Carrer de la Llibreteria 1).
 
-**Winter caveats:** closed Sun 3 Jan; open Tue 29–Sat 2 from 8:30 per verified weekly hours. 1 Jan not published — confirm.
+**Winter caveats:** closed Sundays; open Tue 29–Sat 2 from 8:30 per verified weekly hours. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Conesa+Entrepans/@41.3830864,2.1770921,17z) · [geo:](geo:41.3830864,2.1770921) — Carrer de la Llibreteria 1
 
@@ -423,7 +403,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 4 min walk (Carrer de la Llibreteria 8).
 
-**Winter caveats:** open all six days from 8:00 (Sun from 8:30) per verified weekly hours; 1 Jan likely open (forn), confirm.
+**Winter caveats:** open all five days from 8:00 (Sun from 8:30) per verified weekly hours; 1 Jan likely open (forn), confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Sant+Jordi+Forn+de+pa/data=!4m7!3m6!1s0x12a4a2f8fde56c33:0x599af7674c40fc46!8m2!3d41.3831291!4d2.1773302) · [geo:](geo:41.3831291,2.1773302) — Carrer de la Llibreteria 8
 
@@ -445,7 +425,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 5 min walk (Baixada de Santa Clara 2).
 
-**Winter caveats:** open all six days (from 9:00 on Sat 2 / Sun 3 Jan) per verified weekly hours; 1 Jan not published — confirm.
+**Winter caveats:** open all five days (from 9:00 on Sat 2) per verified weekly hours; 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Buenas+Migas/data=!4m7!3m6!1s0x12a4a2faa422b045:0x4b593457f0ea960a!8m2!3d41.3838103!4d2.1772981) · [geo:](geo:41.3838103,2.1772981) — Baixada de Santa Clara 2
 
@@ -456,7 +436,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 5 min walk (Baixada de la Llibreteria 5, Plaça del Rei corner).
 
-**Winter caveats:** open all six days from 8:00 per verified weekly hours; 1 Jan not published — confirm.
+**Winter caveats:** open all five days from 8:00 per verified weekly hours; 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Farggi/@41.3836648,2.1778468,17z) · [geo:](geo:41.3836648,2.1778468) — Baixada de la Llibreteria 5
 
@@ -467,7 +447,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 5 min walk (Baixada de la Llibreteria 1).
 
-**Winter caveats:** closed Sun 3 Jan; open Tue 29–Sat 2 from 8:00 per verified weekly hours. 1 Jan not published — confirm.
+**Winter caveats:** closed Sundays; open Tue 29–Sat 2 from 8:00 per verified weekly hours. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Tostaderos+Bon+Mercat+Llibreteria/@41.3836033,2.1777507,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a2f917ea578f:0x26fe9cb88c9096dc!8m2!3d41.3836033!4d2.1777507) · [geo:](geo:41.3836033,2.1777507) — Baixada de la Llibreteria 1
 
@@ -478,7 +458,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 5 min walk (La Rambla 116).
 
-**Winter caveats:** open all six days from 7:00 per verified weekly hours; 1 Jan likely open (bakery), confirm. (A duplicate "Kafetó" listing at the same address opens 10:00 — use the 7:00 one.)
+**Winter caveats:** open all five days from 7:00 per verified weekly hours; 1 Jan likely open (bakery), confirm. (A duplicate "Kafetó" listing at the same address opens 10:00 — use the 7:00 one.)
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Kafeto+bakery+coffee/@41.3830378,2.1719645,17z) · [geo:](geo:41.3830378,2.1719645) — La Rambla 116
 
@@ -489,7 +469,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 5 min walk (Carrer Ample 31).
 
-**Winter caveats:** open all six days from 8:00 per verified weekly hours; 1 Jan not published — confirm.
+**Winter caveats:** open all five days from 8:00 per verified weekly hours; 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Soul+Cafe/@41.3804376,2.1797846,17z) · [geo:](geo:41.3804376,2.1797846) — Carrer Ample 31
 
@@ -511,7 +491,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 6 min walk from the hotel (La Rambla 32 / Carrer d'en Xuclà 4).
 
-**Winter caveats:** closed Sundays (so not Sun 3 Jan); closes 13:30 — a morning-only stop. 1 Jan not published — confirm.
+**Winter caveats:** closed Sundays; closes 13:30 — a morning-only stop. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Granja+M.+Viader/data=!4m7!3m6!1s0x12a4a2f65e77a881:0xdc05c4cad93f85d8!8m2!3d41.3830917!4d2.1708449) · [geo:](geo:41.3830917,2.1708449) — La Rambla 32
 
@@ -522,7 +502,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 6 min walk (Carrer d'En Robador 1).
 
-**Winter caveats:** open all six days (from 9:00 on Sat 2 / Sun 3 Jan) per verified weekly hours; 1 Jan not published — confirm.
+**Winter caveats:** open all five days (from 9:00 on Sat 2) per verified weekly hours; 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/LA+CANDELARIA/@41.3803396,2.1702547,17z) · [geo:](geo:41.3803396,2.1702547) — Carrer d'En Robador 1
 
@@ -533,7 +513,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 10 min walk (Carrer de Sant Pere Més Baix 44).
 
-**Winter caveats:** closed Sun 3 Jan; open Tue 29–Sat 2 from 8:00 (Sat from 9:00) per verified weekly hours. 1 Jan not published — confirm.
+**Winter caveats:** closed Sundays; open Tue 29–Sat 2 from 8:00 (Sat from 9:00) per verified weekly hours. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Cafeteria+Cafes+Caracas/@41.3875413,2.1778814,17z) · [geo:](geo:41.3875413,2.1778814) — Sant Pere Més Baix 44
 
@@ -544,7 +524,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 10 min walk (Carrer dels Flassaders 44).
 
-**Winter caveats:** open all six days from 9:00 per verified weekly hours; 1 Jan likely open (pâtisserie), confirm.
+**Winter caveats:** open all five days from 9:00 per verified weekly hours; 1 Jan likely open (pâtisserie), confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Pastisseria+Hofmann/@41.385079,2.1827036,17z) · [geo:](geo:41.385079,2.1827036) — Flassaders 44
 
@@ -555,7 +535,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Getting there:** 14 min walk along the port (Carrer del Baluard 38).
 
-**Winter caveats:** open all six days from 7:30 per Maps and the official site; 1 Jan likely open, confirm.
+**Winter caveats:** open all five days from 7:30 per Maps and the official site; 1 Jan likely open, confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Baluard+Barceloneta/@41.3800126,2.1889083,17z) · [geo:](geo:41.3800126,2.1889083) — Carrer del Baluard 38
 
@@ -565,15 +545,15 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 ## 4. Dinner (opens 17:00 or later)
 
-Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values captured the same day. **1 Jan (Fri, holiday):** evening exceptions are not published — confirm each venue the evening before. Several places are closed Sundays — flagged per entry; on **Sun 3 Jan** the reliable dinner picks are **ELDISET** (§4.15, from 19:00) and **Viana** (§4.6, from 17:30).
+Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values captured the same day. **1 Jan (Fri, holiday):** evening exceptions are not published — confirm each venue the evening before. Several places are closed Sundays — not an issue, you leave Sat 2 Jan. On **Fri 1 Jan (holiday)** the reliable dinner picks are **ELDISET** (§4.15, 19:00–01:30 daily) and **el SET** (§4.12, 19:00–23:45) — confirm the 1 Jan exception on Maps the evening before.
 
 
-### 4.1 XERA — ★ book ahead — tasting-menu dinner, El Born area
-**What:** Small creative tasting-menu restaurant (Michelin Bib Gourmand-level cooking, Catalan produce) on a quiet lane. Opens 18:30, last seating ~22:30. Book ahead — Google Maps 4.8★ (1,483).
+### 4.1 XERA — ★ booked — tasting-menu dinner, El Born area
+**What:** Small creative tasting-menu restaurant (Michelin Bib Gourmand-level cooking, Catalan produce) on a quiet lane. Opens 18:30, last seating ~22:30. Booked — Google Maps 4.8★ (1,483).
 
 **Getting there:** 7 min walk from the hotel (Carrer de la Cera 5).
 
-**Winter caveats:** closed Sundays (not open Sun 3 Jan); opens 18:30 Tue–Sat. Holiday-week opening not confirmed — call ahead for 31 Dec/1 Jan.
+**Winter caveats:** closed Sundays; opens 18:30 Tue–Sat. Holiday-week opening not confirmed — call ahead for 31 Dec/1 Jan.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/XERA+Restaurant/data=!4m7!3m6!1s0x12a4a31890dcf7eb:0x7babcb37b678e32a!8m2!3d41.38455!4d2.1696814) · [geo:](geo:41.38455,2.1696814) — Carrer de la Cera 5
 
@@ -606,7 +586,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Getting there:** 17 min by metro from the hotel. Carrer de Sant Antoni Abat 47.
 
-**Winter caveats:** closed Mondays — not available Mon 28 Dec pattern; in your window open Tue 29, Wed 30, Thu 31 (from 17:00–18:00), Fri 1 Jan (from 17:00 — 1 Jan opening not confirmed), Sat 2 & Sun 3 Jan from 12:00.
+**Winter caveats:** closed Mondays — not available Mon 28 Dec pattern; in your window open Tue 29, Wed 30, Thu 31 (from 17:00–18:00), Fri 1 Jan (from 17:00 — 1 Jan opening not confirmed), Sat 2 from 12:00.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/La+Barmuter%C3%ADa+%7C+Vermuts+y+Tapas/data=!4m7!3m6!1s0x12a4a30cb080a2e7:0x98b31b9841bd33dd!8m2!3d41.3765278!4d2.1655742) · [geo:](geo:41.3765278,2.1655742) — Carrer de Sant Antoni Abat 47
 
@@ -630,14 +610,14 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Getting there:** 2 min walk (Carrer del Vidre 7).
 
-**Winter caveats:** open Tue 29, Thu 31, Fri 1, Sat 2, Sun 3 (evenings from 17:30); closed Wed 30. 1 Jan not published — confirm.
+**Winter caveats:** open Tue 29, Thu 31, Fri 1, Sat 2 (evenings from 17:30); closed Wed 30. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Viana+Barcelona/data=!4m7!3m6!1s0x12a4a257c5ca6da1:0xc0e1b3be23d02b5b!8m2!3d41.3798129!4d2.1761947) · [geo:](geo:41.3798129,2.1761947) — Carrer del Vidre 7
 
 **Source:** Google Maps listing (weekly hours checked 2026-11-12), TheFork listing
 
-### 4.7 El Bandoler by La Alcoba — La Alcoba's tavern arm (opens ~18:00; book ahead)
-**What:** Sister tavern of the La Alcoba group: traditional tapas and raciones, lively but local. 4.9★ (721). Listing shows opening ~18:00 — weekly hours not captured on Maps; reserve via their site.
+### 4.7 El Bandoler by La Alcoba — La Alcoba's tavern arm (opens ~18:00; ★ booked)
+**What:** Sister tavern of the La Alcoba group: traditional tapas and raciones, lively but local. 4.9★ (721). Listing shows opening ~18:00 — weekly hours not captured on Maps; reserved via their site.
 
 **Getting there:** 3 min walk (Carrer de Salomó ben Adret 8).
 
@@ -647,8 +627,8 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (checked 2026-11-12), [la-alcoba.com/el-bandoler](https://la-alcoba.com/el-bandoler/#reserva)
 
-### 4.8 Gourmet Sensi — Mediterranean dinner near Plaça de l'Àngel (opens 17:00; ★ book ahead)
-**What:** Busy neighbourhood restaurant on Carrer de Milans: Mediterranean/Catalan plates, good value, walk-in bar seats. 4.8★ (9,666). Listing shows opening 17:00 — weekly hours not captured; book via Zenchef for dinner.
+### 4.8 Gourmet Sensi — Mediterranean dinner near Plaça de l'Àngel (opens 17:00; ★ booked)
+**What:** Busy neighbourhood restaurant on Carrer de Milans: Mediterranean/Catalan plates, good value, walk-in bar seats. 4.8★ (9,666). Listing shows opening 17:00 — weekly hours not captured; booked via Zenchef.
 
 **Getting there:** 5 min walk (Carrer de Milans 4).
 
@@ -659,7 +639,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 **Source:** Google Maps listing (checked 2026-11-12), Zenchef booking page
 
 ### 4.9 L'Antic Bocoi del Gòtic — old tavern, hearty Catalan dinner (opens 19:00; closed Sun)
-**What:** "Antic bocoi" = old tavern: cargols, botifarra, fideuà in a wood-panelled room. 4.7★ (1,417). **19:00–23:00 Tue–Sat; closed Sundays** (not open Sun 3 Jan).
+**What:** "Antic bocoi" = old tavern: cargols, botifarra, fideuà in a wood-panelled room. 4.7★ (1,417). **19:00–23:00 Tue–Sat; closed Sundays** .
 
 **Getting there:** 5 min walk (Baixada de Viladecols 3).
 
@@ -669,30 +649,30 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (weekly hours checked 2026-11-12), TheFork listing
 
-### 4.10 Petit Tapas — tapas bar on Carrer Ample (opens ~18:00; book ahead)
-**What:** Modern tapas bar: croquetas, bravas, montaditos, natural wine. 4.8★ (5,668). Listing shows opening ~18:00 — weekly hours not captured; reserve via Zenchef.
+### 4.10 Petit Tapas — tapas bar on Carrer Ample (opens ~18:00; ★ booked)
+**What:** Modern tapas bar: croquetas, bravas, montaditos, natural wine. 4.8★ (5,668). Listing shows opening ~18:00 — weekly hours not captured; reserved via Zenchef.
 
 **Getting there:** 5 min walk (Carrer Ample 26).
 
-**Winter caveats:** confirm hours before going, esp. Sun 3 Jan / 1 Jan.
+**Winter caveats:** confirm hours before going, esp. 1 Jan.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Petit+Tapas/data=!4m7!3m6!1s0x12a4a347bfdf9435:0x3512163d4bdb6191!8m2!3d41.3803248!4d2.1800471) · [geo:](geo:41.3803248,2.1800471) — Carrer Ample 26
 
 **Source:** Google Maps listing (checked 2026-11-12), Zenchef booking page
 
-### 4.11 RAO — contemporary Catalan dinner in the Raval/Born edge (opens 18:30; closed Sun; book ahead)
-**What:** RAO on Carrer de les Sitges: refined Catalan cooking with Asian touches, tasting menu or à la carte. 4.8★ (2,858). **18:30–00:00 Tue–Sat; closed Sundays**. Book ahead on their site.
+### 4.11 RAO — contemporary Catalan dinner in the Raval/Born edge (opens 18:30; closed Sundays; ★ booked)
+**What:** RAO on Carrer de les Sitges: refined Catalan cooking with Asian touches, tasting menu or à la carte. 4.8★ (2,858). **18:30–00:00 Tue–Sat; closed Sundays**. Booked on their site.
 
 **Getting there:** 8 min walk (Carrer de les Sitges 3).
 
-**Winter caveats:** verified 18:30–00:00 Tue–Sat; closed Sun 3 Jan. 1 Jan not published — confirm.
+**Winter caveats:** verified 18:30–00:00 Tue–Sat; closed Sundays. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/RAO+Restaurant/data=!4m7!3m6!1s0x12a4a31e13ae0265:0x39d021fff767db02!8m2!3d41.3842671!4d2.1696744) · [geo:](geo:41.3842671,2.1696744) — Carrer de les Sitges 3
 
 **Source:** Google Maps listing (weekly hours checked 2026-11-12), [raobcn.com](https://raobcn.com/#!/reservations)
 
 ### 4.12 el SET — Born neighbourhood dinner, open late (opens 19:00 daily except Mon)
-**What:** el SET on Carrer de l'Esparteria: Mediterranean plates, good wines, open until 23:45. 4.8★ (1,363). **19:00–23:45 daily except Monday** — open all six days of your stay.
+**What:** el SET on Carrer de l'Esparteria: Mediterranean plates, good wines, open until 23:45. 4.8★ (1,363). **19:00–23:45 daily except Monday** — open all five days of your stay.
 
 **Getting there:** 10 min walk (Carrer de l'Esparteria 7).
 
@@ -707,7 +687,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Getting there:** 10 min walk (Carrer dels Mestres Casals i Martorell 24).
 
-**Winter caveats:** dinner Tue 29–Sat 2 (from 18:00 Tue–Fri, 13:00 Sat); Sun 3 Jan lunch only. 1 Jan not published — confirm.
+**Winter caveats:** dinner Tue 29–Sat 2 (from 18:00 Tue–Fri, 13:00 Sat); Sundays lunch only. 1 Jan not published — confirm.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Polonez/data=!4m7!3m6!1s0x12a4a3f8b6121fd3:0x57bccc257de689e1!8m2!3d41.3875701!4d2.1781253) · [geo:](geo:41.3875701,2.1781253) — Mestres Casals i Martorell 24
 
@@ -725,7 +705,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 **Source:** Google Maps listing (weekly hours checked 2026-11-12), [guzzobcn.es](https://guzzobcn.es/)
 
 ### 4.15 ELDISET — contemporary dinner in Born, open every evening incl. Sun (opens 19:00)
-**What:** ELDISET on Carrer Antic de Sant Joan: creative Mediterranean, tasting menu or à la carte, open late. 4.7★ (1,652). **19:00–01:30 every day** — one of the few dinner spots open Sun 3 Jan.
+**What:** ELDISET on Carrer Antic de Sant Joan: creative Mediterranean, tasting menu or à la carte, open late. 4.7★ (1,652). **19:00–01:30 every day** — one of the few dinner spots open Sundays.
 
 **Getting there:** 11 min walk (Carrer Antic de Sant Joan 3).
 
@@ -737,8 +717,8 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 ## 5. Other food & drink — vermut, tapas, markets, calçotada, cava (local, no chains)
 
-### 5.1 Bar Cañete — ★ book ahead — classic Raval tapas restaurant
-**What:** Institution since 1980: seafood paella, duck cannelloni, clams a la plancha, excellent wine list. Counter (barra) is walk-in; tables must be reserved — book now for your dates — Google Maps 4.6★ (8,521).
+### 5.1 Bar Cañete — ★ booked — classic Raval tapas restaurant
+**What:** Institution since 1980: seafood paella, duck cannelloni, clams a la plancha, excellent wine list. Counter (barra) is walk-in; tables are reserved for your dates — Google Maps 4.6★ (8,521).
 
 **Getting there:** 9 min walk from the hotel (Carrer de la Unió 17).
 
@@ -748,12 +728,12 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [barcanete.com — bookings](https://barcanete.com/en/bookings/), Google Maps listing (checked 2026-11-12)
 
-### 5.2 Cal Pep — ★ tables book ahead — Barceloneta seafood institution
+### 5.2 Cal Pep — ★ tables booked — Barceloneta seafood institution
 **What:** Market-fresh seafood and rice at the counter or tables; famous for bomba rice and clams. Lunch 13:00–15:45, dinner 19:30–23:30 (Sat from 13:15). Arrive at opening for the counter — Google Maps 4.4★ (3,248).
 
 **Getting there:** 7 min walk from the hotel (Plaça de les Olles 8).
 
-**Winter caveats:** **closed Sundays** (not Sun 3 Jan); 1 Jan not confirmed — check.
+**Winter caveats:** **closed Sundays**; 1 Jan not confirmed — check.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Cal+Pep/@41.3839621,2.1834106,17z) · [geo:](geo:41.3839621,2.1834106) — Plaça de les Olles 8
 
@@ -764,7 +744,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Getting there:** 9 min walk from the hotel (Carrer de la Reina Cristina 7).
 
-**Winter caveats:** open Tue–Sat 12:00–22:00; **closed Sun & Mon** — not available Sun 3 Jan; 1 Jan not confirmed.
+**Winter caveats:** open Tue–Sat 12:00–22:00; **closed Sun & Mon** — not available on Sundays; 1 Jan not confirmed.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Can+Paixano/@41.3818137,2.1833746,17z) · [geo:](geo:41.3818137,2.1833746) — Carrer de la Reina Cristina 7
 
@@ -775,7 +755,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Getting there:** 6 min walk from the hotel (Carrer de Montcada 22).
 
-**Winter caveats:** Thu/Fri 12:00–15:30 & 19:00–23:00, Sat 12:00–15:30, Mon 19:00–23:00; **closed Sundays** — in your window: Tue 29, Wed 30, Thu 31 (12:00–15:30 & 19:00–23:00), Sat 2 Jan 12:00–15:30 only; closed Sun 3 Jan.
+**Winter caveats:** Thu/Fri 12:00–15:30 & 19:00–23:00, Sat 12:00–15:30, Mon 19:00–23:00; **closed Sundays** — in your window: Tue 29, Wed 30, Thu 31 (12:00–15:30 & 19:00–23:00), Sat 2 Jan 12:00–15:30 only; closed Sundays.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/El+Xampanyet/data=!4m7!3m6!1s0x12a4a2fe8bb2db47:0x7c0703c76612adb8!8m2!3d41.3845391!4d2.181679) · [geo:](geo:41.3845391,2.181679) — Carrer de Montcada 22
 
@@ -808,7 +788,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Getting there:** 12 min walk from the hotel (Carrer de Bellesvistes 16, near Lesseps).
 
-**Winter caveats:** Tue–Fri 12:00–16:00 & 18:00–22:00, Sat/Sun 12:00–16:00; **closed Mondays**. Sun 3 Jan open 12:00–16:00 — the classic Sunday vermut.
+**Winter caveats:** Tue–Fri 12:00–16:00 & 18:00–22:00, Sat/Sun 12:00–16:00; **closed Mondays**. Sundays open 12:00–16:00 — the classic Sunday vermut.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Bodega+del+Vermut/data=!4m7!3m6!1s0x12a4a2f9f76e0e43:0xf58df4a19d0a2be6!8m2!3d41.3859063!4d2.1747643) · [geo:](geo:41.3859063,2.1747643) — Carrer de Bellesvistes 16
 
@@ -825,8 +805,8 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (hours checked 2026-11-12)
 
-### 5.9 Bodega Joan — ★ calçotada menu €34.90, Eixample
-**What:** Family bodega since 1942. In season now: **menú calçotada €34.90** — grilled calçots with romesco, then grilled meats, artichokes with allioli, crema catalana, drink included. Calçot season runs to April; January–March is the sweetest. Reserve — weekends fill — Google Maps 4.3★ (6,503).
+### 5.9 Bodega Joan — ★ booked — calçotada menu €34.90, Eixample
+**What:** Family bodega since 1942. In season now: **menú calçotada €34.90** — grilled calçots with romesco, then grilled meats, artichokes with allioli, crema catalana, drink included. Calçot season runs to April; January–March is the sweetest. Reserved — weekends fill fast — Google Maps 4.3★ (6,503).
 
 **Getting there:** 15 min walk from the hotel, or L4/L2/L5 (Hospital Clínic / Entença). Carrer del Rosselló 164.
 
@@ -836,8 +816,8 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [bodegajoan.com — calçots 2026-27](https://www.bodegajoan.com/en/calcots), Google Maps listing (checked 2026-11-12)
 
-### 5.10 Casa Pepi — ★ book ahead — calçotada €28 weekends, El Clot
-**What:** Kitschy, beloved tapas bar; calçotada **Sat & Sun 13:00–16:00 for €28** (weekdays 13:00–16:00 also). Book for the weekend — Google Maps 4.4★ (662).
+### 5.10 Casa Pepi — ★ booked — calçotada €28 weekends, El Clot
+**What:** Kitschy, beloved tapas bar; calçotada **Sat & Sun 13:00–16:00 for €28** (weekdays 13:00–16:00 also). Booked for the weekend — Google Maps 4.4★ (662).
 
 **Getting there:** L4/L5 from Jaume I to El Clot (~20 min). Carrer de la Sèquia Comtal 7.
 
@@ -907,7 +887,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Getting there:** any bodega; day trip §2.2 for the cellars (Sant Sadurní station pin).
 
-**Winter caveats:** winery visits by appointment — book ahead; 1 Jan closed.
+**Winter caveats:** winery visits by appointment — booked; 1 Jan closed.
 
 **Links:** [Google Maps](https://www.google.com/maps/place/Estacio+Sant+Sadurni+dAnoia/@41.4205156,1.7946846,17z) · [geo:](geo:41.4205156,1.7946846) — Sant Sadurní d'Anoia station (cava capital)
 
@@ -918,7 +898,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 ## 6. Transport & tickets (all measured from Hotel Gótico)
 
 - **Tickets 2026:** T-casual €13.00 (10 trips, zone 1, **per person** — not valid at the airport); T-familiar €11.50 (8 trips, can be shared by the group on the same trip — good for two of you); T-dia €12.00 (unlimited zone 1, 24 h); single €2.90. The **airport L9 Sud needs a separate €5.90 ticket** (T-casual not valid). Buy the T-mobilitat card at Jaume I station machines; plan trips in the TMB app (date-specific timetables).
-- **Metro hours:** Mon–Thu 5:00–24:00; Fri & eves of holidays until 2:00; **Sat all night**; **31 Dec all night into 1 Jan**; **1 Jan (holiday) 5:00–24:00**; **2 Jan all night into 3 Jan**; 3 Jan 5:00–24:00.
+- **Metro hours:** Mon–Thu 5:00–24:00; Fri & eves of holidays until 2:00; **Sat all night**; **31 Dec all night into 1 Jan**; **1 Jan (holiday) 5:00–24:00**; **Sat 2 Jan all night** (departure day).
 - **From the hotel:** Jaume I (L4) at the door; Liceu (L3) is a 3 min walk. Measured on Google Maps: Casa Batlló 10 min (L4) · Sagrada Família 16 min (L4) · Sant Pau 22 min (L4+bus) · Park Güell 29 min · Bunkers del Carmel 38 min · Plaça d'Espanya 19 min (L3) · Sants 18 min (L3) · Sant Antoni market 17 min (L4→L2) · MNAC ~30 min (L3). Walking: Boqueria 10 min · El Xampanyet 6 min · Cal Pep 7 min · Can Paixano 9 min · Bar Cañete 9 min · Moll de la Fusta 11 min · Palau de la Música 9 min · Plaça de Catalunya 12 min.
 - **Works notices in your window:** Plaça de Sants L1↔L5 transfer corridor closed until Mar 2027 (change at another station); Catalunya L1↔L3 passage reopens 31 Dec. L2 La Pau–Gorg works end 3 Dec (before you arrive).
 - **Day trips:** Montserrat FGC R5 from Plaça d'Espanya; Sitges/Penedès/Girona/Tarragona Rodalies from Sants or Passeig de Gràcia (R2 Sud, R4, AVE/R11, R16). On 1 Jan all run holiday timetables — check fgc.cat / Rodalies app that morning.
@@ -927,10 +907,10 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 ## What could not be verified (as of 2026-11-12)
 
-- **Exact Park Güell ticketed bands for 29 Dec–3 Jan** (winter shifts with sunset; Nov calendar shows 9:30–17:30 last entry). Check the date-specific calendar on parkguell.barcelona.
+- **Exact Park Güell ticketed bands for 29 Dec–2 Jan** (winter shifts with sunset; Nov calendar shows 9:30–17:30 last entry). Check the date-specific calendar on parkguell.barcelona.
 - **Casa Batlló winter hours** — official general visit ~9:00–18:30 vs Maps listing 8:30–22:30 (includes evening "Magic Nights" products); 1 Jan hours not published yet.
 - **1 Jan opening of:** Recinte Modernista de Sant Pau, Palau Güell, MACBA (confirmed closed), Cal Pep, Can Paixano, El Xampanyet, Quimet & Quimet, Bodega Joan, Casa Pepi, Bar Cañete, XERA, the vermut bars — most close or shorten hours on 1 Jan; confirm per venue on Maps/call before relying on them that day.
-- **Sunday 3 Jan service:** many small restaurants and all municipal markets closed; which tourist-zone restaurants stay open on 1 Jan/3 Jan changes year to year.
+- **1 Jan / Sat 2 Jan service:** which tourist-zone restaurants stay open on 1 Jan changes year to year; municipal markets are open Saturdays (Sat 2 Jan) but closed Sundays.
 - **TMB special Christmas/New Year 2026–27 service announcements** not yet published (as of 12 Nov) — check tmb.cat service notices in December; the hours above are the standing rules.
 - **Escolania choir exact concert times on 31 Dec/2 Jan** — Mon–Fri 13:00 during term is the standing pattern; confirm on escolania.cat.
 - **Freixenet/Codorníu winter tour slots and prices for late Dec** — book on their sites; capacity-capped.
@@ -939,29 +919,26 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 - **1 Jan (Fri, holiday) hours for the §3 breakfast cafés/bars** — weekly hours verified, but holiday exceptions are not published; forns/bakeries normally open on 1 Jan, cafés & bars often close. Confirm each venue the evening before (Maps often shows holiday hours only on the day).
 - **Forn Boix weekday hours** — Maps weekly hours not captured; forns typically open 7:00–8:00 weekdays. (Forns del Pi verified 7:00–21:00 daily.)
 - **Extra breakfast candidates whose Maps place pages would not load for hour extraction** (checked via search snippets only, not in §3): Haití Bar (Jaume I 3, opens ~7:30), Charcha (Avinyó 24, opens ~8:00), Caravelle (Pintor Fortuny 31, Melbourne-style brunch), Colibri Brunch (Barceloneta), Bloome by Sasha (Via Laietana 45, queues), Satan's Coffee Corner (Arc de Sant Ramon del Call 11, listings conflict 8:00 vs 9:00, closed Tue). Bo de B (Fusteria 14) opens ~12:00 — not a breakfast option, excluded.
-- **§4.7 El Bandoler, §4.8 Gourmet Sensi, §4.10 Petit Tapas weekly hours** — Maps place pages did not expose the weekly hours table; opening ~17:00–18:00 per the listing snippet. Confirm before relying, esp. Sun 3 Jan / 1 Jan.
+- **§4.7 El Bandoler, §4.8 Gourmet Sensi, §4.10 Petit Tapas weekly hours** — Maps place pages did not expose the weekly hours table; opening ~17:00–18:00 per the listing snippet. Confirm before relying, esp. 1 Jan.
 - **Ratings/reviews** are Google Maps values captured 2026-11-12. Coordinates are Google Maps pins for the entrance/POI, captured 2026-11-12.
 
 ---
 
-## Itinerary — six days, one base
+## Itinerary — five days, one base (departing Sat 2 Jan)
 
-Each day: one main destination; return to the hotel base in the evening. Times are from Hotel Gótico, Carrer de Jaume I 14.
+Each day: one main destination; return to the hotel base in the evening. Times and travel durations are from Hotel Gótico, Carrer de Jaume I 14. All ★ bookings are confirmed: **Sagrada Família Thu 31 Dec 12:15** (§1.9) · **Casa Batlló Thu 31 Dec 16:00** (§1.6) · **Park Güell Fri 1 Jan 13:30** (§1.11).
 
-### I1. Tue 29 Dec — arrive & settle: Gothic Quarter, El Born, Port Vell (§1.1, §1.2, §1.4, §5.4) [View on map](map.html?i=I1)
-Check in from 15:00. Late afternoon walk: Gothic Quarter + Santa Maria del Mar (early-evening quiet), then down Via Laietana to **Nadal al Port Vell** (§1.4) for the lights. Dinner: **El Xampanyet** (§5.4, 6 min walk — cava & tapas, open 19:00–23:00). Overnight at base.
+### I1. Tue 29 Dec — arrive & settle: Gothic Quarter, El Born, Nadal al Port Vell (§1.1, §1.2, §1.4, §5.4) [View on map](map.html?i=I1)
+Check in from 15:00. Late afternoon walk: Gothic Quarter + Santa Maria del Mar (§1.1, §1.2 — 5–6 min walk, quiet after 17:00), then down Via Laietana (11 min walk) to **Nadal al Port Vell** (§1.4, open until 23:00) for the evening lights. Dinner: **El Xampanyet** (§5.4, 6 min walk — cava & tapas, Thu 19:00–23:00). Overnight at base.
 
-### I2. Wed 30 Dec — Gaudí day: Sagrada Família 9:00 + Sant Pau + Park Güell (§1.9, §1.10, §1.11) [View on map](map.html?i=I2)
-Leave 8:35, L4 from Jaume I (16 min) for the **first Sagrada Família slot 9:00** (§1.9, booked). Walk 10 min to **Sant Pau** (§1.10, 22 min by transit). Afternoon: **Park Güell** — book a late-morning/early-afternoon slot to catch winter light (§1.11). Sunset 17:20 — Bunkers del Carmel (§1.17, 38 min) if energy allows. Dinner: **Bar Cañete** (§5.1, 9 min walk, booked). Overnight at base.
+### I2. Wed 30 Dec — Montserrat day trip, weekday-quiet (§2.4) [View on map](map.html?i=I2)
+L3 from Liceu (3 min walk) to Plaça d'Espanya — 19 min total; FGC R5 + Cremallera or Aeri, **~1 h 25 min each way**: leave by 9:00, up at the monastery ~10:30. Escolania choir 13:00 (Mon–Fri); monastery + museum entry ★ booked (€18). Back in Barcelona by ~16:30. Late afternoon: free Passeig de Gràcia façade walk (§1.7, L4 10 min). Dinner: **Bar Cañete** (§5.1, 9 min walk, ★ booked) or **Bar Calders** (§4.2, opens 17:00 Wed). Lighter alternative if you prefer a short leg: **Girona** (§2.1, AVE ~40 min from Sants, 18 min from the hotel). Overnight at base.
 
-### I3. Thu 31 Dec — Montserrat day trip + quiet local NYE (§2.4) [View on map](map.html?i=I3)
-L3 from Liceu to Plaça d'Espanya (19 min), FGC R5 + Cremallera/Aeri (~1 h 25 min total) — **weekday = quietest day**. Escolania choir 13:00. Monastery entry €18 online. Back in Barcelona by ~17:00; race street closures ~16:00–20:00 near Poblenou/Port Vell — stay in Ciutat Vella. Early dinner at a booked spot or hotel; **do not go to Plaça Espanya/Magic Fountain** (100k crowd) — celebrate NYE on your own street: 12 grapes + cava at midnight (§5.16). Metro runs all night. Overnight at base.
+### I3. Thu 31 Dec — booked Gaudí day + quiet local NYE (§1.10, §1.9, §1.6) [View on map](map.html?i=I3)
+Late morning: **Sant Pau** (§1.10, 22 min by L4+bus, ★ booked, 9:30–17:00), then a 10 min walk to the basilica. **Sagrada Família 12:15** (§1.9, ★ booked) — ~1.5 h visit; lunch nearby. **Casa Batlló 16:00** (§1.6, ★ booked; L4 direct, 10 min from the hotel) — ~1 h, done by ~17:15. Cursa dels Nassos street closures ~16:00–20:00 near Poblenou/Port Vell — stay in Ciutat Vella/Eixample. NYE: your booked fixed-price dinner, or eat early — **do not go to Plaça Espanya/Magic Fountain** (100k crowd, 19 min on L3); 12 grapes + cava at midnight on your own street (§5.16). Metro runs all night. Overnight at base.
 
-### I4. Fri 1 Jan — holiday-quiet day: Sagrada Família or Park Güell + beach & Nadal al Port (§1.9, §1.11, §1.4, §1.5) [View on map](map.html?i=I4)
-Shops/most restaurants/museums closed — eat at the hotel or a confirmed-open tourist-zone spot (stocked up 31 Dec). Dinner on 1 Jan: **ELDISET** (§4.15) or **el SET** (§4.12) show daily evening hours — confirm the 1 Jan exception on Maps first. Morning: **Sagrada Família 9:00–14:00** (§1.9) or **Park Güell** (§1.11, open normally). Afternoon: Barceloneta beach walk (§1.5) + **Nadal al Port Vell** (§1.4, open 11:00–23:00). Optional: Palau de la Música **New Year concert 21:00** (§1.3, booked). Metro 5:00–24:00. Overnight at base.
+### I4. Fri 1 Jan — holiday-quiet day: Park Güell 13:30 + beach & port lights (§1.11, §1.5, §1.4) [View on map](map.html?i=I4)
+Shops, most restaurants and museums closed (Sagrada Família 9:00–14:00 only; Boqueria closed) — breakfast at a forn (**Forns del Pi** §3.1, open 7:00–21:00) and stock up on 31 Dec. **Park Güell 13:30** (§1.11, ★ booked; 29 min from the hotel — leave ~12:55) — ~1.5 h in the Monumental Zone. Afternoon: Barceloneta beach walk (§1.5, 9 min walk) + **Nadal al Port Vell** (§1.4, open 11:00–23:00, 11 min walk). Optional: Palau de la Música **New Year concert 21:00** (§1.3) if you booked it. Dinner on 1 Jan: **ELDISET** (§4.15, 19:00–01:30 daily) or **el SET** (§4.12, 19:00–23:45) — confirm the 1 Jan exception on Maps first. Metro 5:00–24:00. Overnight at base.
 
-### I5. Sat 2 Jan — day trip: Sitges or Penedès cava (§2.3 or §2.2, plus §1.18 optionally) [View on map](map.html?i=I5)
-Option A: L4 to Passeig de Gràcia + R2 Sud to **Sitges** (~50 min train) — old town, Cau Ferrat museum (open Sat 10:00–19:00), beach walk (§2.3). Option B: Sants + R4 to **Sant Sadurní** for a booked cava cellar visit (Freixenet at the station / Codorníu), lunch in town, VINSEUM in Vilafranca if time (§2.2). Metro all night tonight. Dinner back in Barcelona: **XERA** (§4.1, opens 18:30) or **Bar Calders** (§4.2, opens 11:00 Sat). Overnight at base.
-
-### I6. Sun 3 Jan — slow morning, last sights, departure (§1.12, §1.13, §5.7) [View on map](map.html?i=I6)
-Check out by 12:00 — ask the hotel to store luggage. Early Gothic Quarter/El Born (emptiest Sunday morning), **MACBA** (§1.12, Sun 10:00–15:00) or **Museu Picasso** (§1.13, Sun 10:00–19:00; first-Sunday free needs the 29 Dec 10:00 reservation and is crowded — just buy a ticket). Sunday vermut at **Bodega del Vermut** Gràcia (§5.7, 12:00–16:00). Markets closed — Sunday breakfast at **Forns del Pi** (§3.1, open Sun 7:00–21:00) or **La Pallaresa** (§3.15, open Sun 9:00–13:00). Sunday dinner: **ELDISET** (§4.15, from 19:00) or **Viana** (§4.6, Sun 17:30–23:30). Afternoon: departure (L9 airport ticket €5.90, or L3 to Paral·lel + Aerobus).
+### I5. Sat 2 Jan — departure day: market morning, then the airport (§5.12, §1.20, §1.7) [View on map](map.html?i=I5)
+Check out by 12:00 — luggage stored at the hotel. Morning (markets are open Saturdays): **La Boqueria** (§5.12, 10 min walk, 8:00–20:30 — go before 9:30) and the **Fira de Reis** (§1.20, Gran Via, open until 6 Jan); add the Passeig de Gràcia façades (§1.7, L4 10 min) if you missed them. Lunch near the hotel: **Bar Cañete** (§5.1, Sat 12:30–15:30) or **Cal Pep** (§5.2, Sat from 13:15 — barra is walk-in). Then depart: L3 from Liceu to Paral·lel, **L9 Sud to the airport** (separate €5.90 ticket — T-casual not valid; ~35 min to the terminal), or **Aerobus** from Plaça de Catalunya (12 min walk). Tibidabo (§1.18) is open 11:00–18:00 today, but 38 min each way with luggage — only if your flight is late.
