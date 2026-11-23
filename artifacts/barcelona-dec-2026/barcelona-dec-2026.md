@@ -319,9 +319,20 @@ All trains leave from **Barcelona-Sants** (18 min from the hotel: L3 from Liceu,
 
 ## 3. Breakfast near the base (opens by 09:00)
 
-All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours verified on Google Maps **2026-11-12**. **Sundays:** several places close — not an issue, you leave on Sat 2 Jan. **Fri 1 Jan (public holiday):** forns/bakeries normally open, but cafés and bars often close — confirm the evening before. Ratings/reviews are Google Maps values captured 2026-11-12. No chains — all local forns, bars and roasters.
+Suggested by Gonzalo first (§3.1), then the rest sorted by walk time — all within a 15-min walk of Hotel Gótico. Weekly hours verified on Google Maps **2026-11-12**. **Sundays:** several places close — not an issue, you leave on Sat 2 Jan. **Fri 1 Jan (public holiday):** forns/bakeries normally open, but cafés and bars often close — confirm the evening before. Ratings/reviews are Google Maps values captured 2026-11-12. No chains — all local forns, bars and roasters.
 
-### 3.1 Forns del Pi — forn on the next street (opens 7:00 daily)
+### 3.1 Bar Mono — Plaça del Pi bar-restaurant, 4 min walk (opens 8:30 daily) — suggested by Gonzalo
+**What:** Neighbourhood bar-restaurant on Plaça del Pi — coffee and breakfast from 8:30, tapas and dinner in the evening. 4.1★ (2,969). **Local tip (Gonzalo):** *"There is a restaurant that my brother goes a lot with his wife in that area: Bar Mono. In plaça del pi. That area is quite nice to walk also."*
+
+**Getting there:** 4 min walk from the hotel (Carrer de Jaume I → Plaça del Pi).
+
+**Winter caveats:** verified weekly hours Mon–Thu & Sun 8:30–24:00, Fri–Sat 8:30–01:00 (Google Maps 2026-11-23); 1 Jan not published — confirm on the day.
+
+**Links:** [Google Maps](https://www.google.com/maps/place/Bar+Mono+Barcelona/data=!4m7!3m6!1s0x12a4a3bdf06f87c5:0xac7c29976e275cb1!8m2!3d41.3824773!4d2.1743159) · [geo:](geo:41.3824773,2.1743159) — Plaça del Pi entrance
+
+**Source:** Google Maps listing (checked 2026-11-23), [barmono.es](https://barmono.es/es/)
+
+### 3.2 Forns del Pi — forn on the next street (opens 7:00 daily)
 **What:** Old-school neighbourhood forn on Carrer de Ferran: pa amb tomàquet, coca, pastries, churros, coffee. 4.2★ (1,962). Opens **7:00 every day incl. Sunday**, 7:00–21:00.
 
 **Getting there:** 1 min walk from the hotel (Carrer de Ferran 12).
@@ -332,7 +343,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (weekly hours checked 2026-11-12), [fornsdelpi.com](https://fornsdelpi.com/es/)
 
-### 3.2 Forneria Tiana (Cal Tiana) — tiny forn on Escudellers (opens 7:30)
+### 3.3 Forneria Tiana (Cal Tiana) — tiny forn on Escudellers (opens 7:30)
 **What:** Family forn on Carrer dels Escudellers: fresh bread, coca, pastries, coffee — locals' spot, few tourists. 4.5★ (164). Mon–Fri 7:30–20:30; Sat–Sun from 8:30.
 
 **Getting there:** 2 min walk (Carrer dels Escudellers 59).
@@ -343,7 +354,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [caltiana.cat](https://www.caltiana.cat/)
 
-### 3.3 ARTiSA — historic pâtisserie at Plaça Reial (opens 9:00 daily)
+### 3.4 ARTiSA — historic pâtisserie at Plaça Reial (opens 9:00 daily)
 **What:** Espresso bar & pâtisserie on Plaça Reial: coffee, toasties, cakes in a classic marble interior. 4.4★ (3,565). Opens **9:00 every day incl. Sunday** (Sun 9:00–20:30, Mon–Sat 9:00–20:30/21:30).
 
 **Getting there:** 2 min walk (Plaça Reial 2, Carrer de Colom side).
@@ -354,7 +365,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [artisa.es](http://www.artisa.es/)
 
-### 3.4 A Little Bud — small brunch café on Avinyó (opens 9:00; closed Wed & Thu)
+### 3.5 A Little Bud — small brunch café on Avinyó (opens 9:00; closed Wed & Thu)
 **What:** Tiny brunch spot: pancakes, eggs, specialty coffee. 4.9★ (618). Opens 9:00 — **closed Wed 30 Dec and Thu 31 Dec**.
 
 **Getting there:** 2 min walk (Carrer d'Avinyó 26).
@@ -365,7 +376,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.5 Noor Brunch — specialty coffee & matcha (opens 7:30 daily)
+### 3.6 Noor Brunch — specialty coffee & matcha (opens 7:30 daily)
 **What:** Local roaster's brunch café (Noor Coffee, Barcelona): espresso, matcha, brunch plates, cakes. 4.6★ (848). Opens **7:30 every day incl. Sunday** (Mon–Thu until 17:00, Fri–Sun until 20:00).
 
 **Getting there:** 3 min walk (Carrer del Cardenal Casañas 4).
@@ -376,7 +387,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [noorcoffee.co](https://www.noorcoffee.co/)
 
-### 3.6 Forn Boix — Eixample forn, old-town branch
+### 3.7 Forn Boix — Eixample forn, old-town branch
 **What:** Traditional bakery-café (est. 1945) on Carrer de Muntaner: toasties, pa amb tomàquet, cakes — Google Maps 4.0★ (201).
 
 **Getting there:** 4 min walk from the hotel — the old-town branch (pin); the main bakery is at Carrer de Muntaner 179 (8 min walk).
@@ -387,7 +398,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [fornboix.com](https://www.fornboix.com/)
 
-### 3.7 Conesa Entrepans — bocadillos since 1951 (opens 8:30; closed Sun)
+### 3.8 Conesa Entrepans — bocadillos since 1951 (opens 8:30; closed Sun)
 **What:** Historic entrepà shop on La Llibreteria: legendary bocadillos to go or at the counter, coffee. 4.5★ (3,147). Opens 8:30 Mon–Sat; **closed Sundays**.
 
 **Getting there:** 4 min walk (Carrer de la Llibreteria 1).
@@ -398,7 +409,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [conesaentrepans.com](http://www.conesaentrepans.com/)
 
-### 3.8 Sant Jordi Forn de pa — bakery on La Llibreteria (opens 8:00)
+### 3.9 Sant Jordi Forn de pa — bakery on La Llibreteria (opens 8:00)
 **What:** Neighbourhood bakery: bread, pa amb tomàquet, pastries, coffee. 4.6★ (249). Opens 8:00 Mon–Sat, 8:30 Sun.
 
 **Getting there:** 4 min walk (Carrer de la Llibreteria 8).
@@ -409,7 +420,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.9 Cafè del Suizo — classic bar by the hotel (opens 8:00 daily)
+### 3.10 Cafè del Suizo — classic bar by the hotel (opens 8:00 daily)
 **What:** Old-school cafeteria on Carrer de Jaume I — run by the same Gargallo group as your hotel: café con leche, tostadas, bocadillos. 4.9★ (99). Opens **8:00 every day incl. Sunday**, 8:00–20:00.
 
 **Getting there:** 5 min walk (Carrer de Jaume I 19).
@@ -420,7 +431,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [gargallo-hotels.com — Cafè del Suizo](https://www.gargallo-hotels.com/hotel-suizo/cafe-del-suizo)
 
-### 3.10 Buenas Migas — migas & coffee, small local chain (opens 8:00)
+### 3.11 Buenas Migas — migas & coffee, small local chain (opens 8:00)
 **What:** Small Barcelona chain (3–4 spots) famous for migas, coffee and toasties — the Gòtic branch is locals-only. 4.5★ (1,238). Opens 8:00 Mon–Fri; 9:00 Sat & Sun.
 
 **Getting there:** 5 min walk (Baixada de Santa Clara 2).
@@ -431,7 +442,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [buenasmigas.com](http://www.buenasmigas.com/)
 
-### 3.11 Farggi — old café by Plaça del Rei (opens 8:00 daily)
+### 3.12 Farggi — old café by Plaça del Rei (opens 8:00 daily)
 **What:** Historic café-pâtisserie on Baixada de la Llibreteria: coffee, churros, cakes, light breakfasts in an old-world room. 4.4★ (2,807). Opens **8:00 every day incl. Sunday**, 8:00–20:30.
 
 **Getting there:** 5 min walk (Baixada de la Llibreteria 5, Plaça del Rei corner).
@@ -442,7 +453,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.12 Tostaderos Bon Mercat Llibreteria — local roastery café (opens 8:00; closed Sun)
+### 3.13 Tostaderos Bon Mercat Llibreteria — local roastery café (opens 8:00; closed Sun)
 **What:** Barcelona coffee roaster's café: freshly roasted beans, espresso, toasties. 4.7★ (1,088). Opens 8:00 Mon–Sat; **closed Sundays**.
 
 **Getting there:** 5 min walk (Baixada de la Llibreteria 1).
@@ -453,7 +464,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.13 Kafeto bakery & coffee — La Rambla bakery (opens 7:00 daily)
+### 3.14 Kafeto bakery & coffee — La Rambla bakery (opens 7:00 daily)
 **What:** Bakery & coffee on La Rambla: fresh bread, pastries, pa amb tomàquet, espresso. 4.7★ (1,748). Opens **7:00 every day incl. Sunday**, 7:00–24:00.
 
 **Getting there:** 5 min walk (La Rambla 116).
@@ -464,7 +475,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.14 Soul Cafe — neighbourhood café on Carrer Ample (opens 8:00 daily)
+### 3.15 Soul Cafe — neighbourhood café on Carrer Ample (opens 8:00 daily)
 **What:** Cosy café on Carrer Ample: coffee, toasties, cakes, breakfast plates. 4.6★ (332). Opens **8:00 every day** (Mon–Sat 8:00–19:00, Sun 8:00–15:30).
 
 **Getting there:** 5 min walk (Carrer Ample 31).
@@ -475,7 +486,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.15 La Pallaresa — xurros & porras (opens 9:00 daily)
+### 3.16 La Pallaresa — xurros & porras (opens 9:00 daily)
 **What:** Family xurreria since 1890: churros, porras, hot chocolate to go. 4.2★ (6,322). Opens 9:00 daily **including Sunday** (9:00–13:00, 16:00–21:00 Sun).
 
 **Getting there:** 5 min walk from the hotel (Carrer de Petritxol 11).
@@ -486,7 +497,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (hours checked 2026-11-12), [lapallaresa.com](https://www.lapallaresa.com/)
 
-### 3.16 Granja M. Viader — hot chocolate since 1870 (opens 9:00; closed Sun)
+### 3.17 Granja M. Viader — hot chocolate since 1870 (opens 9:00; closed Sun)
 **What:** Historic granja on La Rambla: thick drinking chocolate, churros, suizo. 4.4★ (4,476). Opens 9:00 Mon–Sat (9:00–13:30, 17:00–20:30). Classic, standing room, very local ritual.
 
 **Getting there:** 6 min walk from the hotel (La Rambla 32 / Carrer d'en Xuclà 4).
@@ -497,7 +508,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (hours checked 2026-11-12), [granjamviader.com](https://www.granjamviader.com/)
 
-### 3.17 LA CANDELARIA — tiny espresso bar in the Raval (opens 8:00)
+### 3.18 LA CANDELARIA — tiny espresso bar in the Raval (opens 8:00)
 **What:** Hole-in-the-wall espresso bar on Carrer d'En Robador: espresso, cortado, toasties — standing room, very local. 5.0★ (113). Opens 8:00 Mon–Fri; 9:00 Sat & Sun, until 16:00.
 
 **Getting there:** 6 min walk (Carrer d'En Robador 1).
@@ -508,7 +519,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 3.18 Cafetería Cafés Caracas — old-school cafeteria in Born (opens 8:00; closed Sun)
+### 3.19 Cafetería Cafés Caracas — old-school cafeteria in Born (opens 8:00; closed Sun)
 **What:** Classic cafeteria in Sant Pere Més Baix: café con leche, bikini (ham & cheese toastie), churros. 5.0★ (1,312). Opens 8:00 Mon–Fri, 9:00 Sat; **closed Sundays**; closes 15:00 (14:00 Sat) — morning only.
 
 **Getting there:** 10 min walk (Carrer de Sant Pere Més Baix 44).
@@ -519,7 +530,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [cafescaracas.com](https://www.cafescaracas.com/)
 
-### 3.19 Pastisseria Hofmann — pâtisserie institution, Born (opens 9:00 daily)
+### 3.20 Pastisseria Hofmann — pâtisserie institution, Born (opens 9:00 daily)
 **What:** Hofmann's Born pâtisserie: coffee with a cake or croissant — their pastries are the draw. 4.4★ (4,270). Opens **9:00 every day incl. Sunday** (Mon–Sat 9:00–20:00, Sun 9:00–19:00).
 
 **Getting there:** 10 min walk (Carrer dels Flassaders 44).
@@ -530,7 +541,7 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 
 **Source:** Google Maps listing (checked 2026-11-12), [hofmannpasteleria.com](http://hofmannpasteleria.com/)
 
-### 3.20 Forn Baluard Barceloneta — artisan wood-oven bakery (opens 7:30 daily)
+### 3.21 Forn Baluard Barceloneta — artisan wood-oven bakery (opens 7:30 daily)
 **What:** Award-winning artisan bakery (wood-fired oven) in Barceloneta — the beach-day breakfast: bread, coca, pastries, coffee. 4.6★ (1,638). Opens **7:30 every day** (Mon–Sat 7:30–20:30, Sun 7:30–15:00).
 
 **Getting there:** 14 min walk along the port (Carrer del Baluard 38).
@@ -542,17 +553,6 @@ All within a 15-min walk of Hotel Gótico, sorted by walk time. Weekly hours ver
 **Source:** Google Maps listing (checked 2026-11-12), [baluardbarceloneta.com — obradores & hours](https://www.baluardbarceloneta.com/es/obradores/)
 
 ---
-
-### 3.21 Bar Mono — Plaça del Pi bar-restaurant, 4 min walk (opens 8:30 daily)
-**What:** Neighbourhood bar-restaurant on Plaça del Pi — coffee and breakfast from 8:30, tapas and dinner in the evening. 4.1★ (2,969). **Local tip (Gonzalo):** *"There is a restaurant that my brother goes a lot with his wife in that area: Bar Mono. In plaça del pi. That area is quite nice to walk also."*
-
-**Getting there:** 4 min walk from the hotel (Carrer de Jaume I → Plaça del Pi).
-
-**Winter caveats:** verified weekly hours Mon–Thu & Sun 8:30–24:00, Fri–Sat 8:30–01:00 (Google Maps 2026-11-23); 1 Jan not published — confirm on the day.
-
-**Links:** [Google Maps](https://www.google.com/maps/place/Bar+Mono+Barcelona/data=!4m7!3m6!1s0x12a4a3bdf06f87c5:0xac7c29976e275cb1!8m2!3d41.3824773!4d2.1743159) · [geo:](geo:41.3824773,2.1743159) — Plaça del Pi entrance
-
-**Source:** Google Maps listing (checked 2026-11-23), [barmono.es](https://barmono.es/es/)
 
 ## 4. Dinner (opens 17:00 or later)
 
@@ -727,8 +727,32 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 **Source:** Google Maps listing (weekly hours checked 2026-11-12), [eldiset.com](https://eldiset.com/)
 
 ## 5. Other food & drink — vermut, tapas, markets, calçotada, cava (local, no chains)
+Suggested by Gonzalo first (§5.1–§5.6), then the rest of the local food & drink.
 
-### 5.1 Bar Cañete — ★ booked — classic Raval tapas restaurant
+
+### 5.1 Carmina — Italian-Mediterranean local tip, 2 min walk (Carrer de Ferran) — suggested by Gonzalo
+**What:** Italian-Mediterranean restaurant round the corner from the hotel. 4.6★ (7,705). **Local tip (Gonzalo):** *"My brother is telling me few more restaurants around your area: Carmina, Bar Lobo, Cañete, Bar Muy Buenas — Carmina is Italian Mediterranean, the other three are more Spanish traditional."*
+
+**Getting there:** 2 min walk (Carrer de Jaume I → Carrer de Ferran).
+
+**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm before going, esp. Fri 1 Jan.
+
+**Links:** [Google Maps](https://www.google.com/maps/place/Carmina/data=!4m7!3m6!1s0x12a4a319c33535d7:0xcbb5fb7f60a644e4!8m2!3d41.3837792!4d2.1800544) · [geo:](geo:41.3837792,2.1800544) — Carrer de Ferran entrance
+
+**Source:** Google Maps listing (checked 2026-11-23), [carminarestaurante.com](https://carminarestaurante.com/)
+
+### 5.2 Bar Lobo — Tragaluz tapas bar, 8 min walk (Carrer dels Escudellers) — suggested by Gonzalo
+**What:** Tapas bar of the Tragaluz group — raciones, bravas, vermouth, lively but local. 4.6★ (13,428). **Local tip (Gonzalo):** *"…Bar Lobo… around your area… more Spanish traditional."* (same message as §5.1)
+
+**Getting there:** 8 min walk (towards Carrer dels Escudellers / El Born edge).
+
+**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm, esp. Fri 1 Jan; reservations via the Tragaluz site.
+
+**Links:** [Google Maps](https://www.google.com/maps/place/Bar+Lobo/data=!4m7!3m6!1s0x12a4a2f68991e5a5:0xa248a773ea1adb86!8m2!3d41.383362!4d2.1706141) · [geo:](geo:41.383362,2.1706141) — Carrer dels Escudellers entrance
+
+**Source:** Google Maps listing (checked 2026-11-23), [grupotragaluz.com — Bar Lobo](https://grupotragaluz.com/reserva/bar-lobo/)
+
+### 5.3 Bar Cañete — ★ booked — classic Raval tapas restaurant — suggested by Gonzalo
 **What:** Institution since 1980: seafood paella, duck cannelloni, clams a la plancha, excellent wine list. Counter (barra) is walk-in; tables are reserved for your dates — Google Maps 4.6★ (8,521). **Local tip (Gonzalo):** his brother lists "Cañete" among the Spanish-traditional restaurants *"around your area"*.
 
 **Getting there:** 9 min walk from the hotel (Carrer de la Unió 17).
@@ -739,7 +763,40 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [barcanete.com — bookings](https://barcanete.com/en/bookings/), Google Maps listing (checked 2026-11-12)
 
-### 5.2 Cal Pep — ★ tables booked — Barceloneta seafood institution
+### 5.4 Bar Muy Buenas — Spanish-traditional bar, 11 min walk (near Carrer del Carme) — suggested by Gonzalo
+**What:** Traditional neighbourhood bar — tapas, montaditos, house wine. 4.5★ (2,870). **Local tip (Gonzalo):** *"…Bar Muy Buenas… around your area… more Spanish traditional."* (same message as §5.1)
+
+**Getting there:** 11 min walk (Via Laietana → Carrer del Carme area).
+
+**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm, esp. Fri 1 Jan.
+
+**Links:** [Google Maps](https://www.google.com/maps/place/Bar+Muy+Buenas/data=!4m7!3m6!1s0x12a4a2f5898d8413:0x5057df6ea56e19f4!8m2!3d41.3809402!4d2.1680507) · [geo:](geo:41.3809402,2.1680507) — Carrer del Carme entrance
+
+**Source:** Google Maps listing (checked 2026-11-23), [muybuenas.cat](http://www.muybuenas.cat/)
+
+### 5.5 Vinitus — vermutería & tapas near Rambla de Catalunya, 17 min walk — suggested by Gonzalo
+**What:** Vermutería/tapas bar in the Rambla de Catalunya area — vermouth, anchovies, montaditos, and (per the local tip) an unmissable torrija. 4.6★ (1,285). **Local tip (Gonzalo):** *"And Vinitus (also very yummy)… If you go here, get the Torrija for desert, Julia's favorite, 100% worth it."* — and *"Both get lines cause the area is very touristic but Barcelona people go a lot also there. My mum always goes with her friends — and my dad too."* Also: *"They are in the area of Rambla Catalunya. You can walk from your place, it's a nice walk. Go kind of early cause the lines are big."*
+
+**Getting there:** ~17 min walk down Passeig de Gràcia / Rambla de Catalunya (Carrer de la Diputació corner).
+
+**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm; expect queues, go early. 1 Jan not published.
+
+**Links:** [Google Maps](https://www.google.com/maps/place/Vinitus/data=!4m7!3m6!1s0x4067b942af0275dd:0x94800aa00ab5aa6c!8m2!3d41.3900261!4d2.1640484) · [geo:](geo:41.3900261,2.1640484) — entrance by Pg. de Gràcia / Diputació
+
+**Source:** Google Maps listing (checked 2026-11-23)
+
+### 5.6 Cerveceria Catalana — iconic tapas house, 22 min walk (Carrer de Mallorca 236) — suggested by Gonzalo
+**What:** Barcelona's most famous tapas bar (La FlauTa group) — bravas, croquetas, raziones, sherry; bar seating, bustling. 4.5★ (25,351). **Local tip (Gonzalo):** *"If you want tapas, etc, go to Cerveceria Catalana (reaaaaally good tapas)"* — and *"Go kind of early cause the lines are big"*; *"They are in the area of Rambla Catalunya. You can walk from your place, it's a nice walk."*
+
+**Getting there:** ~22 min walk down Pg. de Gràcia (Carrer de Mallorca 236), or L4 to Pg. de Gràcia + 6 min walk.
+
+**Winter caveats:** typically open daily from ~12:00 to ~01:00, but weekly hours not re-captured on Maps 2026-11-23 — confirm; go early (big lines). 1 Jan not published.
+
+**Links:** [Google Maps](https://www.google.com/maps/place/Cerveceria+Catalana/data=!4m7!3m6!1s0x12a4a2923edb80d7:0x6d15b4af8fdb373a!8m2!3d41.3923251!4d2.1608515) · [geo:](geo:41.3923251,2.1608515) — Carrer de Mallorca 236 entrance
+
+**Source:** Google Maps listing (checked 2026-11-23), [laflautagroup.com](https://www.laflautagroup.com/)
+
+### 5.7 Cal Pep — ★ tables booked — Barceloneta seafood institution
 **What:** Market-fresh seafood and rice at the counter or tables; famous for bomba rice and clams. Lunch 13:00–15:45, dinner 19:30–23:30 (Sat from 13:15). Arrive at opening for the counter — Google Maps 4.4★ (3,248).
 
 **Getting there:** 7 min walk from the hotel (Plaça de les Olles 8).
@@ -750,7 +807,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [calpep.com](https://www.calpep.com/), Google Maps listing (hours checked 2026-11-12)
 
-### 5.3 Can Paixano "La Xampanyeria" — cava & bocadillos, Barceloneta
+### 5.8 Can Paixano "La Xampanyeria" — cava & bocadillos, Barceloneta
 **What:** Standing-room bar from 1969: cheap house cava (xampany) by the glass and bocadillos (squid, butifarra). Loud, local, unforgettable — Google Maps 4.6★ (10,133).
 
 **Getting there:** 9 min walk from the hotel (Carrer de la Reina Cristina 7).
@@ -761,7 +818,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [canpaixano.com](https://www.canpaixano.com/), Google Maps listing (hours checked 2026-11-12)
 
-### 5.4 El Xampanyet — cava bar, El Born
+### 5.9 El Xampanyet — cava bar, El Born
 **What:** 1929 tavern on Carrer de Montcada: cava, anchovies, esqueixada, bomba, fried fish. Atmospheric and historic — Google Maps 4.7★ (6,660).
 
 **Getting there:** 6 min walk from the hotel (Carrer de Montcada 22).
@@ -772,7 +829,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [elxampanyet.com](https://www.elxampanyet.com/), Google Maps listing (hours checked 2026-11-12)
 
-### 5.5 Quimet & Quimet — montaditos & conservas, Poble-sec
+### 5.10 Quimet & Quimet — montaditos & conservas, Poble-sec
 **What:** Standing-room bodega with 500+ wines: montaditos (anchovy, salmon, cheese), tinned conservas, vermouth. Legendary — Google Maps 4.6★ (5,675).
 
 **Getting there:** 23 min walk (1.7 km) or L3 from Liceu to Poble-sec (18 min). Carrer del Poeta Cabanyes 25.
@@ -783,7 +840,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [quimetiquimet.com](https://quimetiquimet.com/en/), Google Maps listing (hours checked 2026-11-12)
 
-### 5.6 Carrer de Blai — pintxos street, Poble-sec
+### 5.11 Carrer de Blai — pintxos street, Poble-sec
 **What:** Pedestrian street lined with pintxos bars: take a plate, pick from the bar, pay by the toothpick (€1–3 each). No reservations, very local prices — street 4.3★ (272) on Maps; top bars: La Tasqueta de Blai 4.5★ (11,252), Blai 9 4.4★ (4,959).
 
 **Getting there:** 18 min on L3 from Liceu (Paral·lel), or 23 min walk (1.7 km).
@@ -794,7 +851,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps (checked 2026-11-12), [artvisitguide.com — best tapas bars 2026](https://www.artvisitguide.com/best-tapas-barcelona/)
 
-### 5.7 Bodega del Vermut — vermut de grifo, Gràcia
+### 5.12 Bodega del Vermut — vermut de grifo, Gràcia
 **What:** Neighbourhood bodega with house vermut on tap, olives and tinned fish. Gràcia's vermut culture. Opens 12:00 — Google Maps 4.3★ (1,036).
 
 **Getting there:** 12 min walk from the hotel (Carrer de Bellesvistes 16, near Lesseps).
@@ -805,7 +862,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (hours checked 2026-11-12)
 
-### 5.8 Xocolateria Petritxol — churros & thick chocolate
+### 5.13 Xocolateria Petritxol — churros & thick chocolate
 **What:** Since 1795: churros with thick hot chocolate (xocoa), in a wood-panelled café off Carrer de Petritxol. Opens 9:30 daily — Google Maps 4.2★ (1,582).
 
 **Getting there:** 3 min walk from the hotel (Carrer de Petritxol 11).
@@ -816,7 +873,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (hours checked 2026-11-12)
 
-### 5.9 Bodega Joan — ★ booked — calçotada menu €34.90, Eixample
+### 5.14 Bodega Joan — ★ booked — calçotada menu €34.90, Eixample
 **What:** Family bodega since 1942. In season now: **menú calçotada €34.90** — grilled calçots with romesco, then grilled meats, artichokes with allioli, crema catalana, drink included. Calçot season runs to April; January–March is the sweetest. Reserved — weekends fill fast — Google Maps 4.3★ (6,503).
 
 **Getting there:** 15 min walk from the hotel, or L4/L2/L5 (Hospital Clínic / Entença). Carrer del Rosselló 164.
@@ -827,7 +884,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [bodegajoan.com — calçots 2026-27](https://www.bodegajoan.com/en/calcots), Google Maps listing (checked 2026-11-12)
 
-### 5.10 Casa Pepi — ★ booked — calçotada €28 weekends, El Clot
+### 5.15 Casa Pepi — ★ booked — calçotada €28 weekends, El Clot
 **What:** Kitschy, beloved tapas bar; calçotada **Sat & Sun 13:00–16:00 for €28** (weekdays 13:00–16:00 also). Booked for the weekend — Google Maps 4.4★ (662).
 
 **Getting there:** L4/L5 from Jaume I to El Clot (~20 min). Carrer de la Sèquia Comtal 7.
@@ -838,7 +895,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [casapepirestaurant.com](https://casapepirestaurant.com/), [barcelonainspira.net — calçotades 2026-27](https://barcelonainspira.net/ca/blog/on-menjar-calcots-barcelona), Google Maps listing (checked 2026-11-12)
 
-### 5.11 Antic Pitarra — Raval institution (since 1934)
+### 5.16 Antic Pitarra — Raval institution (since 1934)
 **What:** Tiny historic tavern on a Gothic lane: bravas, anchovies, fried fish, vermouth, house wine. Opens 11:00, busy at lunch and late evening — Google Maps 4.8★ (5,095).
 
 **Getting there:** 7 min walk from the hotel (Carrer de la Cera 7).
@@ -849,7 +906,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (checked 2026-11-12)
 
-### 5.12 Mercat de la Boqueria — the famous one; go 8:00–9:30 (**closed Sun & 1 Jan**)
+### 5.17 Mercat de la Boqueria — the famous one; go 8:00–9:30 (**closed Sun & 1 Jan**)
 **What:** 300+ stalls under the iron roof; breakfast-at-the-counter bars inside (Pinotxo: fried eggs, fresh juice; oysters & cava). Touristy by midday — go early — Google Maps 4.5★ (218,679).
 
 **Getting there:** 10 min walk from the hotel (La Rambla 91).
@@ -860,7 +917,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [boqueria.barcelona](https://www.boqueria.barcelona/), Google Maps listing (hours checked 2026-11-12)
 
-### 5.13 Mercat de Sant Antoni — local market + Sunday book market
+### 5.18 Mercat de Sant Antoni — local market + Sunday book market
 **What:** 1882 iron-and-glass market, the neighbourhood's daily market; on **Sundays** the food hall closes but the outdoor book/collectibles market (Carrer de Tamarit side) is the thing — browse Sunday morning — Google Maps 4.4★ (39,071).
 
 **Getting there:** 17 min by metro from Jaume I (L4→L2, Sant Antoni), or 23 min walk (1.6 km). Carrer del Comte d'Urgell 1.
@@ -871,7 +928,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** [mercatdesantantoni.com](https://www.mercatdesantantoni.com/), [barcelona.cat — Sant Antoni Sunday market](https://www.barcelona.cat/en/que-hacer-en-bcn/verano/detall/cada-diumenge-apropa-t-a-sant-antoni-99400322549), Google Maps (checked 2026-11-12)
 
-### 5.14 Mercat de Santa Caterina — El Born market with rooftop
+### 5.19 Mercat de Santa Caterina — El Born market with rooftop
 **What:** Colourful wavy roof market in El Born; fewer tourists than Boqueria; counter bars for breakfast/lunch — Google Maps 4.4★ (18,555).
 
 **Getting there:** 12 min walk from the hotel (Carrer de Francesc Cambó 16).
@@ -882,7 +939,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (hours checked 2026-11-12)
 
-### 5.15 Mercat de la Concepció — Gràcia's market
+### 5.20 Mercat de la Concepció — Gràcia's market
 **What:** Gràcia's neighbourhood market (Modernist roof), with cafés around Plaça de la Llibertat — Google Maps 4.4★ (4,741).
 
 **Getting there:** L4 from Jaume I to Lesseps + 5 min walk (~20 min). Carrer d'Aragó 313.
@@ -893,7 +950,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (hours checked 2026-11-12)
 
-### 5.16 Cava (xampany) from Penedès — drink local, visit the source (§2.2)
+### 5.21 Cava (xampany) from Penedès — drink local, visit the source (§2.2)
 **What:** Cava is Catalonia's sparkling wine, 95% made in Penedès. In the city, drink it at any bodega above (Can Paixano, El Xampanyet) or buy a good bottle (brut nature or Corpinnat, €10–20) at a local shop instead of tourist bars. NYE tradition: **12 grapes + cava at midnight** — cellar visitor centres on Maps: Freixenet 4.5★ (1,173), Codorníu 4.5★ (1,852).
 
 **Getting there:** any bodega; day trip §2.2 for the cellars (Sant Sadurní station pin).
@@ -905,61 +962,6 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 **Source:** [dopenedes.cat](https://www.dopenedes.cat/), [freixenet.com](https://freixenet.com/es/en/visit/freixenet-tour/)
 
 ---
-
-### 5.17 Carmina — Italian-Mediterranean local tip, 2 min walk (Carrer de Ferran)
-**What:** Italian-Mediterranean restaurant round the corner from the hotel. 4.6★ (7,705). **Local tip (Gonzalo):** *"My brother is telling me few more restaurants around your area: Carmina, Bar Lobo, Cañete, Bar Muy Buenas — Carmina is Italian Mediterranean, the other three are more Spanish traditional."*
-
-**Getting there:** 2 min walk (Carrer de Jaume I → Carrer de Ferran).
-
-**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm before going, esp. Fri 1 Jan.
-
-**Links:** [Google Maps](https://www.google.com/maps/place/Carmina/data=!4m7!3m6!1s0x12a4a319c33535d7:0xcbb5fb7f60a644e4!8m2!3d41.3837792!4d2.1800544) · [geo:](geo:41.3837792,2.1800544) — Carrer de Ferran entrance
-
-**Source:** Google Maps listing (checked 2026-11-23), [carminarestaurante.com](https://carminarestaurante.com/)
-
-### 5.18 Bar Lobo — Tragaluz tapas bar, 8 min walk (Carrer dels Escudellers)
-**What:** Tapas bar of the Tragaluz group — raciones, bravas, vermouth, lively but local. 4.6★ (13,428). **Local tip (Gonzalo):** *"…Bar Lobo… around your area… more Spanish traditional."* (same message as §5.17)
-
-**Getting there:** 8 min walk (towards Carrer dels Escudellers / El Born edge).
-
-**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm, esp. Fri 1 Jan; reservations via the Tragaluz site.
-
-**Links:** [Google Maps](https://www.google.com/maps/place/Bar+Lobo/data=!4m7!3m6!1s0x12a4a2f68991e5a5:0xa248a773ea1adb86!8m2!3d41.383362!4d2.1706141) · [geo:](geo:41.383362,2.1706141) — Carrer dels Escudellers entrance
-
-**Source:** Google Maps listing (checked 2026-11-23), [grupotragaluz.com — Bar Lobo](https://grupotragaluz.com/reserva/bar-lobo/)
-
-### 5.19 Bar Muy Buenas — Spanish-traditional bar, 11 min walk (near Carrer del Carme)
-**What:** Traditional neighbourhood bar — tapas, montaditos, house wine. 4.5★ (2,870). **Local tip (Gonzalo):** *"…Bar Muy Buenas… around your area… more Spanish traditional."* (same message as §5.17)
-
-**Getting there:** 11 min walk (Via Laietana → Carrer del Carme area).
-
-**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm, esp. Fri 1 Jan.
-
-**Links:** [Google Maps](https://www.google.com/maps/place/Bar+Muy+Buenas/data=!4m7!3m6!1s0x12a4a2f5898d8413:0x5057df6ea56e19f4!8m2!3d41.3809402!4d2.1680507) · [geo:](geo:41.3809402,2.1680507) — Carrer del Carme entrance
-
-**Source:** Google Maps listing (checked 2026-11-23), [muybuenas.cat](http://www.muybuenas.cat/)
-
-### 5.20 Vinitus — vermutería & tapas near Rambla de Catalunya, 17 min walk
-**What:** Vermutería/tapas bar in the Rambla de Catalunya area — vermouth, anchovies, montaditos, and (per the local tip) an unmissable torrija. 4.6★ (1,285). **Local tip (Gonzalo):** *"And Vinitus (also very yummy)… If you go here, get the Torrija for desert, Julia's favorite, 100% worth it."* — and *"Both get lines cause the area is very touristic but Barcelona people go a lot also there. My mum always goes with her friends — and my dad too."* Also: *"They are in the area of Rambla Catalunya. You can walk from your place, it's a nice walk. Go kind of early cause the lines are big."*
-
-**Getting there:** ~17 min walk down Passeig de Gràcia / Rambla de Catalunya (Carrer de la Diputació corner).
-
-**Winter caveats:** weekly hours not captured on Maps (rate-limited 2026-11-23) — confirm; expect queues, go early. 1 Jan not published.
-
-**Links:** [Google Maps](https://www.google.com/maps/place/Vinitus/data=!4m7!3m6!1s0x4067b942af0275dd:0x94800aa00ab5aa6c!8m2!3d41.3900261!4d2.1640484) · [geo:](geo:41.3900261,2.1640484) — entrance by Pg. de Gràcia / Diputació
-
-**Source:** Google Maps listing (checked 2026-11-23)
-
-### 5.21 Cerveceria Catalana — iconic tapas house, 22 min walk (Carrer de Mallorca 236)
-**What:** Barcelona's most famous tapas bar (La FlauTa group) — bravas, croquetas, raziones, sherry; bar seating, bustling. 4.5★ (25,351). **Local tip (Gonzalo):** *"If you want tapas, etc, go to Cerveceria Catalana (reaaaaally good tapas)"* — and *"Go kind of early cause the lines are big"*; *"They are in the area of Rambla Catalunya. You can walk from your place, it's a nice walk."*
-
-**Getting there:** ~22 min walk down Pg. de Gràcia (Carrer de Mallorca 236), or L4 to Pg. de Gràcia + 6 min walk.
-
-**Winter caveats:** typically open daily from ~12:00 to ~01:00, but weekly hours not re-captured on Maps 2026-11-23 — confirm; go early (big lines). 1 Jan not published.
-
-**Links:** [Google Maps](https://www.google.com/maps/place/Cerveceria+Catalana/data=!4m7!3m6!1s0x12a4a2923edb80d7:0x6d15b4af8fdb373a!8m2!3d41.3923251!4d2.1608515) · [geo:](geo:41.3923251,2.1608515) — Carrer de Mallorca 236 entrance
-
-**Source:** Google Maps listing (checked 2026-11-23), [laflautagroup.com](https://www.laflautagroup.com/)
 
 ## 6. Transport & tickets (all measured from Hotel Gótico)
 
@@ -986,7 +988,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 - **Forn Boix weekday hours** — Maps weekly hours not captured; forns typically open 7:00–8:00 weekdays. (Forns del Pi verified 7:00–21:00 daily.)
 - **Extra breakfast candidates whose Maps place pages would not load for hour extraction** (checked via search snippets only, not in §3): Haití Bar (Jaume I 3, opens ~7:30), Charcha (Avinyó 24, opens ~8:00), Caravelle (Pintor Fortuny 31, Melbourne-style brunch), Colibri Brunch (Barceloneta), Bloome by Sasha (Via Laietana 45, queues), Satan's Coffee Corner (Arc de Sant Ramon del Call 11, listings conflict 8:00 vs 9:00, closed Tue). Bo de B (Fusteria 14) opens ~12:00 — not a breakfast option, excluded.
 - **§4.7 El Bandoler, §4.8 Gourmet Sensi, §4.10 Petit Tapas weekly hours** — Maps place pages did not expose the weekly hours table; opening ~17:00–18:00 per the listing snippet. Confirm before relying, esp. 1 Jan.
-- **Vinitus (§5.20), Cerveceria Catalana (§5.21), Carmina (§5.17), Bar Lobo (§5.18), Bar Muy Buenas (§5.19) weekly hours** — Maps place pages were rate-limited on 2026-11-23; rating/reviews/address/pin captured, hours not (Cerveceria Catalana typically 12:00–01:00 daily). Confirm each venue on Maps or their site, esp. Fri 1 Jan.
+- **Vinitus (§5.5), Cerveceria Catalana (§5.6), Carmina (§5.1), Bar Lobo (§5.2), Bar Muy Buenas (§5.4) weekly hours** — Maps place pages were rate-limited on 2026-11-23; rating/reviews/address/pin captured, hours not (Cerveceria Catalana typically 12:00–01:00 daily). Confirm each venue on Maps or their site, esp. Fri 1 Jan.
 - **Ratings/reviews** are Google Maps values captured 2026-11-12 (new local-tip entries captured 2026-11-23). Coordinates are Google Maps pins for the entrance/POI, captured 2026-11-12.
 
 ---
@@ -995,17 +997,17 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 Each day: one main destination; return to the hotel base in the evening. Times and travel durations are from Hotel Gótico, Carrer de Jaume I 14. All ★ bookings are confirmed: **Sagrada Família Thu 31 Dec 12:15** (§1.9) · **Casa Batlló Thu 31 Dec 16:00** (§1.6) · **Park Güell Fri 1 Jan 13:30** (§1.11).
 
-### I1. Tue 29 Dec — arrive & settle: Gothic Quarter, El Born, Nadal al Port Vell (§1.1, §1.2, §1.4, §5.4) [View on map](map.html?i=I1)
-Land **17:05**. L9 Sud from the airport to Paral·lel (~35 min, separate €5.90 ticket — T-casual not valid) + L3 to Liceu (3 min walk to the hotel), or Aerobus to Plaça de Catalunya (12 min walk) — at the hotel by **~18:30**; check-in from 15:00. Evening walk: Gothic Quarter + Santa Maria del Mar (§1.1, §1.2 — 5–6 min walk, atmospheric after dark), then down Via Laietana (11 min walk) to **Nadal al Port Vell** (§1.4, open until 23:00) for the lights. Dinner: **El Xampanyet** (§5.4, 6 min walk — cava & tapas, Thu 19:00–23:00) at ~20:00. Tapas alternative (local tip): **Cerveceria Catalana** or **Vinitus** near Rambla de Catalunya (§5.21, §5.20 — ~20 min walk down Pg. de Gràcia; go early, the lines are big). Plaça del Pi (**Bar Mono** §3.21, 4 min walk) is a pleasant evening stroll. Overnight at base.
+### I1. Tue 29 Dec — arrive & settle: Gothic Quarter, El Born, Nadal al Port Vell (§1.1, §1.2, §1.4, §5.9) [View on map](map.html?i=I1)
+Land **17:05**. L9 Sud from the airport to Paral·lel (~35 min, separate €5.90 ticket — T-casual not valid) + L3 to Liceu (3 min walk to the hotel), or Aerobus to Plaça de Catalunya (12 min walk) — at the hotel by **~18:30**; check-in from 15:00. Evening walk: Gothic Quarter + Santa Maria del Mar (§1.1, §1.2 — 5–6 min walk, atmospheric after dark), then down Via Laietana (11 min walk) to **Nadal al Port Vell** (§1.4, open until 23:00) for the lights. Dinner: **El Xampanyet** (§5.9, 6 min walk — cava & tapas, Thu 19:00–23:00) at ~20:00. Tapas alternative (local tip): **Cerveceria Catalana** or **Vinitus** near Rambla de Catalunya (§5.6, §5.5 — ~20 min walk down Pg. de Gràcia; go early, the lines are big). Plaça del Pi (**Bar Mono** §3.1, 4 min walk) is a pleasant evening stroll. Overnight at base.
 
 ### I2. Wed 30 Dec — Montserrat day trip, weekday-quiet (§2.4) [View on map](map.html?i=I2)
-L3 from Liceu (3 min walk) to Plaça d'Espanya — 19 min total; FGC R5 + Cremallera or Aeri, **~1 h 25 min each way**: leave by 9:00, up at the monastery ~10:30. Escolania choir 13:00 (Mon–Fri); monastery + museum entry ★ booked (€18). Back in Barcelona by ~16:30. Late afternoon: free Passeig de Gràcia façade walk (§1.7, L4 10 min). Dinner: **Bar Cañete** (§5.1, 9 min walk, ★ booked) or **Bar Calders** (§4.2, opens 17:00 Wed). Lighter alternative if you prefer a short leg: **Girona** (§2.1, AVE ~40 min from Sants, 18 min from the hotel). Overnight at base.
+L3 from Liceu (3 min walk) to Plaça d'Espanya — 19 min total; FGC R5 + Cremallera or Aeri, **~1 h 25 min each way**: leave by 9:00, up at the monastery ~10:30. Escolania choir 13:00 (Mon–Fri); monastery + museum entry ★ booked (€18). Back in Barcelona by ~16:30. Late afternoon: free Passeig de Gràcia façade walk (§1.7, L4 10 min). Dinner: **Bar Cañete** (§5.3, 9 min walk, ★ booked) or **Bar Calders** (§4.2, opens 17:00 Wed). Lighter alternative if you prefer a short leg: **Girona** (§2.1, AVE ~40 min from Sants, 18 min from the hotel). Overnight at base.
 
 ### I3. Thu 31 Dec — booked Gaudí day + quiet local NYE (§1.10, §1.9, §1.6) [View on map](map.html?i=I3)
-Late morning: **Sant Pau** (§1.10, 22 min by L4+bus, ★ booked, 9:30–17:00), then a 10 min walk to the basilica. **Sagrada Família 12:15** (§1.9, ★ booked) — ~1.5 h visit; lunch nearby. **Casa Batlló 16:00** (§1.6, ★ booked; L4 direct, 10 min from the hotel) — ~1 h, done by ~17:15. Cursa dels Nassos street closures ~16:00–20:00 near Poblenou/Port Vell — stay in Ciutat Vella/Eixample. NYE: your booked fixed-price dinner, or eat early — **do not go to Plaça Espanya/Magic Fountain** (100k crowd, 19 min on L3); 12 grapes + cava at midnight on your own street (§5.16). Metro runs all night. Overnight at base.
+Late morning: **Sant Pau** (§1.10, 22 min by L4+bus, ★ booked, 9:30–17:00), then a 10 min walk to the basilica. **Sagrada Família 12:15** (§1.9, ★ booked) — ~1.5 h visit; lunch nearby. **Casa Batlló 16:00** (§1.6, ★ booked; L4 direct, 10 min from the hotel) — ~1 h, done by ~17:15. Cursa dels Nassos street closures ~16:00–20:00 near Poblenou/Port Vell — stay in Ciutat Vella/Eixample. NYE: your booked fixed-price dinner, or eat early — **do not go to Plaça Espanya/Magic Fountain** (100k crowd, 19 min on L3); 12 grapes + cava at midnight on your own street (§5.21). Metro runs all night. Overnight at base.
 
 ### I4. Fri 1 Jan — holiday-quiet day: Park Güell 13:30 + beach & port lights (§1.11, §1.5, §1.4) [View on map](map.html?i=I4)
-Shops, most restaurants and museums closed (Sagrada Família 9:00–14:00 only; Boqueria closed) — breakfast at a forn (**Forns del Pi** §3.1, open 7:00–21:00) and stock up on 31 Dec. **Park Güell 13:30** (§1.11, ★ booked; 29 min from the hotel — leave ~12:55) — ~1.5 h in the Monumental Zone. Afternoon: Barceloneta beach walk (§1.5, 9 min walk) + **Nadal al Port Vell** (§1.4, open 11:00–23:00, 11 min walk). Optional: Palau de la Música **New Year concert 21:00** (§1.3) if you booked it. Dinner on 1 Jan: **ELDISET** (§4.15, 19:00–01:30 daily) or **el SET** (§4.12, 19:00–23:45) — confirm the 1 Jan exception on Maps first. Metro 5:00–24:00. Overnight at base.
+Shops, most restaurants and museums closed (Sagrada Família 9:00–14:00 only; Boqueria closed) — breakfast at a forn (**Forns del Pi** §3.2, open 7:00–21:00) and stock up on 31 Dec. **Park Güell 13:30** (§1.11, ★ booked; 29 min from the hotel — leave ~12:55) — ~1.5 h in the Monumental Zone. Afternoon: Barceloneta beach walk (§1.5, 9 min walk) + **Nadal al Port Vell** (§1.4, open 11:00–23:00, 11 min walk). Optional: Palau de la Música **New Year concert 21:00** (§1.3) if you booked it. Dinner on 1 Jan: **ELDISET** (§4.15, 19:00–01:30 daily) or **el SET** (§4.12, 19:00–23:45) — confirm the 1 Jan exception on Maps first. Metro 5:00–24:00. Overnight at base.
 
-### I5. Sat 2 Jan — departure day: market morning, then the airport (§5.12, §1.20, §1.7) [View on map](map.html?i=I5)
-Check out by 12:00 — luggage stored at the hotel. Morning (markets are open Saturdays): **La Boqueria** (§5.12, 10 min walk, 8:00–20:30 — go before 9:30) and the **Fira de Reis** (§1.20, Gran Via, open until 6 Jan); add the Passeig de Gràcia façades (§1.7, L4 10 min) if you missed them. Lunch near the hotel by ~13:30: **Bar Cañete** (§5.1, Sat 12:30–15:30) or **Cal Pep** (§5.2, Sat from 13:15 — barra is walk-in). Flight **17:50**: leave the hotel by **~15:15** — L3 from Liceu to Paral·lel + **L9 Sud to the airport** (~35 min ride, separate €5.90 ticket — T-casual not valid), or **Aerobus** from Plaça de Catalunya (12 min walk); at the terminal ~16:00, about 1 h 50 min before departure.
+### I5. Sat 2 Jan — departure day: market morning, then the airport (§5.17, §1.20, §1.7) [View on map](map.html?i=I5)
+Check out by 12:00 — luggage stored at the hotel. Morning (markets are open Saturdays): **La Boqueria** (§5.17, 10 min walk, 8:00–20:30 — go before 9:30) and the **Fira de Reis** (§1.20, Gran Via, open until 6 Jan); add the Passeig de Gràcia façades (§1.7, L4 10 min) if you missed them. Lunch near the hotel by ~13:30: **Bar Cañete** (§5.3, Sat 12:30–15:30) or **Cal Pep** (§5.7, Sat from 13:15 — barra is walk-in). Flight **17:50**: leave the hotel by **~15:15** — L3 from Liceu to Paral·lel + **L9 Sud to the airport** (~35 min ride, separate €5.90 ticket — T-casual not valid), or **Aerobus** from Plaça de Catalunya (12 min walk); at the terminal ~16:00, about 1 h 50 min before departure.
