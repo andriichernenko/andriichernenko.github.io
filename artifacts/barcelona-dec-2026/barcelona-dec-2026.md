@@ -1,6 +1,6 @@
 # Barcelona by public transport — New Year 2026/27 (Tue 29 Dec – Sat 2 Jan, departing)
 
-Two travellers, first visit, based at **Hotel Gótico, Carrer de Jaume I 14, Ciutat Vella** (check-in 15:00 / check-out 12:00). Flights: land Tue 29 Dec **17:05**, depart Sat 2 Jan **17:50**. No car — everything on foot, metro, FGC and Rodalies trains. Crowd-averse: first-slot tickets on weekdays, and New Year's Eve kept local instead of the Plaça Espanya mega-crowd. Food and drink are local bars, markets and bodegas — no international chains, and no generic tourist-brunch spots (pancakes, avocado toast, matcha lattes, Belgian waffles) unless that food is itself local to the region. All locations on one map: [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml). Opening hours and event dates verified **2026-11-12** against official sites and Google Maps; anything not verifiable is listed at the end. All advance bookings are already made — entries marked ★ are booked (confirmed slots: **Sagrada Família Thu 31 Dec 12:15** · **Casa Batlló Thu 31 Dec 16:00** · **Park Güell Fri 1 Jan 13:30**). Entries with a **Local tip (Gonzalo)** quote are recommendations from a Barcelona local (WhatsApp screenshots, 2026-11-23).
+Two travellers, first visit, based at **Hotel Gótico, Carrer de Jaume I 14, Ciutat Vella** (check-in 15:00 / check-out 12:00). Flights: land Tue 29 Dec **17:05**, depart Sat 2 Jan **17:50**. No car — everything on foot, metro, FGC and Rodalies trains. Crowd-averse: first-slot tickets on weekdays, and New Year's Eve kept local instead of the Plaça Espanya mega-crowd. Food and drink are local bars, markets and bodegas. All locations on one map: [interactive map](map.html) · [KML file for Google My Maps / Google Earth](locations.kml). Opening hours and event dates verified **2026-11-12** against official sites and Google Maps; anything not verifiable is listed at the end. All advance bookings are already made — entries marked ★ are booked (confirmed slots: **Sagrada Família Thu 31 Dec 12:15** · **Casa Batlló Thu 31 Dec 16:00** · **Park Güell Fri 1 Jan 13:30**). Entries with a **Local tip (Gonzalo)** quote are recommendations from a Barcelona local (WhatsApp screenshots, 2026-11-23).
 
 <!--DAYLIGHT-->
 
@@ -319,7 +319,7 @@ All trains leave from **Barcelona-Sants** (18 min from the hotel: L3 from Liceu,
 
 ## 3. Breakfast near the base (opens by 09:00)
 
-Suggested by Gonzalo first (§3.1), then the rest sorted by walk time — all within a 15-min walk of Hotel Gótico. Weekly hours verified on Google Maps **2026-11-12**. **Sundays:** several places close — not an issue, you leave on Sat 2 Jan. **Fri 1 Jan (public holiday):** forns/bakeries normally open, but cafés and bars often close — confirm the evening before. Ratings/reviews are Google Maps values captured 2026-11-12. No chains and no generic brunch cafés (pancakes / avocado toast / matcha) — all local forns, bars and roasters.
+Suggested by Gonzalo first (§3.1), then the rest sorted by walk time — all within a 15-min walk of Hotel Gótico. Weekly hours verified on Google Maps **2026-11-12**. **Sundays:** several places close — not an issue, you leave on Sat 2 Jan. **Fri 1 Jan (public holiday):** forns/bakeries normally open, but cafés and bars often close — confirm the evening before. Ratings/reviews are Google Maps values captured 2026-11-12. All local forns, bars and roasters.
 
 ### 3.1 Bar Mono — Plaça del Pi bar-restaurant, 4 min walk (opens 8:30 daily) — suggested by Gonzalo
 **What:** Neighbourhood bar-restaurant on Plaça del Pi — coffee and breakfast from 8:30, tapas and dinner in the evening. 4.1★ (2,969). **Local tip (Gonzalo):** *"There is a restaurant that my brother goes a lot with his wife in that area: Bar Mono. In plaça del pi. That area is quite nice to walk also."*
@@ -704,7 +704,7 @@ Weekly hours verified on Google Maps **2026-11-12**; ratings are Maps values cap
 
 **Source:** Google Maps listing (weekly hours checked 2026-11-12), [eldiset.com](https://eldiset.com/)
 
-## 5. Other food & drink — vermut, tapas, markets, calçotada, cava (local, no chains)
+## 5. Other food & drink — vermut, tapas, markets, calçotada, cava
 Suggested by Gonzalo first (§5.1–§5.6), then the rest of the local food & drink.
 
 
@@ -964,7 +964,7 @@ Suggested by Gonzalo first (§5.1–§5.6), then the rest of the local food & dr
 - **Nadal al Port Vell 2026–27 programme details** (dates 27 Nov–6 Jan, 11:00–23:00 confirmed by Port de Barcelona / Museu Marítim; activity schedule on nadalalportvell.com).
 - **1 Jan (Fri, holiday) hours for the §3 breakfast cafés/bars** — weekly hours verified, but holiday exceptions are not published; forns/bakeries normally open on 1 Jan, cafés & bars often close. Confirm each venue the evening before (Maps often shows holiday hours only on the day).
 - **Forn Boix weekday hours** — Maps weekly hours not captured; forns typically open 7:00–8:00 weekdays. (Forns del Pi verified 7:00–21:00 daily.)
-- **Extra breakfast candidates whose Maps place pages would not load for hour extraction** (checked via search snippets only, not in §3): Haití Bar (Jaume I 3, opens ~7:30), Charcha (Avinyó 24, opens ~8:00), Caravelle (Pintor Fortuny 31, Melbourne-style brunch), Colibri Brunch (Barceloneta), Bloome by Sasha (Via Laietana 45, queues), Satan's Coffee Corner (Arc de Sant Ramon del Call 11, listings conflict 8:00 vs 9:00, closed Tue). Bo de B (Fusteria 14) opens ~12:00 — not a breakfast option, excluded. Caravelle, Colibri Brunch and Bloome by Sasha are Instagram-style generic brunch spots — deliberately excluded per the no-generic-brunch rule (as are A Little Bud and Noor Brunch, removed from §3 on that basis).
+- **Extra breakfast candidates whose Maps place pages would not load for hour extraction** (checked via search snippets only, not in §3): Haití Bar (Jaume I 3, opens ~7:30), Charcha (Avinyó 24, opens ~8:00), Caravelle (Pintor Fortuny 31, Melbourne-style brunch), Colibri Brunch (Barceloneta), Bloome by Sasha (Via Laietana 45, queues), Satan's Coffee Corner (Arc de Sant Ramon del Call 11, listings conflict 8:00 vs 9:00, closed Tue). Bo de B (Fusteria 14) opens ~12:00 — not a breakfast option, excluded.
 - **§4.7 El Bandoler, §4.8 Gourmet Sensi, §4.10 Petit Tapas weekly hours** — Maps place pages did not expose the weekly hours table; opening ~17:00–18:00 per the listing snippet. Confirm before relying, esp. 1 Jan.
 - **Vinitus (§5.5), Cerveceria Catalana (§5.6), Carmina (§5.1), Bar Lobo (§5.2), Bar Muy Buenas (§5.4) weekly hours** — Maps place pages were rate-limited on 2026-11-23; rating/reviews/address/pin captured, hours not (Cerveceria Catalana typically 12:00–01:00 daily). Confirm each venue on Maps or their site, esp. Fri 1 Jan.
 - **Ratings/reviews** are Google Maps values captured 2026-11-12 (new local-tip entries captured 2026-11-23). Coordinates are Google Maps pins for the entrance/POI, captured 2026-11-12.
